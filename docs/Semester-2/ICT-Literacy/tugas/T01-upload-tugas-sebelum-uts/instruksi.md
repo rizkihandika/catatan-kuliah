@@ -1,62 +1,72 @@
-# T01 — Upload Tugas Sebelum UTS (ICT Literacy): Analisis Peran ICT di Berbagai Sektor
+# T01 — Upload Tugas Sebelum UTS (ICT Literacy): Makalah Implementasi ICT Literacy di Bidang Pekerjaan
 
 - **Tenggat**: 2026-11-30 10:19 WIB. **Tidak boleh telat** (`allowLateSubmission: false`).
 - **Status**: belum dikumpulkan (cek Edlink 2026-11-25).
-- **Sumber**:
-  - Post upload: Edlink `9365500` (Sesi 6, deskripsinya kosong).
-  - **Instruksi ditemukan di post P03 `9084989`** "Analisis ICT di berbagai sektor". Dosen menulis: *"dapat digunakan sebagai rekomendasi tugas sebelum UTS dikumpulkan di sesi 6"*.
-  - File: [`../../materi/Analisis ICT di berbagai Sektor.pdf`](../../materi/Analisis%20ICT%20di%20berbagai%20Sektor.pdf). Halaman 1 berupa infografis, halaman 2 berisi instruksi.
-- **Jenis**: tugas individu, narasi analisis. Format file tidak disebut; PDF paling aman.
+- **Post upload**: Edlink `9365500` (Sesi 6). Deskripsinya **kosong** (dicek 2026-11-25).
+- **Bobot**: Tugas 1 = **15%** · UTS 30% · Tugas 2 15% · UAS 30% · sikap 10%.
+- **Individu atau kelompok**: boleh dua-duanya.
 
-> ⚠️ Instruksi ini **disimpulkan** dari post P03 karena post upload-nya kosong. Kalau sempat, konfirmasi ke dosen atau grup WA ICT bahwa tugas sebelum UTS memang ini.
+## ✅ Instruksi yang berlaku (grup WA kelas, 2026-11-19, setelah vicon Sesi 5 tanggal 11-18)
 
-### Info tambahan dari video (transkrip)
-- **Bobot**: Tugas 1 = **15%** nilai akhir (UTS 30%, Tugas 2 15%, UAS 30%, sikap 10%). Sumber: video "Pendahuluan (Minggu 1)" & slide Sesi 1.
-- Menurut RPS umum MKU di video P01 (dosen pengembang Cian R. H.), Tugas 1 seharusnya berupa **proposal rencana proyek/karya**, lalu UTS = progres 40%, Tugas 2 = 60%, UAS = 100% + presentasi. Tapi tutor kelas kita (Bu Fauziah) justru menunjuk **analisis ICT di berbagai sektor** sebagai tugas sebelum UTS. **Ikuti instruksi tutor**. Kalau ragu, tanyakan di grup WA apakah tugas ini juga perlu berbentuk proposal proyek.
-- Bahan isi yang berguna dari video Sesi III (Bu Fesa): manfaat TIK per sektor (telekomunikasi, pendidikan, publik, kesehatan, pertanian), contoh Jepang yang memakai TIK untuk isu sosial (*aging society*, kesehatan, administrasi, pendidikan, energi), dan data IMD 2023 (daya saing Indonesia peringkat 34/64). Ringkasannya ada di bagian P03 [ringkasan matkul](../../catatan/00-ringkasan-matkul.md).
+Info ini **menggantikan** dugaan lama ("analisis narasi ICT di 1 sektor").
 
-## Instruksi (dari PDF hal. 2, diringkas)
-Buat **analisis berbentuk narasi** tentang **satu sektor** pilihan: kesehatan, pendidikan, bisnis & ekonomi, pemerintahan, transportasi, pertanian, industri, atau lingkungan. Isinya harus mencakup:
-1. **Permasalahan** yang terjadi di sektor tersebut.
-2. **Teknologi ICT** yang bisa diterapkan untuk mengatasinya.
-3. **Manfaat** penerapan teknologi itu.
-4. **Tantangan & risiko** yang mungkin muncul.
-5. **Solusi/rekomendasi** agar pemanfaatan ICT efektif, aman, dan berkelanjutan.
+**Tema:** sebuah **makalah** tentang **implementasi ICT Literacy guna mendukung bidang pekerjaan**, sesuai *background* pekerjaan masing-masing. Makalah ini **berkesinambungan**: satu makalah yang sama dikembangkan dari Tugas 1 → UTS → Tugas 2 → UAS.
 
-Ditulis dengan **bahasa sendiri** dan disertai **contoh penerapan ICT di kehidupan nyata**.
+| Tahap | Kapan | Isi |
+|---|---|---|
+| **Tugas 1** | dikumpulkan **Sesi 6** → tenggat 2026-11-30 10:19 | Makalah tahap awal (lihat ❓ di bawah soal cakupan) |
+| **UTS** | ≈ Sesi 8 (2026-12-09) | Makalah **Bab 1–3** (sampai **metode**) + **PPT** + **video paparan** diunggah ke YouTube (*private*), lalu kumpulkan link-nya |
+| **Tugas 2** | dikumpulkan **Sesi 14** (≈ 2027-01-20) | Makalah dilanjutkan **sampai pembahasan** |
+| **UAS** | ≈ Sesi 16 (2027-02-03) | Makalah **Bab 4–5** (pembahasan + penutup) + **PPT** + **video paparan** |
 
-## Infografis hal. 1 (ide per sektor)
-| Sektor | Contoh ICT |
-|---|---|
-| Kesehatan | telemedicine, rekam medis elektronik, monitoring pasien real-time |
-| Pendidikan | e-learning, sumber belajar digital, pengembangan kompetensi |
-| Bisnis & Ekonomi | digitalisasi bisnis, e-commerce, analitik data untuk keputusan |
-| Pemerintahan | layanan publik digital, transparansi & akuntabilitas, smart governance |
-| Transportasi | sistem transportasi cerdas, info real-time (rute, lalu lintas), pembayaran digital |
-| Pertanian | pertanian presisi (sensor & IoT), info cuaca & harga, produktivitas |
-| Industri | otomatisasi produksi, smart factory, efisiensi energi & kualitas |
-| Lingkungan | pemantauan kualitas lingkungan, pengelolaan SDA, aksi perubahan iklim |
+- **Referensi: minimal 10, maksimal 20.**
+- **Contoh makalah** (dari dosen, "hanya contoh utk tugas 1"): [Analisis Kemampuan ICT Literacy Terhadap Hasil Belajar Materi Tata Surya Pada Siswa SMPN 4 Sungguminasa (ResearchGate)](https://www.researchgate.net/publication/383420374_Analisis_Kemampuan_ICT_Literacy_Terhadap_Hasil_Belajar_Materi_Tata_Surya_Pada_Siswa_SMPN_4_Sungguminasa). Contoh ini artikel ilmiah/jurnal, jadi gaya penulisannya akademik.
 
-## Kerangka (isi sendiri, jangan disalin dari AI)
-1. **Pendahuluan**: sektor yang dipilih dan alasannya.
-2. **Permasalahan**: 2–3 masalah nyata, sebaiknya dengan data atau berita.
-3. **Teknologi ICT yang diterapkan**: jelaskan cara kerjanya secara sederhana.
-4. **Contoh penerapan nyata**: aplikasi atau program yang sudah ada di Indonesia/dunia.
-5. **Manfaat**.
-6. **Tantangan & risiko**: keamanan data/privasi, kesenjangan digital, biaya, SDM.
-7. **Solusi/rekomendasi**.
-8. **Kesimpulan** dan **daftar pustaka**.
+### ❓ Yang masih ambigu (konfirmasi di grup WA)
+- [ ] **Cakupan Tugas 1.** Pesan WA bilang "UTS hanya sampai metode", tapi tidak menyebut cakupan Tugas 1. Pesan itu juga menulis "Tugas 2 dikumpulkan sesi 6", padahal kalimat berikutnya bilang Tugas 2 di sesi 14. Kemungkinan besar maksudnya **Tugas 1** yang dikumpulkan sesi 6. **Paling aman: kumpulkan draf Bab 1–3** (minimal Bab 1 + kerangka Bab 2–3), karena toh dipakai lagi untuk UTS.
+- [ ] **"YouTube private"**: video *private* tidak bisa ditonton dosen kecuali diundang lewat email. Tanyakan apakah maksudnya **unlisted** (tidak muncul di pencarian, tapi bisa dibuka lewat link). Unlisted lebih masuk akal.
+- [ ] **Kelompok**: kalau berkelompok, berapa orang maksimal, dan apakah tiap anggota upload sendiri?
+- [ ] Bidang pekerjaan: kalau belum bekerja, boleh pakai bidang kerja yang dicita-citakan atau magang?
 
-## Materi pendukung
-- `../../materi/Modul ICT Literacy_03_Penerapan TIK di Berbagai Sektor.pdf`: piramida TIK, sektor telekomunikasi, pertanian.
-- `../../materi/Modul ICT Literacy_02_Penerapan TIK di Masyarakat.pdf`: telekomunikasi, bisnis, pendidikan, kesehatan, perbankan.
-- Ringkasan matkul: [../../catatan/00-ringkasan-matkul.md](../../catatan/00-ringkasan-matkul.md)
+## Struktur makalah (umum, sesuaikan dengan contoh dosen)
+**Tugas 1 / UTS (Bab 1–3)**
+1. **Halaman judul**: judul, nama, NIM, kelas IF102, matkul, UNSIA, 2026. Kalau berkelompok, tulis semua anggota.
+2. **Abstrak** (opsional di tahap ini)
+3. **Bab 1 — Pendahuluan**: latar belakang (kondisi ICT di bidang kerjamu dan masalahnya), rumusan masalah, tujuan, manfaat.
+4. **Bab 2 — Tinjauan pustaka / landasan teori**: definisi ICT literacy (komponen *access, manage, integrate, evaluate, create*), teori yang relevan dengan bidang kerja, dan penelitian terdahulu (di sinilah sebagian besar dari 10–20 referensi dipakai).
+5. **Bab 3 — Metode**: pendekatan (mis. kualitatif deskriptif/studi kasus di tempat kerja, observasi, wawancara, kuesioner sederhana, studi literatur), objek/lokasi, teknik pengumpulan & analisis data.
+6. **Daftar pustaka**: 10–20 sumber, utamakan jurnal (Google Scholar, Garuda, SINTA). Pakai satu gaya sitasi yang konsisten (APA).
 
-## Checklist sebelum kumpul
-- [ ] (Opsional) Konfirmasi ke dosen/grup bahwa ini tugasnya
-- [ ] Pilih 1 sektor, dan kelima poin instruksi terjawab semua
-- [ ] Ada contoh penerapan nyata dan sumber/referensi
-- [ ] Identitas (nama, NIM, kelas IF102) di dokumen
+**Tugas 2 / UAS (Bab 4–5)**: Bab 4 Hasil & pembahasan, Bab 5 Kesimpulan & saran. Untuk UAS, buat PPT + video paparan lagi.
+
+## Ide judul (isi sendiri sesuai pekerjaanmu)
+Pola judul: *"Implementasi ICT Literacy dalam Mendukung [aktivitas kerja] pada [jenis/tempat kerja]"*, misalnya:
+- … dalam Pengelolaan Administrasi Data di [instansi/kantor]
+- … untuk Meningkatkan Produktivitas Karyawan di [bidang usaha]
+- … dalam Pemasaran Digital UMKM [jenis usaha]
+
+## Bahan dari materi kuliah yang bisa dipakai di Bab 2
+- Pengertian & komponen ICT literacy: [`Modul ICT Literacy_01_Pendahuluan ITC Literacy.pdf`](../../materi/Modul%20ICT%20Literacy_01_Pendahuluan%20ITC%20Literacy.pdf), [`Sesi 1 - Pendahuluan ICT Literacy.pptx`](../../materi/Sesi%201%20-%20Pendahuluan%20ICT%20Literacy.pptx)
+- TIK di masyarakat & berbagai sektor: [`Modul ICT Literacy_02_Penerapan TIK di Masyarakat.pdf`](../../materi/Modul%20ICT%20Literacy_02_Penerapan%20TIK%20di%20Masyarakat.pdf), [`Modul ICT Literacy_03_Penerapan TIK di Berbagai Sektor.pdf`](../../materi/Modul%20ICT%20Literacy_03_Penerapan%20TIK%20di%20Berbagai%20Sektor.pdf), [`Analisis ICT di berbagai Sektor.pdf`](../../materi/Analisis%20ICT%20di%20berbagai%20Sektor.pdf) (infografis 8 sektor; dulu dikira instruksi tugas, sekarang jadi bahan pendukung)
+- Database, data warehouse & BI (kalau pekerjaanmu banyak mengolah data): Modul 04 & 05
+- Internet & WWW: Modul 06
+- Ringkasan semua topik: [../../catatan/00-ringkasan-matkul.md](../../catatan/00-ringkasan-matkul.md)
+- Data pendukung dari video Sesi III: IMD World Competitiveness 2023, Indonesia peringkat 34/64.
+
+## Riwayat
+- 2026-11-06: post materi "Analisis ICT di berbagai sektor" (*"dapat digunakan sebagai rekomendasi tugas sebelum UTS dikumpulkan di sesi 6"*). Awalnya dikira instruksi tugas.
+- 2026-11-18: vicon Sesi 5 (19:57–20:40). Di sini dijelaskan skema makalah berkesinambungan; rangkumannya dibagikan di grup WA 11-19.
+- 2026-11-19: grup WA berisi contoh makalah, aturan UTS/Tugas 2/UAS, dan referensi 10–20.
+- 2026-11-25: post upload Sesi 6 dibuat, deskripsi kosong.
+- Video P01 (dosen pengembang MKU) sebelumnya sudah menyebut skema proyek berkesinambungan (proposal → 40% → 60% → 100% + presentasi). Skema itu **konsisten** dengan info WA.
+
+## Checklist sebelum kumpul (Tugas 1)
+- [ ] Konfirmasi di grup: cakupan Tugas 1, individu/kelompok
+- [ ] Tentukan bidang pekerjaan + judul
+- [ ] Bab 1 lengkap (latar belakang, rumusan masalah, tujuan, manfaat)
+- [ ] Bab 2 & 3 (minimal kerangka, sebaiknya draf)
+- [ ] Sudah ada ≥ 10 referensi dan sitasi di teks
+- [ ] Identitas (nama, NIM, IF102) di halaman judul
 - [ ] Export PDF, nama file rapi
-- [ ] Unggah sebelum 2026-11-30 10:19 (jangan mepet, tidak ada toleransi telat)
+- [ ] Upload sebelum 2026-11-30 10:19 (target Minggu 11-29)
 - [ ] Ubah status di `deadline.md`

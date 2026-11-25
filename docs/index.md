@@ -6,9 +6,9 @@ hide:
 
 # Catatan Kuliah IF102
 
-Informatika PJJ · UNSIA · diperbarui 2026-11-25 11:01 WIB
+Informatika PJJ · UNSIA · diperbarui 2026-11-25 11:11 WIB
 
-!!! danger "URGENT — Tugas ICT Literacy: Upload Tugas Sebelum UTS"
+!!! danger "URGENT — Tugas ICT Literacy: Makalah Implementasi ICT Literacy di Bidang Pekerjaan"
     <span class="countdown" data-deadline="2026-11-30T10:19:30+07:00"><span class="countdown-left"></span></span> &nbsp; [:material-arrow-right-bold: Buka semua info tugas ini](URGENT.md){ .md-button .md-button--primary }
 
 <div class="grid cards" markdown>
@@ -38,7 +38,7 @@ Informatika PJJ · UNSIA · diperbarui 2026-11-25 11:01 WIB
 | Tanggal | Mata Kuliah | Jenis | Judul | Status |
 |---------|-------------|-------|-------|--------|
 | 2026-11-29 23:30 | Aljabar Linear | Tugas | [Tugas 1 Aljabar Linier](Semester-2/Aljabar-Linear/tugas/T01-tugas-1-aljabar-linier/instruksi.md) | belum (Edlink: belum dikumpulkan) |
-| 2026-11-30 10:19 | ICT Literacy | Tugas | [Upload Tugas Sebelum UTS](Semester-2/ICT-Literacy/tugas/T01-upload-tugas-sebelum-uts/instruksi.md) — analisis narasi peran ICT di 1 sektor (instruksi dari post P03), tidak boleh telat | belum |
+| 2026-11-30 10:19 | ICT Literacy | Tugas | [Upload Tugas Sebelum UTS](Semester-2/ICT-Literacy/tugas/T01-upload-tugas-sebelum-uts/instruksi.md) — **makalah implementasi ICT Literacy di bidang pekerjaan** (berkesinambungan s/d UAS; info grup WA 11-19; cakupan Tugas 1 perlu dikonfirmasi, aman: draf Bab 1–3), referensi 10–20, tidak boleh telat | belum |
 | 2026-12-01 12:00 | Dasar Pemrograman | Kuis | Kuis - Sesi #6 (1) | belum |
 
 ## :material-bookshelf: Mata kuliah

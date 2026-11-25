@@ -14,7 +14,7 @@ Disusun dari Edlink: tugas terbuka, agenda, vicon, progres kelas, notifikasi. Pe
 | Kapan | Apa | Bahan |
 |-------|-----|-------|
 | **Minggu 2026-11-29 23:30** | Tugas 1 Aljabar Linier (PDF, individu, tanpa perpanjangan) — **Edlink: belum dikumpulkan** | [instruksi + petunjuk](Semester-2/Aljabar-Linear/tugas/T01-tugas-1-aljabar-linier/instruksi.md) |
-| **Senin 2026-11-30 10:19** | ICT: Upload Tugas Sebelum UTS — **instruksi masih kosong**, tidak boleh telat. Pantau post / tanya dosen kalau H-2 masih kosong | [T01 ICT](Semester-2/ICT-Literacy/tugas/T01-upload-tugas-sebelum-uts/instruksi.md) |
+| **Senin 2026-11-30 10:19** | ICT: Upload Tugas Sebelum UTS — **makalah implementasi ICT Literacy di bidang pekerjaan** (info grup WA 11-19), aman: draf Bab 1–3 + ≥10 referensi. Tidak boleh telat | [T01 ICT](Semester-2/ICT-Literacy/tugas/T01-upload-tugas-sebelum-uts/instruksi.md) |
 | **Selasa 2026-12-01 12:00** | Kuis Dasar Pemrograman Sesi 6 (Operasi, Operator, Operand) | `Dasar Pemrograman Pertemuan 6.pdf` |
 
 ## Agenda kuliah 2026-11-25 → 2026-12-07
@@ -60,7 +60,7 @@ Belum diumumkan resmi; tanggal dari RPS (pertemuan 8). Kisi-kisi per matkul ada 
 **Catatan ringkasan baru 2 dari ±48 pertemuan** (DasPro P05, PTKI P05) — ini celah terbesar menjelang UTS.
 
 ### Rencana belajar usulan
-- **Sisa minggu ini (11-25 → 11-30)**: Tugas 1 Aljabar (selesaikan ≤ 11-28); pantau instruksi tugas ICT; buka semua materi tertunda; `/ringkas` P01–P06 untuk OrKom, Aljabar, PV (progres terendah).
+- **Sisa minggu ini (11-25 → 11-30)**: Tugas 1 Aljabar (selesaikan ≤ 11-28); makalah ICT (Bab 1–3, ≥10 referensi) — konfirmasi cakupan Tugas 1 di grup; buka semua materi tertunda; `/ringkas` P01–P06 untuk OrKom, Aljabar, PV (progres terendah).
 - **Minggu 2 (12-01 → 12-07)**: ikuti P7; `/ringkas` matkul sisanya; `/latihan-soal` per matkul; latihan praktik (PV di Visual Studio, Algoritma tracing nested loop, Aljabar perkalian matriks, PTKI konversi bilangan).
 - **Minggu UTS**: review kisi-kisi + flashcard H-1 per matkul.
 

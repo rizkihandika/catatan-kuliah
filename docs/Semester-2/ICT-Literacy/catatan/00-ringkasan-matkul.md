@@ -2,7 +2,7 @@
 
 > Tutor: Dr. Fauziah, S.Kom., M.M.S.I. · Modul, slide & video materi: Cian Ramadhona Hassolthine, S.Kom., M.Kom (dosen pengembang MKU) · 2 SKS · Arsip: [../arsip/README.md](../arsip/README.md) · Transkrip video: [../arsip/transkrip/](../arsip/transkrip/README.md) · Teks modul/slide: ../arsip/teks-materi/ *(ada di Edlink)*
 > **Kuis:** P01 75 · P02 100 · P03 100 · P04 100 · P05 100 · P06 tidak ada kuis.
-> **Tugas sebelum UTS** (analisis peran ICT di satu sektor) tenggat **2026-11-30 10:19**, **tidak boleh telat**, status: **belum dikumpulkan**. Lihat [../tugas/T01-upload-tugas-sebelum-uts/instruksi.md](../tugas/T01-upload-tugas-sebelum-uts/instruksi.md).
+> **Tugas sebelum UTS** (**makalah implementasi ICT Literacy di bidang pekerjaan**, berkesinambungan ke UTS/Tugas 2/UAS; info grup WA 2026-11-19) tenggat **2026-11-30 10:19**, **tidak boleh telat**, status: **belum dikumpulkan**. Lihat [../tugas/T01-upload-tugas-sebelum-uts/instruksi.md](../tugas/T01-upload-tugas-sebelum-uts/instruksi.md).
 > Vicon Zoom diadakan P01 (2026-10-24 malam), P03 (2026-11-04 malam), dan P05 (2026-11-18 malam), tapi **tidak ada rekamannya di Edlink**. Yang ditranskrip: 9 video YouTube (semua berhasil; "Video Sesi II" & "Video Interaktif Sesi II" adalah video yang sama). Video P01 dibawakan dosen pengembang (Cian R. H.), video Sesi II–III oleh "Bu Fesa". Pembawa video P04–P06 tidak menyebut nama.
 
 ## Info penting dari video & slide
@@ -11,7 +11,7 @@
 - **Absensi berbasis aktivitas** di LMS: diskusi forum, membaca/menyimak materi, dan **kuis mingguan (wajib)**. Mahasiswa *full time* ditambah resume online & vicon. Vicon **tidak wajib** diikuti, tapi dokumentasinya wajib disimak.
 - **Pembelajaran berbasis output (MKU)**: tiap semester mahasiswa diharapkan menghasilkan karya, mandiri atau kelompok. Contohnya: software sederhana (mis. kalkulator), paper/makalah terpublikasi, pelatihan/webinar ICT untuk warga (mis. video editing), atau artikel ICT literacy (mis. fenomena revolusi industri). UTS/UAS bisa dikonversi jadi presentasi karya.
 - **Skema proyek versi video P01** (dosen pengembang, berlaku umum untuk MKU): **Tugas 1 = proposal** rencana proyek → **UTS = hasil sementara (progres 40%)** → **Tugas 2 = progres 60%** → **UAS = hasil akhir 100% + presentasi**.
-  - ⚠️ Ini **berbeda** dengan tugas yang benar-benar diberikan tutor kita (Bu Fauziah): tugas sebelum UTS = **analisis narasi peran ICT di satu sektor**. Pegang instruksi tutor. Bentuk UTS (ujian biasa atau presentasi karya) belum diumumkan, jadi tanyakan di grup WA.
+  - ✅ **Dikonfirmasi lewat grup WA (2026-11-19, rangkuman vicon Sesi 5)**: makalah **implementasi ICT Literacy guna mendukung bidang pekerjaan** masing-masing. **UTS = Bab 1–3 (s/d metode) + PPT + video paparan di YouTube**, **Tugas 2 (sesi 14) = s/d pembahasan**, **UAS = Bab 4–5 + PPT + video**. Referensi 10–20, boleh individu/kelompok. Dugaan lama ("analisis narasi 1 sektor") **tidak berlaku**. Infografis sektor tetap berguna sebagai bahan Bab 2.
 - Tiap sesi tutor membuka post **"Diskusi Pagi"** (pertanyaan pemantik di forum). Ikut menjawab kemungkinan besar dihitung keaktifan (absensi berbasis aktivitas forum).
 
 ## Peta besar

@@ -19,3 +19,43 @@
 .countdown.soon .countdown-left { animation: blink 1.5s ease-in-out infinite; }
 @keyframes blink { 50% { opacity: .45; } }
 .md-tabs__item:nth-child(2) .md-tabs__link { font-weight: 700; color: #ffd54f; opacity: 1; }
+
+/* Bar URGENT di atas semua halaman */
+.md-banner { background: #b71c1c; }
+.urgent-bar { display: flex; flex-wrap: wrap; gap: .2em .6em; align-items: center; justify-content: center;
+  color: #fff !important; font-size: .75rem; text-align: center; }
+.urgent-bar:hover span { text-decoration: underline; }
+.urgent-bar .countdown-left { color: #ffeb3b !important; }
+
+/* Tab konten (kerangka per bab) */
+.md-typeset .tabbed-labels > label { font-size: .75rem; }
+
+/* ---------- Mobile ---------- */
+@media (max-width: 76.1875em) {
+  /* menu samping (drawer) lebih lega untuk jari */
+  .md-nav__link { padding: .35em 0; }
+  .md-nav { font-size: .8rem; }
+}
+@media (max-width: 600px) {
+  .md-typeset { font-size: .86rem; line-height: 1.65; }
+  .md-typeset h1 { font-size: 1.45em; line-height: 1.3; }
+  .md-typeset h2 { font-size: 1.2em; }
+  .md-typeset h3 { font-size: 1.05em; }
+  .md-content__inner { margin: 0 .7rem 1.2rem; }
+  /* tabel: lebih kecil & bisa digeser ke samping */
+  .md-typeset table:not([class]) { font-size: .74rem; display: table; min-width: 100%; }
+  .md-typeset table:not([class]) th, .md-typeset table:not([class]) td { padding: .55em .7em; }
+  .md-typeset__scrollwrap { margin: 1em -.7rem; }
+  .md-typeset__table { padding: 0 .7rem; }
+  /* kartu beranda: rapat 1 kolom */
+  .md-typeset .grid.cards > ul > li { padding: .7rem .9rem; }
+  .md-typeset .grid { gap: .6rem; }
+  /* tombol & tab konten mudah disentuh */
+  .md-typeset .md-button { display: block; text-align: center; margin: .5em 0 0; }
+  .md-typeset .tabbed-labels > label { padding: .9em 1em .7em; }
+  .md-typeset div.countdown { font-size: .9rem; }
+  .urgent-bar { font-size: .7rem; }
+  /* footer navigasi lebih ringkas */
+  .md-footer__title { font-size: .8rem; }
+  .md-typeset .admonition, .md-typeset details { font-size: .8rem; }
+}
