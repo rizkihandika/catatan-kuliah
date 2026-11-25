@@ -15,7 +15,7 @@
 > Silahkan join di WAG berikut : (link grup WA — tanya di grup kelas)
 
 **Lampiran:**
-- 📎 AP1.02 - Tipe Data.pdf (977 KB) → `AP1.02 - Tipe Data.pdf` *(ada di Edlink)*
+- 📎 AP1.02 - Tipe Data.pdf (977 KB) → [`AP1.02 - Tipe Data.pdf`](../materi/AP1.02%20-%20Tipe%20Data.pdf)
 
 ### Kuis - Sesi 2
 - **Jenis**: Kuis · post_id `8864808`

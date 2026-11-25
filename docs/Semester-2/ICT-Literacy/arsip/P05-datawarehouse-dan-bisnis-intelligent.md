@@ -14,7 +14,7 @@
 > Semangat memasuki sesi 5
 
 **Lampiran:**
-- 📎 Modul ICT Literacy_05_Data Warehouse dan Business Intelligence.pdf (151 KB) → `Modul ICT Literacy_05_Data Warehouse dan Business Intelligence.pdf` *(ada di Edlink)*
+- 📎 Modul ICT Literacy_05_Data Warehouse dan Business Intelligence.pdf (151 KB) → [`Modul ICT Literacy_05_Data Warehouse dan Business Intelligence.pdf`](../materi/Modul%20ICT%20Literacy_05_Data%20Warehouse%20dan%20Business%20Intelligence.pdf)
 
 ### Sesi 5 (Datawarehouse dan Bisinis Intelligent)
 - **Jenis**: Materi · post_id `9259370`
@@ -25,7 +25,7 @@
 > Semangat memasuki sesi 5
 
 **Lampiran:**
-- 📎 Modul ICT Literacy_05_Data Warehouse dan Business Intelligence.pdf (151 KB) → `Modul ICT Literacy_05_Data Warehouse dan Business Intelligence.pdf` *(ada di Edlink)*
+- 📎 Modul ICT Literacy_05_Data Warehouse dan Business Intelligence.pdf (151 KB) → [`Modul ICT Literacy_05_Data Warehouse dan Business Intelligence.pdf`](../materi/Modul%20ICT%20Literacy_05_Data%20Warehouse%20dan%20Business%20Intelligence.pdf)
 
 ### SESI 5
 - **Jenis**: Video konferensi · post_id `9275857`

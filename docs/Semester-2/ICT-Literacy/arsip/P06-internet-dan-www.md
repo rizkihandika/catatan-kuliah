@@ -19,7 +19,7 @@
 > Wassalamu’alaikum warahmatullahi wabarakatuh. 🌐✨
 
 **Lampiran:**
-- 📎 Sesi 6 - Internet dan World Wide Web.pptx (1167 KB) → `Sesi 6 - Internet dan World Wide Web.pptx` *(ada di Edlink)*
+- 📎 Sesi 6 - Internet dan World Wide Web.pptx (1167 KB) → [`Sesi 6 - Internet dan World Wide Web.pptx`](../materi/Sesi%206%20-%20Internet%20dan%20World%20Wide%20Web.pptx)
 
 ### Internet dan www
 - **Jenis**: Materi · post_id `9365324`
@@ -35,7 +35,7 @@
 > Wassalamu’alaikum warahmatullahi wabarakatuh. 🌐✨
 
 **Lampiran:**
-- 📎 Modul ICT Literacy_06_Internet dan World Wide Web.pdf (162 KB) → `Modul ICT Literacy_06_Internet dan World Wide Web.pdf` *(ada di Edlink)*
+- 📎 Modul ICT Literacy_06_Internet dan World Wide Web.pdf (162 KB) → [`Modul ICT Literacy_06_Internet dan World Wide Web.pdf`](../materi/Modul%20ICT%20Literacy_06_Internet%20dan%20World%20Wide%20Web.pdf)
 
 ### Internet dan www
 - **Jenis**: Materi · post_id `9365341`

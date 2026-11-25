@@ -1,6 +1,6 @@
 # P04 — Pseudocode
 
-Tanggal: 2026-11-16 · Sumber: `materi/Dasar Pemrograman Pertemuan 4.pdf`
+Tanggal: 2026-11-16 · Sumber: [`Dasar Pemrograman Pertemuan 4.pdf`](../materi/Dasar%20Pemrograman%20Pertemuan%204.pdf)
 
 ## Ringkasan 3 kalimat
 Pseudocode ("kode semu") adalah deskripsi informal tingkat tinggi dari algoritma yang memakai konvensi struktur bahasa pemrograman tetapi ditujukan untuk **dibaca manusia**. Ada lima aturan penulisan: satu pernyataan per baris, kata kunci huruf kapital, indentasi untuk hirarki, akhiri struktur multi-baris (ENDIF/ENDWHILE/ENDFOR), dan bebas dari bahasa pemrograman tertentu. Dibanding flowchart, pseudocode mudah diubah tapi tidak visual dan tidak punya standar baku.

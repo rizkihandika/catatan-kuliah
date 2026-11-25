@@ -1,6 +1,6 @@
 # P02 — Penerapan TIK di Masyarakat
 
-Tanggal: 2026-10-28 · Sumber: `materi/Modul ICT Literacy_02_Penerapan TIK di Masyarakat.pdf`, video "Video Sesi II" (Bu Fesa, ±34 menit)
+Tanggal: 2026-10-28 · Sumber: [`Modul ICT Literacy_02_Penerapan TIK di Masyarakat.pdf`](../materi/Modul%20ICT%20Literacy_02_Penerapan%20TIK%20di%20Masyarakat.pdf), video "Video Sesi II" (Bu Fesa, ±34 menit)
 
 ## Ringkasan 3 kalimat
 TI berperan membuat, menyimpan, menyampaikan, dan menyebarkan informasi, sehingga mengubah telekomunikasi, bisnis, pendidikan, kesehatan, dan perbankan dari cara manual ke digital. Masyarakat yang memanfaatkan TIK untuk kesejahteraannya disebut **masyarakat informasi**, diukur ITU dari **akses** dan **pemanfaatan** TIK, dan arah berikutnya adalah **Society 5.0** (Jepang). Agar memakai TIK secara bijak dibutuhkan **5 kemampuan literasi digital** dan **digital skill**.

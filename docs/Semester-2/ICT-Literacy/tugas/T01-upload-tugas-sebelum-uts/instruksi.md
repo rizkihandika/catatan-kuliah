@@ -5,7 +5,7 @@
 - **Sumber**:
   - Post upload: Edlink `9365500` (Sesi 6, deskripsinya kosong).
   - **Instruksi ditemukan di post P03 `9084989`** "Analisis ICT di berbagai sektor". Dosen menulis: *"dapat digunakan sebagai rekomendasi tugas sebelum UTS dikumpulkan di sesi 6"*.
-  - File: `../../materi/Analisis ICT di berbagai Sektor.pdf` *(ada di Edlink)*. Halaman 1 berupa infografis, halaman 2 berisi instruksi.
+  - File: [`../../materi/Analisis ICT di berbagai Sektor.pdf`](../../materi/Analisis%20ICT%20di%20berbagai%20Sektor.pdf). Halaman 1 berupa infografis, halaman 2 berisi instruksi.
 - **Jenis**: tugas individu, narasi analisis. Format file tidak disebut; PDF paling aman.
 
 > ⚠️ Instruksi ini **disimpulkan** dari post P03 karena post upload-nya kosong. Kalau sempat, konfirmasi ke dosen atau grup WA ICT bahwa tugas sebelum UTS memang ini.

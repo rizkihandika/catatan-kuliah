@@ -10,7 +10,7 @@
 - **Oleh**: Dr.  Tri Wahyu Widyaningsih, S.Kom., MMSI · dibuat 2026-11-11 15:56
 
 **Lampiran:**
-- 📎 Dasar Pemrograman Pertemuan 4.pdf (474 KB) → `Dasar Pemrograman Pertemuan 4.pdf` *(ada di Edlink)*
+- 📎 Dasar Pemrograman Pertemuan 4.pdf (474 KB) → [`Dasar Pemrograman Pertemuan 4.pdf`](../materi/Dasar%20Pemrograman%20Pertemuan%204.pdf)
 
 ### Kuis - Sesi #4
 - **Jenis**: Kuis · post_id `9196498`

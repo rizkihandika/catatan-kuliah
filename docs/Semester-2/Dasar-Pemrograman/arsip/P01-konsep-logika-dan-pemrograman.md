@@ -10,9 +10,9 @@
 - **Oleh**: Dr.  Tri Wahyu Widyaningsih, S.Kom., MMSI · dibuat 2026-10-21 08:07
 
 **Lampiran:**
-- 📎 video1165835247.mp4 (34294 KB) → `video1165835247.mp4` *(ada di Edlink)*
-- 📎 Dasar Pemrograman Pertemuan 1.pdf (577 KB) → `Dasar Pemrograman Pertemuan 1.pdf` *(ada di Edlink)*
-- 📎 RPS_Dasar Pemrograman.pdf (418 KB) → `RPS_Dasar Pemrograman.pdf` *(ada di Edlink)*
+- 📎 video1165835247.mp4 (34294 KB) → `video1165835247.mp4` *(video — tonton di Edlink)*
+- 📎 Dasar Pemrograman Pertemuan 1.pdf (577 KB) → [`Dasar Pemrograman Pertemuan 1.pdf`](../materi/Dasar%20Pemrograman%20Pertemuan%201.pdf)
+- 📎 RPS_Dasar Pemrograman.pdf (418 KB) → [`RPS_Dasar Pemrograman.pdf`](../materi/RPS_Dasar%20Pemrograman.pdf)
 
 ### Kuis
 - **Jenis**: Kuis · post_id `8803087`

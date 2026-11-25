@@ -10,7 +10,7 @@
 - **Oleh**: Dr.  Tri Wahyu Widyaningsih, S.Kom., MMSI · dibuat 2026-11-24 11:11
 
 **Lampiran:**
-- 📎 Dasar Pemrograman Pertemuan 6.pdf (466 KB) → `Dasar Pemrograman Pertemuan 6.pdf` *(ada di Edlink)*
+- 📎 Dasar Pemrograman Pertemuan 6.pdf (466 KB) → [`Dasar Pemrograman Pertemuan 6.pdf`](../materi/Dasar%20Pemrograman%20Pertemuan%206.pdf)
 
 ### Kuis - Sesi #6 (1)
 - **Jenis**: Kuis · post_id `9353791`

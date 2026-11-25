@@ -1,6 +1,6 @@
 # P01 — Pendahuluan Aljabar Linear
 
-Tanggal: 2026-10-23 · Sumber: `materi/PPT ALE 1.pdf`, RPS (`materi/RPS_ALJABAR LINIER_TI_UNSIA_AMRM (2).docx`)
+Tanggal: 2026-10-23 · Sumber: [`PPT ALE 1.pdf`](../materi/PPT%20ALE%201.pdf), RPS ([`RPS_ALJABAR LINIER_TI_UNSIA_AMRM (2).docx`](../materi/RPS_ALJABAR%20LINIER_TI_UNSIA_AMRM%20%282%29.docx))
 
 ## Ringkasan 3 kalimat
 Pertemuan pertama memetakan isi semester menjadi empat bab: **vektor → matriks → sistem persamaan linear (SPL) → ruang vektor**. Bab matriks adalah yang terpanjang (7 bagian: dari pengertian sampai invers), dan menjadi alat utama untuk menyelesaikan SPL. Bagi Informatika, matriks = *array* 2D, dasar pengolahan citra, grafika, dan machine learning.

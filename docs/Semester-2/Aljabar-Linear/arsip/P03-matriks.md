@@ -14,7 +14,7 @@
 > Assalamualaykum. teman2, video pembelajaran tentang matriks, bisa dilihat di link berikut ya : https://www.youtube.com/watch?v=ugiKvOfwFcg&list=PLvOuFZ_J_esiq9tPCHs__rsCa7nM9SRoI&index=3
 
 **Lampiran:**
-- 📎 PPT ALE 3.pdf (531 KB) → `PPT ALE 3.pdf` *(ada di Edlink)*
+- 📎 PPT ALE 3.pdf (531 KB) → [`PPT ALE 3.pdf`](../materi/PPT%20ALE%203.pdf)
 
 ### Video Konferensi - Matriks
 - **Jenis**: Video konferensi · post_id `9099261`

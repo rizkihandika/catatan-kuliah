@@ -1,6 +1,6 @@
 # P03 — Leisure & Entertainment (Like / Love / Enjoy + V-ing)
 
-Tanggal: 2026-11-03 · Sumber: `materi/Sesi 3_MKU Bahasa Inggris_Leisure and Entertainment.pptx.pdf`, `materi/SAT Bahasa Inggris Sesi 3 (1).docx`
+Tanggal: 2026-11-03 · Sumber: [`Sesi 3_MKU Bahasa Inggris_Leisure and Entertainment.pptx.pdf`](../materi/Sesi%203_MKU%20Bahasa%20Inggris_Leisure%20and%20Entertainment.pptx.pdf), [`SAT Bahasa Inggris Sesi 3 (1).docx`](../materi/SAT%20Bahasa%20Inggris%20Sesi%203%20%281%29.docx)
 
 ## Ringkasan 3 kalimat
 *Leisure* adalah waktu di luar kuliah, kerja, tidur, dan kewajiban, yang diisi dengan hobi, olahraga, atau hiburan. Sesi ini memberi kosakata jenis leisure, olahraga (tempat, alat, orang, skor), genre film, dan bahasa review film. Grammar-nya: **like/love + V-ing atau to V1**, sedangkan **enjoy + noun atau V-ing** (tidak pernah *to V1*).

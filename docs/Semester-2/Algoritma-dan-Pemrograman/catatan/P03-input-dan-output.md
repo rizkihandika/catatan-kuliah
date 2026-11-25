@@ -1,6 +1,6 @@
 # P03 — Input dan Output
 
-Tanggal: 2026-11-05 · Sumber utama: `materi/AP.03 - Modul Input & Output.pdf` (modul), pendukung `AP1.03 - Input & Output.pdf` (slide)
+Tanggal: 2026-11-05 · Sumber utama: [`AP.03 - Modul Input & Output.pdf`](../materi/AP.03%20-%20Modul%20Input%20%26%20Output.pdf) (modul), pendukung `AP1.03 - Input & Output.pdf` (slide)
 
 ## Ringkasan 3 kalimat
 Input adalah data yang mengalir **masuk ke memori utama** (dari keyboard, flash disk, jaringan), output adalah data yang **keluar dari memori** (ke monitor, printer, dll.). C++ memperlakukan I/O sebagai *stream* dari header `<iostream>`: `cout <<` untuk menampilkan, `cin >>` untuk membaca. Hampir semua program interaktif berpola **tampilkan petunjuk → baca input → proses → tampilkan hasil**.

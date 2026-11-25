@@ -1,6 +1,6 @@
 # P05 — Environment & Present Tenses
 
-Tanggal: 2026-11-17 · Sumber: `materi/Sesi 5_MKU Bahasa Inggris_Environment.pptx`, `materi/Sesi 5_MKU Bahasa Inggris_Present Tense.pptx`, `materi/Reading Comprehension_Habitat Loss.docx`, transkrip video Environment & Present Tense
+Tanggal: 2026-11-17 · Sumber: [`Sesi 5_MKU Bahasa Inggris_Environment.pptx`](../materi/Sesi%205_MKU%20Bahasa%20Inggris_Environment.pptx), [`Sesi 5_MKU Bahasa Inggris_Present Tense.pptx`](../materi/Sesi%205_MKU%20Bahasa%20Inggris_Present%20Tense.pptx), [`Reading Comprehension_Habitat Loss.docx`](../materi/Reading%20Comprehension_Habitat%20Loss.docx), transkrip video Environment & Present Tense
 
 ## Ringkasan 3 kalimat
 Tema Environment memberi kosakata sumber daya alam (renewable vs non-renewable), masalah lingkungan, bencana alam, dan solusinya; bacaan *Habitat Loss* menjelaskan bagaimana kerusakan habitat membuat spesies terancam punah. Grammar-nya adalah **empat present tense**: simple (fakta/kebiasaan), continuous (sedang terjadi), perfect (selesai/pengalaman dengan kaitan ke sekarang), dan perfect continuous (menekankan durasi). Kunci membedakannya: **rumus + signal words**.

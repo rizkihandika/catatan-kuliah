@@ -10,7 +10,7 @@
 - **Oleh**: Endah Handayani · dibuat 2026-11-11 15:01
 
 **Lampiran:**
-- 📎 PPT ALE 4.pdf (404 KB) → `PPT ALE 4.pdf` *(ada di Edlink)*
+- 📎 PPT ALE 4.pdf (404 KB) → [`PPT ALE 4.pdf`](../materi/PPT%20ALE%204.pdf)
 
 ### Video Interaktif - Sesi #4 Jenis Matriks
 - **Jenis**: Video interaktif · post_id `9163780`

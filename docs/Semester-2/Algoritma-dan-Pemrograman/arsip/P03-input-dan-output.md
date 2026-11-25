@@ -10,8 +10,8 @@
 - **Oleh**: Yunan Fauzi Wijaya · dibuat 2026-10-31 13:16
 
 **Lampiran:**
-- 📎 AP1.03 - Input & Output.pdf (864 KB) → `AP1.03 - Input & Output.pdf` *(ada di Edlink)*
-- 📎 AP.03 - Modul Input & Output.pdf (450 KB) → `AP.03 - Modul Input & Output.pdf` *(ada di Edlink)*
+- 📎 AP1.03 - Input & Output.pdf (864 KB) → [`AP1.03 - Input & Output.pdf`](../materi/AP1.03%20-%20Input%20&%20Output.pdf)
+- 📎 AP.03 - Modul Input & Output.pdf (450 KB) → [`AP.03 - Modul Input & Output.pdf`](../materi/AP.03%20-%20Modul%20Input%20&%20Output.pdf)
 
 ### Kuis - Sesi #3
 - **Jenis**: Kuis · post_id `9060424`

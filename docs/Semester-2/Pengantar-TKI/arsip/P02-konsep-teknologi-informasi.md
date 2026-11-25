@@ -14,8 +14,8 @@
 > Materi Vidio bisa disimak dilink berikut : https://www.youtube.com/watch?v=w3e0pCO9T1I&list=PLvOuFZ_J_esihRQIsKfe8abZLc0pE3sae&index=1
 
 **Lampiran:**
-- 📎 Salinan Sesi 2 - Pengertian Teknologi Informasi.pptx (1361 KB) → `Salinan Sesi 2 - Pengertian Teknologi Informasi.pptx` *(ada di Edlink)*
-- 📎 Modul PTKI 02 - Pengertian Teknologi Informasi.docx (117 KB) → `Modul PTKI 02 - Pengertian Teknologi Informasi.docx` *(ada di Edlink)*
+- 📎 Salinan Sesi 2 - Pengertian Teknologi Informasi.pptx (1361 KB) → [`Salinan Sesi 2 - Pengertian Teknologi Informasi.pptx`](../materi/Salinan%20Sesi%202%20-%20Pengertian%20Teknologi%20Informasi.pptx)
+- 📎 Modul PTKI 02 - Pengertian Teknologi Informasi.docx (117 KB) → [`Modul PTKI 02 - Pengertian Teknologi Informasi.docx`](../materi/Modul%20PTKI%2002%20-%20Pengertian%20Teknologi%20Informasi.docx)
 
 ### Video Konferensi - Sesi #2 (2)
 - **Jenis**: Video konferensi · post_id `8930928`

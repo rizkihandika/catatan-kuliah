@@ -1,6 +1,6 @@
 # P02 — Building User Interface
 
-Tanggal: 2026-10-28 · Sumber: `materi/Pemograman Visual Sesi 2.ppt`
+Tanggal: 2026-10-28 · Sumber: [`Pemograman Visual Sesi 2.ppt`](../materi/Pemograman%20Visual%20Sesi%202.ppt)
 
 ## Ringkasan 3 kalimat
 Visual Basic adalah bahasa untuk aplikasi Windows berbasis **GUI** yang bersifat **event-driven**: program menunggu kejadian dari pengguna lalu menjalankan kode yang sesuai. Aplikasi tersusun dari **Form** (jendela), **Control** (elemen UI), dan **Module**, dan setiap objek punya **properti** (sifat), **metode** (aksi), dan **event** (kejadian). Control ditaruh dari Toolbox, diberi nama yang konsisten (mis. `txtFirstName`), dan bisa diatur **Anchor**-nya agar ikut menyesuaikan saat form di-resize.

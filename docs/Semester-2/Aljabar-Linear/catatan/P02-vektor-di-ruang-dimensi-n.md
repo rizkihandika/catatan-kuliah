@@ -1,6 +1,6 @@
 # P02 — Vektor di Ruang Dimensi n
 
-Tanggal: 2026-10-30 · Sumber: `materi/PPT ALE 2.pdf`
+Tanggal: 2026-10-30 · Sumber: [`PPT ALE 2.pdf`](../materi/PPT%20ALE%202.pdf)
 
 ## Ringkasan 3 kalimat
 Vektor adalah ruas garis berarah yang punya **besar (panjang)** dan **arah**, ditulis sebagai pasangan/tripel bilangan seperti u = (a, b) atau u = (a, b, c). Operasi vektor (jumlah, kurang, kali skalar) dilakukan **per komponen**, dan panjangnya dihitung dengan |u| = √(a² + b² + …). *Dot product* a·b menghasilkan **skalar** yang tandanya menunjukkan sudut antarvektor: positif → lancip, nol → **ortogonal**, negatif → tumpul.

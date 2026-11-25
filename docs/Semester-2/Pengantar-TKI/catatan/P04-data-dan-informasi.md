@@ -1,6 +1,6 @@
 # P04 — Data dan Informasi
 
-Tanggal: 2026-11-12 · Sumber: `materi/Modul PTKI 04 - Data dan Informasi.pdf`, `materi/Salinan Sesi 4 - Data dan Informasi.pptx`, video Zenius "Data dan Informasi", rekaman vicon 2026-11-14 (±29 menit)
+Tanggal: 2026-11-12 · Sumber: [`Modul PTKI 04 - Data dan Informasi.pdf`](../materi/Modul%20PTKI%2004%20-%20Data%20dan%20Informasi.pdf), [`Salinan Sesi 4 - Data dan Informasi.pptx`](../materi/Salinan%20Sesi%204%20-%20Data%20dan%20Informasi.pptx), video Zenius "Data dan Informasi", rekaman vicon 2026-11-14 (±29 menit)
 
 ## Ringkasan 3 kalimat
 **Data** adalah fakta mentah yang belum diolah (angka, simbol, karakter, suara, gambar) dan belum bisa dipakai untuk mengambil keputusan. **Informasi** adalah hasil pengolahan data yang bermakna dan bisa diterima akal penerima, sehingga dapat dipakai untuk **pengambilan keputusan**. Kunci membedakannya (penekanan dosen): *apakah bisa dipakai untuk mengambil keputusan?*

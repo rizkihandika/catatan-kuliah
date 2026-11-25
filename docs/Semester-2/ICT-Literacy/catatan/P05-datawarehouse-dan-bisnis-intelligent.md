@@ -1,6 +1,6 @@
 # P05 — Data Warehouse dan Business Intelligence
 
-Tanggal: 2026-11-18 · Sumber: `materi/Modul ICT Literacy_05_Data Warehouse dan Business Intelligence.pdf`, video "Video Datawarehouse" (±24 menit, lebih lengkap dari modul)
+Tanggal: 2026-11-18 · Sumber: [`Modul ICT Literacy_05_Data Warehouse dan Business Intelligence.pdf`](../materi/Modul%20ICT%20Literacy_05_Data%20Warehouse%20dan%20Business%20Intelligence.pdf), video "Video Datawarehouse" (±24 menit, lebih lengkap dari modul)
 
 ## Ringkasan 3 kalimat
 **Data warehouse (DW)** adalah sistem untuk mengarsipkan dan menganalisis **data historis** dari banyak sumber dalam satu format, dengan 4 karakteristik Inmon: subject-oriented, integrated, time-variant, non-volatile. Data mengalir **source → ETL → ODS/staging → DW → data mart** lalu dipakai untuk analitik dan laporan. **Business Intelligence (BI)** mengolah isi DW menjadi ringkasan, OLAP, laporan, dan dashboard untuk meningkatkan kualitas keputusan bisnis.

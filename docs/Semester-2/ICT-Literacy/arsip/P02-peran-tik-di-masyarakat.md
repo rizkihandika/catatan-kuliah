@@ -38,7 +38,7 @@
 > Wassalamu’alaikum warahmatullahi wabarakatuh.
 
 **Lampiran:**
-- 📎 Modul ICT Literacy_02_Penerapan TIK di Masyarakat.pdf (84 KB) → `Modul ICT Literacy_02_Penerapan TIK di Masyarakat.pdf` *(ada di Edlink)*
+- 📎 Modul ICT Literacy_02_Penerapan TIK di Masyarakat.pdf (84 KB) → [`Modul ICT Literacy_02_Penerapan TIK di Masyarakat.pdf`](../materi/Modul%20ICT%20Literacy_02_Penerapan%20TIK%20di%20Masyarakat.pdf)
 
 ### Video Pembelajaran Sesi II
 - **Jenis**: Materi · post_id `8925446`

@@ -1,6 +1,6 @@
 # P03 — Matriks (Pengertian, Transpose, Operasi)
 
-Tanggal: 2026-11-06 · Sumber: `materi/PPT ALE 3.pdf`
+Tanggal: 2026-11-06 · Sumber: [`PPT ALE 3.pdf`](../materi/PPT%20ALE%203.pdf)
 
 ## Ringkasan 3 kalimat
 Matriks adalah susunan elemen dalam **baris dan kolom** (data 2 dimensi), ditulis A = (aᵢⱼ) berordo m × n. Penjumlahan/pengurangan hanya untuk ordo **sama** (elemen per elemen), perkalian skalar mengalikan setiap elemen, dan perkalian dua matriks A(p×q)·B(m×n) hanya terdefinisi bila **q = m** dengan hasil p×n. Perkalian matriks **tidak komutatif** (AB ≠ BA), dan transpose memenuhi (AB)ᵀ = BᵀAᵀ.

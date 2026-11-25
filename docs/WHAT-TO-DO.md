@@ -5,7 +5,7 @@ Disusun dari Edlink: tugas terbuka, agenda, vicon, progres kelas, notifikasi. Pe
 ## 🔴 Mendesak (≤ 3 hari)
 | Kapan | Apa | Bahan |
 |-------|-----|-------|
-| **Hari ini 13:00 / 15:00** | ICT Literacy P6 (Internet & WWW) — materi + video interaktif sudah rilis 07:00 · Pemrograman Visual P6 | ICT materi *(ada di Edlink)* |
+| **Hari ini 13:00 / 15:00** | ICT Literacy P6 (Internet & WWW) — materi + video interaktif sudah rilis 07:00 · Pemrograman Visual P6 | [ICT materi](Semester-2/ICT-Literacy/materi/index.md) |
 | **Kamis 2026-11-26** | Algoritma P6 Nested Loop (materi sudah rilis) · PTKI P6 Manajemen Data (materi sudah rilis) | `AP06 - Nested Loop`, `Modul PTKI 06` |
 | **Sabtu 2026-11-28** | OrKom P06 Memory Internal | `dPRAS_OrKom#06 Memory Internal.pdf` |
 | ❓ cek | Kuis PTKI Sesi 5 (tenggat 11-24) & Kuis DasPro Sesi 5 (11-26) sudah hilang dari "Perlu Dikerjakan" — konfirmasi sudah dikerjakan | [deadline.md](deadline.md) |
@@ -65,6 +65,7 @@ Belum diumumkan resmi; tanggal dari RPS (pertemuan 8). Kisi-kisi per matkul ada 
 - **Minggu UTS**: review kisi-kisi + flashcard H-1 per matkul.
 
 ## Info penting lain
+- **IPK 4.00** (semester lalu semua A) — detail di [profil.md](profil.md).
 - **Grup WA**: Dasar Pemrograman & Algoritma — link di README masing-masing.
 - **Potensi libur**: 2026-12-24/25 dan 2027-01-01 (Aljabar P10–P11, Algoritma/PTKI P10) — lihat [jadwal-kuliah.md](jadwal-kuliah.md).
 - **Gagal diunduh**: 4 file Pemrograman Visual (404 di server Edlink, termasuk RPS) & `SINTA.jpg` (Bahasa Inggris). Buka langsung di Edlink.

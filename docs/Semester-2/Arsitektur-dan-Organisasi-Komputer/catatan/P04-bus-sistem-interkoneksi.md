@@ -1,6 +1,6 @@
 # P04 — Bus & Sistem Interkoneksi
 
-Tanggal: 2026-11-14 · Sumber: `materi/dPRAS_OrKom#04 Bus & Sistem Interkoneksi.pdf`
+Tanggal: 2026-11-14 · Sumber: [`dPRAS_OrKom#04 Bus & Sistem Interkoneksi.pdf`](../materi/dPRAS_OrKom%2304%20Bus%20%26%20Sistem%20Interkoneksi.pdf)
 
 ## Ringkasan 3 kalimat
 **Bus** adalah saluran bersama yang menghubungkan microprocessor dengan komponen pendukungnya, terdiri dari tiga bus dasar: **data bus** (dua arah), **address bus** (satu arah), dan **control bus**. Kalau terlalu banyak perangkat menempel di satu bus, muncul *propagation delay* dan *bottleneck*, sehingga arsitektur berkembang dari **traditional bus (ISA, bus tunggal)** ke **high speed bus (PCI, multi bus)**. Perancangan bus ditentukan oleh jenis (dedicated/multiplexed), metode arbitrasi, timing, lebar bus, dan tipe transfer data.

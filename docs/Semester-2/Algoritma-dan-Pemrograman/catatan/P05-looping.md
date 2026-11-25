@@ -1,6 +1,6 @@
 # P05 — Looping (Perulangan)
 
-Tanggal: 2026-11-19 · Sumber utama: `materi/AP05 - Modul PDF - Looping.pdf`, pendukung `AP05 - Modul PPT - Looping.pdf` (slide 15–16 untuk do-while)
+Tanggal: 2026-11-19 · Sumber utama: [`AP05 - Modul PDF - Looping.pdf`](../materi/AP05%20-%20Modul%20PDF%20-%20Looping.pdf), pendukung `AP05 - Modul PPT - Looping.pdf` (slide 15–16 untuk do-while)
 
 ## Ringkasan 3 kalimat
 *Looping* menjalankan sekelompok perintah berulang kali **selama kondisi benar**, sehingga kode lebih singkat, mudah diubah, dan mampu mengolah data banyak. Setiap loop punya tiga unsur: **inisialisasi, kondisi, perubahan**; lupa perubahan → *infinite loop*. Pilih `for` bila jumlah putaran pasti, `while` bila belum pasti, `do-while` bila isi loop harus jalan minimal sekali; `break` keluar dari loop, `continue` melompati satu putaran.

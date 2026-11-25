@@ -11,4 +11,4 @@
 
 **Lampiran:**
 - 📎 dPRAS_OrKom#01 Pendahuluan.pdf (657 KB) → `dPRAS_OrKom#01 Pendahuluan.pdf` *(ada di Edlink)*
-- 📎 RPS Organisasi Dan Arsitektur Komputer dPRAS.pdf (356 KB) → `RPS Organisasi Dan Arsitektur Komputer dPRAS.pdf` *(ada di Edlink)*
+- 📎 RPS Organisasi Dan Arsitektur Komputer dPRAS.pdf (356 KB) → [`RPS Organisasi Dan Arsitektur Komputer dPRAS.pdf`](../materi/RPS%20Organisasi%20Dan%20Arsitektur%20Komputer%20dPRAS.pdf)

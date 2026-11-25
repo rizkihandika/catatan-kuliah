@@ -10,7 +10,7 @@
 - **Oleh**: Sinta Wahyuni, S.Pd. M.Pd · dibuat 2026-11-10 22:21
 
 **Lampiran:**
-- 📎 Reading comprehension_Fitness Pill.docx (15 KB) → `Reading comprehension_Fitness Pill.docx` *(ada di Edlink)*
+- 📎 Reading comprehension_Fitness Pill.docx (15 KB) → [`Reading comprehension_Fitness Pill.docx`](../materi/Reading%20comprehension_Fitness%20Pill.docx)
 
 ### Verb Patterns
 - **Jenis**: Materi · post_id `9149554`
@@ -25,7 +25,7 @@
 
 **Lampiran:**
 - 🔗 Verb Patterns: https://www.youtube.com/watch?v=k1_RJ7IXft0
-- 📎 Sesi 4_MKU Bahasa Inggris_Verb Pattern.pptx (545 KB) → `Sesi 4_MKU Bahasa Inggris_Verb Pattern.pptx` *(ada di Edlink)*
+- 📎 Sesi 4_MKU Bahasa Inggris_Verb Pattern.pptx (545 KB) → [`Sesi 4_MKU Bahasa Inggris_Verb Pattern.pptx`](../materi/Sesi%204_MKU%20Bahasa%20Inggris_Verb%20Pattern.pptx)
 
 ### Health
 - **Jenis**: Materi · post_id `9149543`

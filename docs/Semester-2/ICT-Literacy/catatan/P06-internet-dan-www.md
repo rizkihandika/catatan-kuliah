@@ -1,6 +1,6 @@
 # P06 — Internet dan World Wide Web
 
-Tanggal: 2026-11-25 · Sumber: `materi/Modul ICT Literacy_06_Internet dan World Wide Web.pdf`, `materi/Sesi 6 - Internet dan World Wide Web.pptx`, video "Video Sesi 6" (±7 menit)
+Tanggal: 2026-11-25 · Sumber: [`Modul ICT Literacy_06_Internet dan World Wide Web.pdf`](../materi/Modul%20ICT%20Literacy_06_Internet%20dan%20World%20Wide%20Web.pdf), [`Sesi 6 - Internet dan World Wide Web.pptx`](../materi/Sesi%206%20-%20Internet%20dan%20World%20Wide%20Web.pptx), video "Video Sesi 6" (±7 menit)
 
 ## Ringkasan 3 kalimat
 **Internet** adalah jaringan global yang menghubungkan perangkat dengan standar **TCP/IP**, sedangkan **WWW** adalah salah satu layanannya: halaman hypertext (HTML) yang diakses browser lewat **HTTP**. Sejarahnya berawal dari **ARPANET** (1960-an), TCP/IP (1982), NSFNET (1986), WWW oleh **Tim Berners-Lee di CERN (1989)**, hingga masuk Indonesia **1994**. Untuk memakainya perlu memahami browser, istilah web (link, download, upload, refresh), webmail, dan search engine.

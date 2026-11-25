@@ -1,6 +1,6 @@
 # P02 — Konsep Algoritma dan Pemrograman
 
-Tanggal: 2026-11-02 · Sumber: `materi/Dasar Pemrograman Pertemuan 2.pdf`
+Tanggal: 2026-11-02 · Sumber: [`Dasar Pemrograman Pertemuan 2.pdf`](../materi/Dasar%20Pemrograman%20Pertemuan%202.pdf)
 
 ## Ringkasan 3 kalimat
 Algoritma adalah urutan langkah yang **terbatas, diskrit, tidak ambigu**, punya input dan output, dan setiap langkahnya selesai dalam waktu terbatas secara deterministik. Instruksi algoritma dibatasi pada empat fungsi komputer: **input (GET), penyimpanan, proses (LET, loop, IF), output (GIVE)**, dan ditulis dengan format deskripsi **Name, Given, Result, Intermediate, Definition, Method**. Algoritma diuji dengan **penelusuran (tracing)**: tabel nilai setiap variabel setelah tiap baris dieksekusi.

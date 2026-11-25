@@ -10,8 +10,8 @@
 - **Oleh**: Dr.  Tri Wahyu Widyaningsih, S.Kom., MMSI · dibuat 2026-11-03 09:49
 
 **Lampiran:**
-- 📎 Dasar Pemrograman Pertemuan 3.pdf (924 KB) → `Dasar Pemrograman Pertemuan 3.pdf` *(ada di Edlink)*
-- 📎 video1193849624.mp4 (37576 KB) → `video1193849624.mp4` *(ada di Edlink)*
+- 📎 Dasar Pemrograman Pertemuan 3.pdf (924 KB) → [`Dasar Pemrograman Pertemuan 3.pdf`](../materi/Dasar%20Pemrograman%20Pertemuan%203.pdf)
+- 📎 video1193849624.mp4 (37576 KB) → `video1193849624.mp4` *(video — tonton di Edlink)*
 
 ### Kuis - Sesi #3 (1)
 - **Jenis**: Kuis · post_id `9025217`

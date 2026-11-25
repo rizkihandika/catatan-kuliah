@@ -1,6 +1,6 @@
 # P04 — Database dan ICT Literacy
 
-Tanggal: 2026-11-11 · Sumber: `materi/Modul ICT Literacy_04_Database dan ICT Literacy.pdf`, `materi/Sesi 4 - Database dan ICT Literacy.pptx`, video Sesi 4 (±18 menit) & video interaktif Sesi 4 (±9 menit)
+Tanggal: 2026-11-11 · Sumber: [`Modul ICT Literacy_04_Database dan ICT Literacy.pdf`](../materi/Modul%20ICT%20Literacy_04_Database%20dan%20ICT%20Literacy.pdf), [`Sesi 4 - Database dan ICT Literacy.pptx`](../materi/Sesi%204%20-%20Database%20dan%20ICT%20Literacy.pptx), video Sesi 4 (±18 menit) & video interaktif Sesi 4 (±9 menit)
 
 ## Ringkasan 3 kalimat
 Data berjenjang menjadi informasi, pengetahuan, lalu kebijaksanaan (**DIKW**), dan menyimpan data secara digital (bukan kertas) adalah bagian dari ICT literacy. **Basis data** adalah kumpulan data terintegrasi, **DBMS** adalah software yang mengelola aksesnya, dan keduanya mengatasi masalah file tradisional seperti redundansi dan ketergantungan data. Database modern punya beberapa jenis (relasional, NoSQL, in-memory, cloud) dan diakses dengan **SQL**.

@@ -18,5 +18,5 @@
 > Untuk Absensi sesi 1 dan 2 akan dilakukan hingga tanggal 11 November ya, jadi saya akan cek keseluruhan kegiatan dan absensi rekan rekan semua. Terimakasih
 
 **Lampiran:**
-- 📎 Pemograman Visual3.ppt (1800 KB) → `Pemograman Visual3.ppt` *(ada di Edlink)*
-- 📎 PV Modul Sesi 3.docx (588 KB) → `PV Modul Sesi 3.docx` *(ada di Edlink)*
+- 📎 Pemograman Visual3.ppt (1800 KB) → [`Pemograman Visual3.ppt`](../materi/Pemograman%20Visual3.ppt)
+- 📎 PV Modul Sesi 3.docx (588 KB) → [`PV Modul Sesi 3.docx`](../materi/PV%20Modul%20Sesi%203.docx)

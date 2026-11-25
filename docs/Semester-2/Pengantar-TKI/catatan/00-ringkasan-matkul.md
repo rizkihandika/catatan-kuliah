@@ -1,6 +1,6 @@
 # Ringkasan Matkul — Pengantar Teknologi Komunikasi dan Informatika (P01–P06)
 
-> Tutor: Winarsih, S.Si., MMSI · Slide & modul disusun koordinator Cian Ramadhona Hassolthine, S.Kom., M.Kom · Arsip: [../arsip/README.md](../arsip/README.md) · Transkrip: ../arsip/transkrip/ *(ada di Edlink)* · Teks modul & slide: ../arsip/teks-materi/ *(ada di Edlink)*
+> Tutor: Winarsih, S.Si., MMSI · Slide & modul disusun koordinator Cian Ramadhona Hassolthine, S.Kom., M.Kom · Arsip: [../arsip/README.md](../arsip/README.md) · Transkrip: [../arsip/transkrip/](../arsip/transkrip/README.md) · Teks modul & slide: ../arsip/teks-materi/ *(ada di Edlink)*
 > Catatan detail P05: [P05-jenis-data-konversi-sistem-bilangan.md](P05-jenis-data-konversi-sistem-bilangan.md) · Kisi-kisi: [../ujian/kisi-kisi-UTS.md](../ujian/kisi-kisi-UTS.md)
 > **Kuis:** P01 100 · P02 100 · P03 100 · P04 100 · P05 100 · P06 belum ada kuisnya (baru materi). **Tugas Sesi 3** (studi kasus UMKM) **sudah dikumpulkan** 2026-11-10 09:47, nilai belum dirilis.
 > Vicon (Zoom, Sabtu 19:00): P02 (2026-10-31, tidak ada rekaman), P04 (2026-11-14) dan P05 (2026-11-21) terekam dan ditranskrip. Semua 5 media (3 YouTube + 2 Zoom) berhasil ditranskrip.

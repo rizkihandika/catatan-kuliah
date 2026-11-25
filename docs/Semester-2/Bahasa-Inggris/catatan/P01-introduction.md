@@ -1,6 +1,6 @@
 # P01 — Introduction (Introducing Yourself & Others · To Be)
 
-Tanggal: 2026-10-20 · Sumber: `materi/Sesi 1_ MKU Bahasa Inggris_ Introduction.pptx`, `materi/WEEKLY PRACTICE_Introduction (1).docx`
+Tanggal: 2026-10-20 · Sumber: [`Sesi 1_ MKU Bahasa Inggris_ Introduction.pptx`](../materi/Sesi%201_%20MKU%20Bahasa%20Inggris_%20Introduction.pptx), [`WEEKLY PRACTICE_Introduction (1).docx`](../materi/WEEKLY%20PRACTICE_Introduction%20%281%29.docx)
 
 ## Ringkasan 3 kalimat
 Sesi ini melatih cara memperkenalkan diri (nama, umur, asal, tempat tinggal, hobi) dan memperkenalkan orang lain, beserta respons yang sopan. Grammar-nya adalah **to be** (*is/am/are* untuk sekarang, *was/were* untuk lampau) yang menghubungkan subjek dengan keterangannya berupa *noun*, *adjective*, atau *adverb*. Tugas mingguan: video perkenalan diri 2 menit di YouTube (sudah dikumpulkan 2026-10-31).

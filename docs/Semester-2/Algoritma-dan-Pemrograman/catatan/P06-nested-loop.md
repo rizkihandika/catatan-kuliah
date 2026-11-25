@@ -1,6 +1,6 @@
 # P06 — Nested Loop (Loop Bersarang)
 
-Tanggal: 2026-11-26 · Sumber utama: `materi/AP06 - Nested Loop - PDF.pdf`
+Tanggal: 2026-11-26 · Sumber utama: [`AP06 - Nested Loop - PDF.pdf`](../materi/AP06%20-%20Nested%20Loop%20-%20PDF.pdf)
 
 ## Ringkasan 3 kalimat
 *Nested loop* adalah loop di dalam badan loop lain: **setiap satu langkah loop luar, loop dalam berjalan penuh** sampai selesai. Loop luar biasanya mengatur **baris**, loop dalam mengatur **kolom**, dan total iterasi = putaran luar × putaran dalam. Bentuk pola (persegi, segitiga, piramida, tabel perkalian) ditentukan oleh **batas loop dalam**, apa yang dicetak, dan letak `endl`.

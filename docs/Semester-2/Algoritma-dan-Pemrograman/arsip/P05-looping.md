@@ -10,8 +10,8 @@
 - **Oleh**: Yunan Fauzi Wijaya · dibuat 2026-11-15 20:00
 
 **Lampiran:**
-- 📎 AP05 - Modul PPT - Looping.pdf (476 KB) → `AP05 - Modul PPT - Looping.pdf` *(ada di Edlink)*
-- 📎 AP05 - Modul PDF - Looping.pdf (504 KB) → `AP05 - Modul PDF - Looping.pdf` *(ada di Edlink)*
+- 📎 AP05 - Modul PPT - Looping.pdf (476 KB) → [`AP05 - Modul PPT - Looping.pdf`](../materi/AP05%20-%20Modul%20PPT%20-%20Looping.pdf)
+- 📎 AP05 - Modul PDF - Looping.pdf (504 KB) → [`AP05 - Modul PDF - Looping.pdf`](../materi/AP05%20-%20Modul%20PDF%20-%20Looping.pdf)
 
 ### Kuis - Sesi #5
 - **Jenis**: Kuis · post_id `9217594`

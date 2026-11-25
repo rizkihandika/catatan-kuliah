@@ -1,6 +1,6 @@
 # P01 — Pendahuluan ICT Literacy: Revolusi Industri 1.0 → 5.0
 
-Tanggal: 2026-10-21 · Sumber: `materi/Modul ICT Literacy_01_Pendahuluan ITC Literacy.pdf`, `materi/Sesi 1 - Pendahuluan ICT Literacy.pptx`, video "Pendahuluan (Minggu 1)" (±10 menit)
+Tanggal: 2026-10-21 · Sumber: [`Modul ICT Literacy_01_Pendahuluan ITC Literacy.pdf`](../materi/Modul%20ICT%20Literacy_01_Pendahuluan%20ITC%20Literacy.pdf), [`Sesi 1 - Pendahuluan ICT Literacy.pptx`](../materi/Sesi%201%20-%20Pendahuluan%20ICT%20Literacy.pptx), video "Pendahuluan (Minggu 1)" (±10 menit)
 
 ## Ringkasan 3 kalimat
 ICT Literacy membahas literasi informasi dan keterampilan memakai TI untuk mendukung kerja profesional di abad 21. Revolusi industri adalah perubahan besar cara manusia mengelola sumber daya dan memproduksi barang, masing-masing dipicu teknologi kunci: **mesin uap (1.0) → listrik & assembly line (2.0) → komputer & internet (3.0) → integrasi digital-internet (4.0)**, lalu Jepang menggagas **Society 5.0** yang berfokus pada kesejahteraan manusia. Penilaian: Tugas 1 15%, UTS 30%, Tugas 2 15%, UAS 30%, sikap 10%.

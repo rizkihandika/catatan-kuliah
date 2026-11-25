@@ -1,6 +1,6 @@
 # P03 — Penerapan TIK di Berbagai Sektor
 
-Tanggal: 2026-11-04 · Sumber: `materi/Modul ICT Literacy_03_Penerapan TIK di Berbagai Sektor.pdf`, `materi/Analisis ICT di berbagai Sektor.pdf`, video "Sesi III ICT literasi" (Bu Fesa, ±25 menit), video interaktif "ICT for Education"
+Tanggal: 2026-11-04 · Sumber: [`Modul ICT Literacy_03_Penerapan TIK di Berbagai Sektor.pdf`](../materi/Modul%20ICT%20Literacy_03_Penerapan%20TIK%20di%20Berbagai%20Sektor.pdf), [`Analisis ICT di berbagai Sektor.pdf`](../materi/Analisis%20ICT%20di%20berbagai%20Sektor.pdf), video "Sesi III ICT literasi" (Bu Fesa, ±25 menit), video interaktif "ICT for Education"
 
 ## Ringkasan 3 kalimat
 Pengguna TIK tersusun dalam **piramida**: dari puncak (sedikit, paling ahli) **ICT Creators → Spreaders → Enablers → Helpers → Users** (terbanyak). TIK dipakai untuk memecahkan masalah masyarakat di banyak sektor, dengan **telekomunikasi sebagai tulang punggung**, lalu pendidikan, sektor publik, kesehatan, dan pertanian. Literasi TIK diperlukan agar teknologi dipakai **efektif, aman, dan bertanggung jawab**.

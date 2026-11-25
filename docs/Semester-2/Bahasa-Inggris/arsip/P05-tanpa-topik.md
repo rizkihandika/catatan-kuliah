@@ -18,7 +18,7 @@
 > Let's get started!
 
 **Lampiran:**
-- 📎 Reading Comprehension_Habitat Loss.docx (17 KB) → `Reading Comprehension_Habitat Loss.docx` *(ada di Edlink)*
+- 📎 Reading Comprehension_Habitat Loss.docx (17 KB) → [`Reading Comprehension_Habitat Loss.docx`](../materi/Reading%20Comprehension_Habitat%20Loss.docx)
 
 ### Sesi 5_Present Tense
 - **Jenis**: Materi · post_id `9258887`
@@ -34,7 +34,7 @@
 > Selamat belajar dan tetap semangat!
 
 **Lampiran:**
-- 📎 Sesi 5_MKU Bahasa Inggris_Present Tense.pptx (744 KB) → `Sesi 5_MKU Bahasa Inggris_Present Tense.pptx` *(ada di Edlink)*
+- 📎 Sesi 5_MKU Bahasa Inggris_Present Tense.pptx (744 KB) → [`Sesi 5_MKU Bahasa Inggris_Present Tense.pptx`](../materi/Sesi%205_MKU%20Bahasa%20Inggris_Present%20Tense.pptx)
 
 ### Environment
 - **Jenis**: Materi · post_id `9258913`
@@ -52,7 +52,7 @@
 
 **Lampiran:**
 - 🔗 Environment: https://www.youtube.com/watch?v=atpAQf-obB4
-- 📎 Sesi 5_MKU Bahasa Inggris_Environment.pptx (1088 KB) → `Sesi 5_MKU Bahasa Inggris_Environment.pptx` *(ada di Edlink)*
+- 📎 Sesi 5_MKU Bahasa Inggris_Environment.pptx (1088 KB) → [`Sesi 5_MKU Bahasa Inggris_Environment.pptx`](../materi/Sesi%205_MKU%20Bahasa%20Inggris_Environment.pptx)
 
 ### video Present Tense
 - **Jenis**: Materi · post_id `9258895`

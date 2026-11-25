@@ -1,6 +1,6 @@
 # P03 — Evolusi dan Kinerja Komputer
 
-Tanggal: 2026-11-07 · Sumber: `materi/dPRAS_OrKom#03 Evolusi Dan Kinerja Komputer.pdf`
+Tanggal: 2026-11-07 · Sumber: [`dPRAS_OrKom#03 Evolusi Dan Kinerja Komputer.pdf`](../materi/dPRAS_OrKom%2303%20Evolusi%20Dan%20Kinerja%20Komputer.pdf)
 
 ## Ringkasan 3 kalimat
 Komputer berevolusi dalam empat generasi berdasarkan teknologi dasarnya: **tabung vakum → transistor → IC → VLSI/chip**, setiap generasi makin kecil, cepat, dan hemat listrik. Pemampatan komponen berlanjut ke ULSI dan ide WSI, hingga prosesor menjadi satu IC "otak" komputer. Prosesor Intel berkembang dari 8080 (8 bit) ke 8086, 80286, 80386 (32 bit, multitasking), 80486 (cache, pipelining), lalu keluarga Pentium (superskalar, MMX, floating point).

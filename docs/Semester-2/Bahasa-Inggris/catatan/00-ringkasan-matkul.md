@@ -1,6 +1,6 @@
 # Ringkasan Matkul — Bahasa Inggris (P01–P05)
 
-> Dosen: Sinta Wahyuni (tutor), koordinator Lia Dewinta. Materi dari Team Teaching UNSIA; video oleh Dermita Arianti dkk. · Arsip: [../arsip/README.md](../arsip/README.md) · Transkrip: ../arsip/transkrip/ *(ada di Edlink)* · Teks materi: ../arsip/teks-materi/ *(ada di Edlink)*
+> Dosen: Sinta Wahyuni (tutor), koordinator Lia Dewinta. Materi dari Team Teaching UNSIA; video oleh Dermita Arianti dkk. · Arsip: [../arsip/README.md](../arsip/README.md) · Transkrip: [../arsip/transkrip/](../arsip/transkrip/README.md) · Teks materi: ../arsip/teks-materi/ *(ada di Edlink)*
 > **Tugas & kuis**:
 > - Tugas P01 (video perkenalan 2 menit di YouTube): **sudah dikumpulkan** 2026-10-31.
 > - Kuis P03 Leisure (10 soal): grade Edlink 80.

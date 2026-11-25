@@ -1,6 +1,6 @@
 # P02 — Organisasi Komputer: Pengertian, Struktur & Fungsi
 
-Tanggal: 2026-10-31 · Sumber: `materi/dPRAS_OrKom#02 Organisasi Komputer.pdf`
+Tanggal: 2026-10-31 · Sumber: [`dPRAS_OrKom#02 Organisasi Komputer.pdf`](../materi/dPRAS_OrKom%2302%20Organisasi%20Komputer.pdf)
 
 ## Ringkasan 3 kalimat
 Komputer adalah mesin elektronik untuk memproses data menjadi informasi, yang butuh tiga elemen: *hardware*, *software*, dan *brainware*. **Arsitektur** adalah atribut yang terlihat programmer (set instruksi, mekanisme I/O) dan bisa bertahan lama, sedangkan **organisasi** adalah implementasi fisiknya (teknologi hardware, sinyal kontrol) yang berubah mengikuti teknologi. Struktur top level komputer terdiri dari **CPU, memori utama, I/O, dan system interconnection**, dengan empat fungsi dasar: **pengolahan, penyimpanan, pemindahan data, dan kontrol**.

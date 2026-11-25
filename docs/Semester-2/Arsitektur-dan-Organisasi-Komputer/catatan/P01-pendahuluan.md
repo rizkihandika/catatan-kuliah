@@ -1,6 +1,6 @@
 # P01 — Pendahuluan (Peta Materi & RPS)
 
-Tanggal: 2026-10-24 · Sumber: `materi/dPRAS_OrKom#01 Pendahuluan.pdf`
+Tanggal: 2026-10-24 · Sumber: [`dPRAS_OrKom#01 Pendahuluan.pdf`](../materi/dPRAS_OrKom%2301%20Pendahuluan.pdf)
 
 ## Ringkasan 3 kalimat
 Pertemuan pertama berisi rencana pembelajaran semester: dimulai dari konsep dasar organisasi & arsitektur, lalu evolusi/kinerja, **sistem bus**, **memori internal**, memori eksternal, input/output, dukungan sistem operasi, sampai aritmatika komputer. Materi sebelum UTS: pengantar, evolusi & kinerja, bus (2 sesi), memori internal (2 sesi), memori eksternal (magnetic disk & RAID). Hampir tiap topik disertai **kuis** di Edlink.

@@ -1,6 +1,6 @@
 # P02 — Work & Responsibility (Action Verbs vs Linking Verbs)
 
-Tanggal: 2026-10-27 · Sumber: `materi/Sesi 2_MKU Bahasa Inggris_Work & Responsibility.pptx`, `materi/SAT Bahasa Inggris Sesi 2.docx`, transkrip video Work & Responsibility (±22 menit)
+Tanggal: 2026-10-27 · Sumber: [`Sesi 2_MKU Bahasa Inggris_Work & Responsibility.pptx`](../materi/Sesi%202_MKU%20Bahasa%20Inggris_Work%20%26%20Responsibility.pptx), [`SAT Bahasa Inggris Sesi 2.docx`](../materi/SAT%20Bahasa%20Inggris%20Sesi%202.docx), transkrip video Work & Responsibility (±22 menit)
 
 ## Ringkasan 3 kalimat
 Sesi ini membangun kosakata dunia kerja: kombinasi kata *work* dengan preposisi, ungkapan tanggung jawab, kata sifat untuk pekerjaan, dan pola kerja. Grammar-nya membedakan **action verbs** (menyatakan tindakan) dan **linking verbs** (menghubungkan subjek dengan keadaannya). Target SAT: memakai kosakata kerja dan kata kerja dalam konteks *past* dan *present*, lisan maupun tulisan.

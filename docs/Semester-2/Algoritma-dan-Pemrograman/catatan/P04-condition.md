@@ -1,6 +1,6 @@
 # P04 — Condition (Percabangan)
 
-Tanggal: 2026-11-12 · Sumber utama: `materi/AP.04 - Modul PDF - Condition.pdf`
+Tanggal: 2026-11-12 · Sumber utama: [`AP.04 - Modul PDF - Condition.pdf`](../materi/AP.04%20-%20Modul%20PDF%20-%20Condition.pdf)
 
 ## Ringkasan 3 kalimat
 *Condition* (struktur **selection**) membuat program memilih jalur berdasarkan ekspresi yang bernilai `true` atau `false`. Ekspresinya dibangun dari operator relasional (`== != < > <= >=`) dan digabung dengan operator logika (`&& || !`). Bentuknya ada lima: `if`, `if-else`, `if–else if–else` (rentang bertingkat), *nested if* (syarat di dalam syarat), dan `switch-case` (satu variabel vs beberapa nilai tetap).

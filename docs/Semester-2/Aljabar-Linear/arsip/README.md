@@ -19,4 +19,4 @@ class_id `2330548` · diarsipkan oleh `tools/edlink-archive/archive.py` · komen
 - youtube: Materi - Sesi #3 (1) — https://www.youtube.com/watch?v=ugiKvOfwFcg
 - youtube: Jenis Matriks — https://www.youtube.com/watch?v=Zk-gobapZ8o&list=PLvOuFZ_J_esh0ri5O6yGfdvu3_upiPav9&index=4&t=20s
 - youtube: Transformasi Elementer — https://www.youtube.com/watch?v=359Bxby8K2Y&list=PLvOuFZ_J_esh0ri5O6yGfdvu3_upiPav9&index=5
-- zoom: Video Konferensi - Sesi #5Transformasi Elementer — (rekaman/tautan Zoom — buka di Edlink)
+- zoom: Video Konferensi - Sesi #5Transformasi Elementer — https://zoom.us/rec/play/rZeWl6Gye0ppj8ipBm9EM_LeYmsypN9e1gCWsbwhMUmtLbDsI6VmUcMZ85y4exhjq7MJn-iuy-Wga65_.0bd6eLNgrxpjaiHd

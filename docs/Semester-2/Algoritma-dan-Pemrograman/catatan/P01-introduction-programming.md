@@ -1,6 +1,6 @@
 # P01 — Introduction Programming (Pengenalan C++)
 
-Tanggal: 2026-10-22 · Sumber utama: `materi/AP1.01 - Introduction.pdf`
+Tanggal: 2026-10-22 · Sumber utama: [`AP1.01 - Introduction.pdf`](../materi/AP1.01%20-%20Introduction.pdf)
 
 ## Ringkasan 3 kalimat
 Program adalah deretan instruksi untuk mengendalikan komputer, dan program yang baik lahir dari algoritma yang jelas serta terstruktur. C++ (1983, Bjarne Stroustrup) adalah perluasan bahasa C (1972) dengan tambahan *class* sehingga mendukung OOP, tergolong bahasa tingkat menengah dan *case sensitive*. Kode C++ melewati preprocessor → compiler → assembler → linker sebelum menjadi file `.exe`, dan setiap program wajib punya fungsi `main()`.

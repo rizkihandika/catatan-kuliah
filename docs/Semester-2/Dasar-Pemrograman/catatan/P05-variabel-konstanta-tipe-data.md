@@ -1,6 +1,6 @@
 # P05 — Variabel, Konstanta, dan Tipe Data
 
-Sumber: `materi/Dasar Pemrograman Pertemuan 5.pdf` (slide 3–13), video `materi/Dasar Pemrograman - Sesi 5.mp4`. Kuis Sesi 5 tenggat 2026-11-26 12:00.
+Sumber: [`Dasar Pemrograman Pertemuan 5.pdf`](../materi/Dasar%20Pemrograman%20Pertemuan%205.pdf) (slide 3–13), video `materi/Dasar Pemrograman - Sesi 5.mp4`. Kuis Sesi 5 tenggat 2026-11-26 12:00.
 
 ## Intuisi
 Variabel = **kotak berlabel di memori**. Labelnya (nama) tetap, isinya boleh diganti kapan saja. Konstanta = kotak yang **disegel** setelah diisi sekali.

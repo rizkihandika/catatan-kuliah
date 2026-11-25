@@ -10,8 +10,8 @@
 - **Oleh**: Dr.  Tri Wahyu Widyaningsih, S.Kom., MMSI · dibuat 2026-11-16 11:44
 
 **Lampiran:**
-- 📎 Dasar Pemrograman Pertemuan 5.pdf (594 KB) → `Dasar Pemrograman Pertemuan 5.pdf` *(ada di Edlink)*
-- 📎 Dasar Pemrograman - Sesi 5.mp4 (28738 KB) → `Dasar Pemrograman - Sesi 5.mp4` *(ada di Edlink)*
+- 📎 Dasar Pemrograman Pertemuan 5.pdf (594 KB) → [`Dasar Pemrograman Pertemuan 5.pdf`](../materi/Dasar%20Pemrograman%20Pertemuan%205.pdf)
+- 📎 Dasar Pemrograman - Sesi 5.mp4 (28738 KB) → `Dasar Pemrograman - Sesi 5.mp4` *(video — tonton di Edlink)*
 
 ### Video Konferensi - Sesi #5
 - **Jenis**: Video konferensi · post_id `9232735`

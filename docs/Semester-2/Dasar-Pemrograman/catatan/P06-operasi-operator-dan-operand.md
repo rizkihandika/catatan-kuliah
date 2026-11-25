@@ -1,6 +1,6 @@
 # P06 — Operasi, Operator, dan Operand
 
-Tanggal: 2026-11-30 · Sumber: `materi/Dasar Pemrograman Pertemuan 6.pdf`
+Tanggal: 2026-11-30 · Sumber: [`Dasar Pemrograman Pertemuan 6.pdf`](../materi/Dasar%20Pemrograman%20Pertemuan%206.pdf)
 
 ## Ringkasan 3 kalimat
 **Operator** adalah simbol tindakan (mis. `+`), **operand** adalah objek yang dikenai operasi (mis. `X`, `Y`), dan **operasi** adalah pemrosesan data menurut aturan tertentu (`X + Y`). Ada delapan jenis operator: aritmatika, assignment, bitwise, perbandingan, increment/decrement, logika, string, dan array. Yang sering menjebak: **urutan prioritas** (`* /` sebelum `+ -`) dan **operasi bitwise** yang bekerja per bit.

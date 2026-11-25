@@ -1,6 +1,6 @@
 # P02 — Tipe Data, Variabel, Konstanta & Operator
 
-Tanggal: 2026-10-29 · Sumber utama: `materi/AP1.02 - Tipe Data.pdf`
+Tanggal: 2026-10-29 · Sumber utama: [`AP1.02 - Tipe Data.pdf`](../materi/AP1.02%20-%20Tipe%20Data.pdf)
 
 ## Ringkasan 3 kalimat
 Tipe data menentukan jenis nilai yang boleh disimpan, sedangkan variabel adalah tempat bernama yang menyimpan **satu** nilai dan isinya bisa berubah. Konstanta mirip variabel tetapi nilainya tetap, dibuat dengan `#define` atau `const`. C++ punya operator assign, aritmatika, majemuk, increment/decrement, relasional, logika, dan kondisional (`?:`) untuk mengolah nilai-nilai itu.

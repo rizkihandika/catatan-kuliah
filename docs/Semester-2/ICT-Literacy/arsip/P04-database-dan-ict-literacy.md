@@ -14,8 +14,8 @@
 > Halo, mahasiswa UNSIA Selamat datang di pertemuan ke-4 mata kuliah ICT Literasi. Apa kabar semuanya? Semoga selalu sehat dan tetap semangat dalam mengikuti kegiatan pembelajaran. Pada sesi kali ini, kita akan mempelajari materi Database dan ICT Literasi. Kita akan mengenal konsep basis data, fungsi dan manfaat database, bagaimana data disimpan, dikelola, serta dimanfaatkan dalam mendukung aktivitas di berbagai bidang kehidupan. Selain itu, kita juga akan memahami pentingnya literasi ICT dalam memanfaatkan teknologi informasi secara efektif, cerdas, dan bertanggung jawab. Mari ikuti pembelajaran sesi ke-4 ini dengan aktif, cermat, dan penuh rasa ingin tahu. Selamat belajar, tetap semangat, dan mari kita mulai!
 
 **Lampiran:**
-- 📎 Modul ICT Literacy_04_Database dan ICT Literacy.pdf (236 KB) → `Modul ICT Literacy_04_Database dan ICT Literacy.pdf` *(ada di Edlink)*
-- 📎 Sesi 4 - Database dan ICT Literacy.pptx (1180 KB) → `Sesi 4 - Database dan ICT Literacy.pptx` *(ada di Edlink)*
+- 📎 Modul ICT Literacy_04_Database dan ICT Literacy.pdf (236 KB) → [`Modul ICT Literacy_04_Database dan ICT Literacy.pdf`](../materi/Modul%20ICT%20Literacy_04_Database%20dan%20ICT%20Literacy.pdf)
+- 📎 Sesi 4 - Database dan ICT Literacy.pptx (1180 KB) → [`Sesi 4 - Database dan ICT Literacy.pptx`](../materi/Sesi%204%20-%20Database%20dan%20ICT%20Literacy.pptx)
 
 ### Video Interaktif Sesi 4
 - **Jenis**: Video interaktif · post_id `9173024`

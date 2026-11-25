@@ -1,6 +1,6 @@
 # Ringkasan Matkul — Aljabar Linear (P01–P05)
 
-> Dosen: Ir. Endah Tri Esti Handayani (slide disusun oleh Fesa A. S. N. Haq, video oleh Bu Ira) · Arsip: [../arsip/README.md](../arsip/README.md) · Transkrip video: ../arsip/transkrip/ *(ada di Edlink)* · Teks slide: ../arsip/teks-materi/ *(ada di Edlink)*
+> Dosen: Ir. Endah Tri Esti Handayani (slide disusun oleh Fesa A. S. N. Haq, video oleh Bu Ira) · Arsip: [../arsip/README.md](../arsip/README.md) · Transkrip video: [../arsip/transkrip/](../arsip/transkrip/README.md) · Teks slide: ../arsip/teks-materi/ *(ada di Edlink)*
 > **Tugas 1** (vektor & matriks) tenggat **2026-11-29 23:30**, status: **belum dikumpulkan**. Lihat [../tugas/T01-tugas-1-aljabar-linier/instruksi.md](../tugas/T01-tugas-1-aljabar-linier/instruksi.md).
 > ⚠️ Link YouTube di post P03 ("video pembelajaran tentang matriks") ternyata berisi video **ICT Literacy Sesi 3** (Penerapan TIK di berbagai sektor), jadi salah link dari dosen. Vicon P01–P04 tidak ada rekamannya di Edlink; hanya vicon P05 yang terekam dan sudah ditranskrip.
 

@@ -1,6 +1,6 @@
 # Ringkasan Matkul — ICT Literacy (P01–P06)
 
-> Tutor: Dr. Fauziah, S.Kom., M.M.S.I. · Modul, slide & video materi: Cian Ramadhona Hassolthine, S.Kom., M.Kom (dosen pengembang MKU) · 2 SKS · Arsip: [../arsip/README.md](../arsip/README.md) · Transkrip video: ../arsip/transkrip/ *(ada di Edlink)* · Teks modul/slide: ../arsip/teks-materi/ *(ada di Edlink)*
+> Tutor: Dr. Fauziah, S.Kom., M.M.S.I. · Modul, slide & video materi: Cian Ramadhona Hassolthine, S.Kom., M.Kom (dosen pengembang MKU) · 2 SKS · Arsip: [../arsip/README.md](../arsip/README.md) · Transkrip video: [../arsip/transkrip/](../arsip/transkrip/README.md) · Teks modul/slide: ../arsip/teks-materi/ *(ada di Edlink)*
 > **Kuis:** P01 75 · P02 100 · P03 100 · P04 100 · P05 100 · P06 tidak ada kuis.
 > **Tugas sebelum UTS** (analisis peran ICT di satu sektor) tenggat **2026-11-30 10:19**, **tidak boleh telat**, status: **belum dikumpulkan**. Lihat [../tugas/T01-upload-tugas-sebelum-uts/instruksi.md](../tugas/T01-upload-tugas-sebelum-uts/instruksi.md).
 > Vicon Zoom diadakan P01 (2026-10-24 malam), P03 (2026-11-04 malam), dan P05 (2026-11-18 malam), tapi **tidak ada rekamannya di Edlink**. Yang ditranskrip: 9 video YouTube (semua berhasil; "Video Sesi II" & "Video Interaktif Sesi II" adalah video yang sama). Video P01 dibawakan dosen pengembang (Cian R. H.), video Sesi II–III oleh "Bu Fesa". Pembawa video P04–P06 tidak menyebut nama.

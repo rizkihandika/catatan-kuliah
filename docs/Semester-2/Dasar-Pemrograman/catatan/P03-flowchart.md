@@ -1,6 +1,6 @@
 # P03 — Flowchart
 
-Tanggal: 2026-11-09 · Sumber: `materi/Dasar Pemrograman Pertemuan 3.pdf`, transkrip vicon/video Sesi 3 (±53 menit)
+Tanggal: 2026-11-09 · Sumber: [`Dasar Pemrograman Pertemuan 3.pdf`](../materi/Dasar%20Pemrograman%20Pertemuan%203.pdf), transkrip vicon/video Sesi 3 (±53 menit)
 
 ## Ringkasan 3 kalimat
 Flowchart adalah representasi **grafis** dari urutan operasi dalam program atau sistem informasi, yang menunjukkan logika algoritma dan aliran kendali antar langkah. Setiap jenis langkah punya simbol baku: terminal (start/finish), input/output, proses, keputusan, panah, dan konektor. Ada tiga struktur kendali yang digambarkan flowchart: **berurutan (sequence)**, **bercabang (selection)**, dan **berulang (loop)**.

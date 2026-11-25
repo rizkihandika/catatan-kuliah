@@ -10,8 +10,8 @@
 - **Oleh**: Yunan Fauzi Wijaya · dibuat 2026-10-20 23:52
 
 **Lampiran:**
-- 📎 AP1.01 - Introduction.pdf (665 KB) → `AP1.01 - Introduction.pdf` *(ada di Edlink)*
-- 📎 RPS Algoritma & Pemrograman.pdf (494 KB) → `RPS Algoritma & Pemrograman.pdf` *(ada di Edlink)*
+- 📎 AP1.01 - Introduction.pdf (665 KB) → [`AP1.01 - Introduction.pdf`](../materi/AP1.01%20-%20Introduction.pdf)
+- 📎 RPS Algoritma & Pemrograman.pdf (494 KB) → [`RPS Algoritma & Pemrograman.pdf`](../materi/RPS%20Algoritma%20&%20Pemrograman.pdf)
 
 ### Kuis - Sesi 1
 - **Jenis**: Kuis · post_id `8796956`

@@ -1,6 +1,6 @@
 # Ringkasan Matkul — Dasar Pemrograman (P01–P06)
 
-> Tutor: Dr. Tri Wahyu Widyaningsih ("Bu Wahyu") · Slide & video materi: Riad Sahara · Arsip: [../arsip/README.md](../arsip/README.md) · Transkrip: ../arsip/transkrip/ *(ada di Edlink)* · Teks slide: ../arsip/teks-materi/ *(ada di Edlink)*
+> Tutor: Dr. Tri Wahyu Widyaningsih ("Bu Wahyu") · Slide & video materi: Riad Sahara · Arsip: [../arsip/README.md](../arsip/README.md) · Transkrip: [../arsip/transkrip/](../arsip/transkrip/README.md) · Teks slide: ../arsip/teks-materi/ *(ada di Edlink)*
 > Catatan detail P05: [P05-variabel-konstanta-tipe-data.md](P05-variabel-konstanta-tipe-data.md)
 > **Kuis:** P01 80 · P02 100 · P03 80 · P04 80 · P05 100 · **P06 belum dikerjakan (tenggat 2026-12-01 12:00)**.
 

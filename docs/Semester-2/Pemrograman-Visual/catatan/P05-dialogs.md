@@ -1,6 +1,6 @@
 # P05 — Dialogs
 
-Tanggal: 2026-11-18 · Sumber: `materi/PV5 Dialogs.pptx`, `materi/Bab 4.pdf` (Bab 4 mengulang basic control P03)
+Tanggal: 2026-11-18 · Sumber: [`PV5 Dialogs.pptx`](../materi/PV5%20Dialogs.pptx), [`Bab 4.pdf`](../materi/Bab%204.pdf) (Bab 4 mengulang basic control P03)
 
 ## Ringkasan 3 kalimat
 **Dialog box** adalah jendela untuk tugas umum seperti membuka/menyimpan file, mencetak, memilih warna, font, atau folder. Jenisnya: **MessageBox**, **OpenFileDialog**, **SaveFileDialog**, **ColorDialog**, **FontDialog**, dan **FolderBrowserDialog**. Sebelum memanggil `ShowDialog()`, atur properti seperti `InitialDirectory`, `Filter`, `FilterIndex`, dan `FileName`, lalu periksa apakah hasilnya `DialogResult.OK`.

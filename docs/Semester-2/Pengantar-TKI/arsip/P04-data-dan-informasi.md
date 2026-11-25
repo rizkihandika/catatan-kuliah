@@ -16,9 +16,9 @@
 > 2. Perbedaan Data dan Informasi
 
 **Lampiran:**
-- 📎 Salinan Sesi 4 - Data dan Informasi.pptx (1059 KB) → `Salinan Sesi 4 - Data dan Informasi.pptx` *(ada di Edlink)*
-- 📎 Modul PTKI 04 - Data dan Informasi.docx (172 KB) → `Modul PTKI 04 - Data dan Informasi.docx` *(ada di Edlink)*
-- 📎 Modul PTKI 04 - Data dan Informasi.pdf (261 KB) → `Modul PTKI 04 - Data dan Informasi.pdf` *(ada di Edlink)*
+- 📎 Salinan Sesi 4 - Data dan Informasi.pptx (1059 KB) → [`Salinan Sesi 4 - Data dan Informasi.pptx`](../materi/Salinan%20Sesi%204%20-%20Data%20dan%20Informasi.pptx)
+- 📎 Modul PTKI 04 - Data dan Informasi.docx (172 KB) → [`Modul PTKI 04 - Data dan Informasi.docx`](../materi/Modul%20PTKI%2004%20-%20Data%20dan%20Informasi.docx)
+- 📎 Modul PTKI 04 - Data dan Informasi.pdf (261 KB) → [`Modul PTKI 04 - Data dan Informasi.pdf`](../materi/Modul%20PTKI%2004%20-%20Data%20dan%20Informasi.pdf)
 
 ### Video Interaktif - Sesi #4 (2)
 - **Jenis**: Video interaktif · post_id `9157629`
@@ -36,7 +36,7 @@
 - **Jenis**: Video konferensi · post_id `9158562`
 - **Oleh**: Winarsih, S.Si., MMSI · dibuat 2026-11-11 11:29
 - **Vicon**: ZOOM · jadwal 2026-11-14 19:00 · status ended · mulai 2026-11-14 19:01 selesai 2026-11-14 19:41
-- **Rekaman**: (rekaman/tautan Zoom — buka di Edlink)
+- **Rekaman**: https://zoom.us/rec/play/WOJFL6R-h8m8aeb5eS5eWq3aqZK1aOKApUcJT2Krg6F6pZjA9lAxnLlTGsTPvSFxhQO47600i38dwGlO.kYVUlTnGHebhrysQ
 
 ### Kuis - Sesi #4 (1)
 - **Jenis**: Kuis · post_id `9158571`

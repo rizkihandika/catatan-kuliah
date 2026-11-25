@@ -1,6 +1,6 @@
 # P05 — Transformasi Elementer
 
-Tanggal: 2026-11-20 · Sumber: `materi/PPT ALE 5.pdf`, video "Transformasi Elementer", rekaman vicon Sesi 5 (2026-11-22, ±15 menit)
+Tanggal: 2026-11-20 · Sumber: [`PPT ALE 5.pdf`](../materi/PPT%20ALE%205.pdf), video "Transformasi Elementer", rekaman vicon Sesi 5 (2026-11-22, ±15 menit)
 
 ## Ringkasan 3 kalimat
 Transformasi elementer adalah operasi yang "boleh dilakukan" pada baris (notasi **B**) atau kolom (notasi **K**) suatu matriks. Ada empat tipe: **tukar**, **kali skalar**, **tambah dengan kelipatan baris/kolom lain**, dan **kombinasi dua kelipatan**. Pada tipe 3 dan 4 hanya baris/kolom ke-**i** yang berubah, baris/kolom ke-j tetap; alat ini nanti dipakai untuk mencari rank, invers, dan menyelesaikan SPL.

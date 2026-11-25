@@ -11,7 +11,7 @@
 
 **Lampiran:**
 - 📎 RPS_ALJABAR LINIER_TI_UNSIA_AMRM (2).docx (590 KB) → `RPS_ALJABAR LINIER_TI_UNSIA_AMRM (2).docx` *(ada di Edlink)*.docx)
-- 📎 PPT ALE 1.pdf (340 KB) → `PPT ALE 1.pdf` *(ada di Edlink)*
+- 📎 PPT ALE 1.pdf (340 KB) → [`PPT ALE 1.pdf`](../materi/PPT%20ALE%201.pdf)
 
 ### Pendahuluan
 - **Jenis**: Video konferensi · post_id `8835927`

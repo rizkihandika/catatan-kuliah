@@ -14,7 +14,7 @@
 > Hai Teman-teman UNSIA! Melalui materi pengantar (introduction) ini, kita akan bersama-sama memahami gambaran umum mata kuliah, pokok-pokok bahasan utama, tata tertib perkuliahan, serta sistem penilaian yang berlaku. Pemahaman awal yang baik mengenai orientasi perkuliahan ini akan sangat membantu kalian dalam mempersiapkan diri secara optimal di setiap tahapan belajar ke depan. Selamat mengikuti pembelajaran dan semangat!
 
 **Lampiran:**
-- 📎 Sesi 1_ MKU Bahasa Inggris_ Introduction.pptx (824 KB) → `Sesi 1_ MKU Bahasa Inggris_ Introduction.pptx` *(ada di Edlink)*
+- 📎 Sesi 1_ MKU Bahasa Inggris_ Introduction.pptx (824 KB) → [`Sesi 1_ MKU Bahasa Inggris_ Introduction.pptx`](../materi/Sesi%201_%20MKU%20Bahasa%20Inggris_%20Introduction.pptx)
 
 ### Introduction
 - **Jenis**: Tugas · post_id `8863098`

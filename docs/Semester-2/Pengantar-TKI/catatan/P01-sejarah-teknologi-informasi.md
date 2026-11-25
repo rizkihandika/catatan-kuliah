@@ -1,6 +1,6 @@
 # P01 — Sejarah Teknologi Informasi
 
-Tanggal: 2026-10-22 · Sumber: `materi/Modul PTKI 01 - Sejarah Teknologi Informasi.docx`, video YouTube di post **P02** (isi video P01 & P02 tertukar)
+Tanggal: 2026-10-22 · Sumber: [`Modul PTKI 01 - Sejarah Teknologi Informasi.docx`](../materi/Modul%20PTKI%2001%20-%20Sejarah%20Teknologi%20Informasi.docx), video YouTube di post **P02** (isi video P01 & P02 tertukar)
 
 ## Ringkasan 3 kalimat
 Teknologi informasi sudah ada sejak manusia menggambar di dinding gua; yang berubah adalah **media** (dinding → tanah liat → papirus → kertas → magnetik → digital) dan **jangkauan** penyebarannya. Sejarahnya dibagi tiga masa: **pra-sejarah** (s/d 3000 SM), **sejarah** (3000 SM–1400-an M), dan **modern** (1900-an dst.). Tonggak penting: tulisan Sumeria, hieroglif, papirus, mesin cetak Gutenberg, program pertama Ada Lovelace, telegraf, telepon, ENIAC, transistor, e-mail, TCP/IP, dan WWW.

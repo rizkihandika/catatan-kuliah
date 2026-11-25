@@ -1,6 +1,6 @@
 # P06 — Memory Internal
 
-Tanggal: 2026-11-28 · Sumber: `materi/dPRAS_OrKom#06 Memory Internal.pdf`
+Tanggal: 2026-11-28 · Sumber: [`dPRAS_OrKom#06 Memory Internal.pdf`](../materi/dPRAS_OrKom%2306%20Memory%20Internal.pdf)
 
 ## Ringkasan 3 kalimat
 Memori disusun dalam **hirarki**: makin ke bawah (register → cache → main memory → disk → tape/optical) makin **murah per bit, besar, lambat, dan jarang diakses CPU**. Memori dibedakan menurut lokasi, bahan fisik, metode akses (sequential, direct, random, associative), serta sifat volatile/non-volatile dan erasable/non-erasable. Memori internal utama adalah **RAM** (SRAM cepat & mahal tanpa refresh; DRAM murah & padat tapi butuh refresh) dan **ROM** (non-volatile, berisi program tetap seperti POST).

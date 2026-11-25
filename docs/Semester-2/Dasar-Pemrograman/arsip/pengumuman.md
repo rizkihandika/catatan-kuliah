@@ -10,7 +10,7 @@ Tanpa komentar.
 
 > Dear All,
 > 
-> Saya sudah di zoom, dengan link (rekaman/tautan Zoom — buka di Edlink) yang ingin berdiskusi selahkan join
+> Saya sudah di zoom, dengan link https://zoom.us/j/96810970800?pwd=y4fhIgTCqg9mjOaJKYDRElS1OBS8br.1, yang ingin berdiskusi selahkan join
 
 ### 2026-10-27 12:59 — Dear All,
 - **Jenis**: Pengumuman · post_id `8915151`

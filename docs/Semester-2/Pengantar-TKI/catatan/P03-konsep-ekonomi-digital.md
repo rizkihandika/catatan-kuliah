@@ -1,6 +1,6 @@
 # P03 — Konsep Ekonomi Digital
 
-Tanggal: 2026-11-05 · Sumber: `materi/Modul PTKI 03 - Konsep Ekonomi Digital.pdf/.docx`, `materi/Salinan Sesi 3 - Konsep Ekonomi Digital.pptx`
+Tanggal: 2026-11-05 · Sumber: `materi/Modul PTKI 03 - Konsep Ekonomi Digital.pdf/.docx`, [`Salinan Sesi 3 - Konsep Ekonomi Digital.pptx`](../materi/Salinan%20Sesi%203%20-%20Konsep%20Ekonomi%20Digital.pptx)
 
 ## Ringkasan 3 kalimat
 Ekonomi digital adalah kondisi ekonomi yang berbasis teknologi digital, di mana bisnis, penciptaan nilai, transaksi, dan hubungan pelanggan terjadi lewat internet (definisi **Amir Hartman, 2000**). **Don Tapscott** merumuskan **12 karakteristik**: knowledge, digitization, virtualization, molecularization, internetworking, disintermediation, convergence, innovation, prosumption, immediacy, globalization, discordance. Karakteristik ini dipakai untuk menganalisis bagaimana bisnis (mis. UMKM) bisa bertransformasi digital.

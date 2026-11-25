@@ -17,4 +17,4 @@
 
 **Lampiran:**
 - 📎 Pemograman Visual4.pptx (972 KB) → (belum terunduh)
-- 📎 Sesi 4 Pemrograman Visual.pdf (553 KB) → `Sesi 4 Pemrograman Visual.pdf` *(ada di Edlink)*
+- 📎 Sesi 4 Pemrograman Visual.pdf (553 KB) → [`Sesi 4 Pemrograman Visual.pdf`](../materi/Sesi%204%20Pemrograman%20Visual.pdf)

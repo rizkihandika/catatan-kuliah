@@ -20,5 +20,5 @@ class_id `2330547` · diarsipkan oleh `tools/edlink-archive/archive.py` · komen
 - youtube: Materi - Sesi #1 (1) — https://www.youtube.com/watch?v=ipwn8NCTL1E
 - youtube: Materi - Sesi #2 (1) — https://www.youtube.com/watch?v=w3e0pCO9T1I
 - youtube: Data dan Informasi — https://www.youtube.com/watch?v=ykYePBlF-Cw
-- zoom: Video Konferensi - Sesi #4 (3) — (rekaman/tautan Zoom — buka di Edlink)
-- zoom: Video Konferensi - Sesi #5 (2) — (rekaman/tautan Zoom — buka di Edlink)
+- zoom: Video Konferensi - Sesi #4 (3) — https://zoom.us/rec/play/WOJFL6R-h8m8aeb5eS5eWq3aqZK1aOKApUcJT2Krg6F6pZjA9lAxnLlTGsTPvSFxhQO47600i38dwGlO.kYVUlTnGHebhrysQ
+- zoom: Video Konferensi - Sesi #5 (2) — https://zoom.us/rec/play/XY2mPYLyKcQiN4BTZvVAeqaPxSykZMOj1qssgDbTx2B7aJqFjPzJnIH2AOl3KL4yj2z5sHw-QTXaqnpg.9Ibi6LeM20gNSU0A

@@ -10,7 +10,7 @@
 - **Oleh**: Sinta Wahyuni, S.Pd. M.Pd · dibuat 2026-11-01 22:00
 
 **Lampiran:**
-- 📎 Sesi 3_MKU Bahasa Inggris_Leisure and Entertainment.pptx.pdf (255 KB) → `Sesi 3_MKU Bahasa Inggris_Leisure and Entertainment.pptx.pdf` *(ada di Edlink)*
+- 📎 Sesi 3_MKU Bahasa Inggris_Leisure and Entertainment.pptx.pdf (255 KB) → [`Sesi 3_MKU Bahasa Inggris_Leisure and Entertainment.pptx.pdf`](../materi/Sesi%203_MKU%20Bahasa%20Inggris_Leisure%20and%20Entertainment.pptx.pdf)
 - 🔗 Leisure and Entertainment: https://www.youtube.com/watch?v=Ls1JYyzuQkQ
 - 📎 SAT Bahasa Inggris Sesi 3 (1).docx (133 KB) → `SAT Bahasa Inggris Sesi 3 (1).docx` *(ada di Edlink)*.docx)
 
@@ -44,7 +44,7 @@
 > ⏰ Waktu: Pukul 11.00 WIB – selesai
 > 💻 Media: Zoom Meeting
 > 🔗 Link Zoom:
-> (rekaman/tautan Zoom — buka di Edlink)
+> https://us05web.zoom.us/j/84777881564?pwd=UTZAabDaAxG8SgKms0bNDHsaGegz9h.1
 > 
 > Terima kasih atas perhatian dan partisipasinya.
 > Wassalamu'alaikum warahmatullahi wabarakatuh.

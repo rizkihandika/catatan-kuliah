@@ -14,9 +14,9 @@
 > Silahkan di baca terlebih dahulu ya materi materi nya jika ada yang ditanyakan boleh ditanyakan di diskusi ya
 
 **Lampiran:**
-- 📎 Salinan Sesi 3 - Konsep Ekonomi Digital.pptx (1346 KB) → `Salinan Sesi 3 - Konsep Ekonomi Digital.pptx` *(ada di Edlink)*
-- 📎 Modul PTKI 03 - Konsep Ekonomi Digital.docx (110 KB) → `Modul PTKI 03 - Konsep Ekonomi Digital.docx` *(ada di Edlink)*
-- 📎 Modul PTKI 03 - Konsep Ekonomi Digital.pdf (299 KB) → `Modul PTKI 03 - Konsep Ekonomi Digital.pdf` *(ada di Edlink)*
+- 📎 Salinan Sesi 3 - Konsep Ekonomi Digital.pptx (1346 KB) → [`Salinan Sesi 3 - Konsep Ekonomi Digital.pptx`](../materi/Salinan%20Sesi%203%20-%20Konsep%20Ekonomi%20Digital.pptx)
+- 📎 Modul PTKI 03 - Konsep Ekonomi Digital.docx (110 KB) → [`Modul PTKI 03 - Konsep Ekonomi Digital.docx`](../materi/Modul%20PTKI%2003%20-%20Konsep%20Ekonomi%20Digital.docx)
+- 📎 Modul PTKI 03 - Konsep Ekonomi Digital.pdf (299 KB) → [`Modul PTKI 03 - Konsep Ekonomi Digital.pdf`](../materi/Modul%20PTKI%2003%20-%20Konsep%20Ekonomi%20Digital.pdf)
 
 ### Tugas - Sesi #3 (1)
 - **Jenis**: Tugas · post_id `9050753`

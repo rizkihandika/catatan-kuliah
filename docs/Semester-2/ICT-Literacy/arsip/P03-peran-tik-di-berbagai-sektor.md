@@ -16,7 +16,7 @@
 > TIK juga berperan dalam sektor transportasi melalui GPS dan aplikasi transportasi online, serta dalam bidang komunikasi melalui email, video conference, dan aplikasi pesan instan. Dengan demikian, penerapan TIK telah menjadi bagian penting dalam transformasi digital di berbagai sektor, sehingga masyarakat perlu memiliki literasi TIK agar mampu memanfaatkan teknologi secara efektif, aman, dan bertanggung jawab.
 
 **Lampiran:**
-- 📎 Modul ICT Literacy_03_Penerapan TIK di Berbagai Sektor.pdf (175 KB) → `Modul ICT Literacy_03_Penerapan TIK di Berbagai Sektor.pdf` *(ada di Edlink)*
+- 📎 Modul ICT Literacy_03_Penerapan TIK di Berbagai Sektor.pdf (175 KB) → [`Modul ICT Literacy_03_Penerapan TIK di Berbagai Sektor.pdf`](../materi/Modul%20ICT%20Literacy_03_Penerapan%20TIK%20di%20Berbagai%20Sektor.pdf)
 
 ### VCON SEsi 3
 - **Jenis**: Video konferensi · post_id `9058061`
@@ -46,7 +46,7 @@
 > Analisis ICT di berbagai sektor, dapat digunakan sebagai rekomendasi tugas sebelum UTS dikumpulkan di sesi 6 ya
 
 **Lampiran:**
-- 📎 Analisis ICT di berbagai Sektor.pdf (2818 KB) → `Analisis ICT di berbagai Sektor.pdf` *(ada di Edlink)*
+- 📎 Analisis ICT di berbagai Sektor.pdf (2818 KB) → [`Analisis ICT di berbagai Sektor.pdf`](../materi/Analisis%20ICT%20di%20berbagai%20Sektor.pdf)
 
 ### Video Pembelajaran Sesi 4
 - **Jenis**: Materi · post_id `9150440`

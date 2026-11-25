@@ -10,7 +10,7 @@
 - **Oleh**: Endah Handayani · dibuat 2026-11-19 22:00
 
 **Lampiran:**
-- 📎 PPT ALE 5.pdf (407 KB) → `PPT ALE 5.pdf` *(ada di Edlink)*
+- 📎 PPT ALE 5.pdf (407 KB) → [`PPT ALE 5.pdf`](../materi/PPT%20ALE%205.pdf)
 
 ### Video Interaktif - Sesi #5 Transformasi Elementer
 - **Jenis**: Video interaktif · post_id `9294973`
@@ -27,7 +27,7 @@
 - **Jenis**: Video konferensi · post_id `9318653`
 - **Oleh**: Endah Handayani · dibuat 2026-11-21 20:38
 - **Vicon**: ZOOM · jadwal - · status ended · mulai 2026-11-22 09:03 selesai 2026-11-22 09:33
-- **Rekaman**: (rekaman/tautan Zoom — buka di Edlink)
+- **Rekaman**: https://zoom.us/rec/play/rZeWl6Gye0ppj8ipBm9EM_LeYmsypN9e1gCWsbwhMUmtLbDsI6VmUcMZ85y4exhjq7MJn-iuy-Wga65_.0bd6eLNgrxpjaiHd
 
 **Isi / instruksi:**
 
@@ -44,4 +44,4 @@
 > Assalamualaykum wr wb. Teman2, jangan lupa untuk mengerjakan tugas 1. Perhatikan batas waktu unggah, tgl 29 November 2026.
 
 **Lampiran:**
-- 📎 Tugas 1 - Aljabar Linier.docx (316 KB) → `Tugas 1 - Aljabar Linier.docx` *(ada di Edlink)*
+- 📎 Tugas 1 - Aljabar Linier.docx (316 KB) → [`Tugas 1 - Aljabar Linier.docx`](../materi/Tugas%201%20-%20Aljabar%20Linier.docx)

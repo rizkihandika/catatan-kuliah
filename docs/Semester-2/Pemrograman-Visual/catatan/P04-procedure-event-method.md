@@ -1,6 +1,6 @@
 # P04 — Procedure, Event, dan Method
 
-Tanggal: 2026-11-11 · Sumber: `materi/Sesi 4 Pemrograman Visual.pdf` (`Pemograman Visual4.pptx` 404 di Edlink)
+Tanggal: 2026-11-11 · Sumber: [`Sesi 4 Pemrograman Visual.pdf`](../materi/Sesi%204%20Pemrograman%20Visual.pdf) (`Pemograman Visual4.pptx` 404 di Edlink)
 
 ## Ringkasan 3 kalimat
 **Prosedur (Sub)** adalah sub-program untuk proses yang dipakai berulang, terbagi menjadi **prosedur objek** (terikat control + event, dibuat otomatis saat double-click) dan **prosedur bebas** (berdiri sendiri, dipanggil dengan `Call`). **Event** adalah kejadian yang diterima objek, dikelompokkan menjadi event mouse, keyboard, dan perubahan. **Method** adalah aksi bawaan objek yang dipanggil dengan `Objek.Method`, misalnya `Close`/`Show` pada Form dan `Clear`/`Focus` pada TextBox.

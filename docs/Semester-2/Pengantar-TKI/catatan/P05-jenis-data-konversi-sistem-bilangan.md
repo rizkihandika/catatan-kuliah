@@ -1,6 +1,6 @@
 # P05 — Jenis Data, Konversi Data & Sistem Bilangan
 
-Sumber: `materi/Modul PTKI 05 - Jenis data, Konversi data dan sistem bilangan.pdf` (hal. 2–6). Kuis Sesi 5: 5 soal / 30 menit, tenggat 2026-11-24 12:00.
+Sumber: [`Modul PTKI 05 - Jenis data, Konversi data dan sistem bilangan.pdf`](../materi/Modul%20PTKI%2005%20-%20Jenis%20data%2C%20Konversi%20data%20dan%20sistem%20bilangan.pdf) (hal. 2–6). Kuis Sesi 5: 5 soal / 30 menit, tenggat 2026-11-24 12:00.
 
 ## 1. Jenis data
 | Dasar | Jenis | Ciri | Contoh |

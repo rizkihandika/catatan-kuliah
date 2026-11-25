@@ -10,7 +10,7 @@
 - **Oleh**: Endah Handayani · dibuat 2026-10-28 20:54
 
 **Lampiran:**
-- 📎 PPT ALE 2.pdf (644 KB) → `PPT ALE 2.pdf` *(ada di Edlink)*
+- 📎 PPT ALE 2.pdf (644 KB) → [`PPT ALE 2.pdf`](../materi/PPT%20ALE%202.pdf)
 
 ### Video Konferensi - Vektor di Ruang Dimensi N
 - **Jenis**: Video konferensi · post_id `9009020`

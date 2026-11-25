@@ -1,6 +1,6 @@
 # P02 — Konsep Teknologi Informasi
 
-Tanggal: 2026-10-29 · Sumber: `materi/Modul PTKI 02 - Pengertian Teknologi Informasi.docx`, `materi/Salinan Sesi 2 - Pengertian Teknologi Informasi.pptx`, video YouTube di post **P01** (isi tertukar)
+Tanggal: 2026-10-29 · Sumber: [`Modul PTKI 02 - Pengertian Teknologi Informasi.docx`](../materi/Modul%20PTKI%2002%20-%20Pengertian%20Teknologi%20Informasi.docx), [`Salinan Sesi 2 - Pengertian Teknologi Informasi.pptx`](../materi/Salinan%20Sesi%202%20-%20Pengertian%20Teknologi%20Informasi.pptx), video YouTube di post **P01** (isi tertukar)
 
 ## Ringkasan 3 kalimat
 Teknologi informasi adalah berbagai hal dan kemampuan untuk **membentuk, menyimpan, dan menyebarkan informasi**, termasuk teknologi komunikasi untuk mengirimkannya. Sistem informasi (SI) memakai komputer untuk mengumpulkan, memproses, menyimpan, menganalisis, dan menyebarkan informasi, dan bila memakai komputer + komunikasi disebut **CBIS**. TI punya **6 fungsi** (capture, processing, generating, storage, retrieval, transmission), prinsip **High-Tech-High-Touch**, dan 4 keuntungan: consistency, precision, reliability, speed.

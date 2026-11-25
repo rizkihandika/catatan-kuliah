@@ -10,7 +10,7 @@
 - **Oleh**: Winarsih, S.Si., MMSI · dibuat 2026-10-21 09:00
 
 **Lampiran:**
-- 📎 RPS Pengantar Teknologi Komunikasi dan Informatika.docx (329 KB) → `RPS Pengantar Teknologi Komunikasi dan Informatika.docx` *(ada di Edlink)*
+- 📎 RPS Pengantar Teknologi Komunikasi dan Informatika.docx (329 KB) → [`RPS Pengantar Teknologi Komunikasi dan Informatika.docx`](../materi/RPS%20Pengantar%20Teknologi%20Komunikasi%20dan%20Informatika.docx)
 
 ### Materi - Sesi #1 (1)
 - **Jenis**: Materi · post_id `8803247`
@@ -33,7 +33,7 @@
 > (link grup WA — tanya di grup kelas)
 
 **Lampiran:**
-- 📎 Modul PTKI 01 - Sejarah Teknologi Informasi.docx (102 KB) → `Modul PTKI 01 - Sejarah Teknologi Informasi.docx` *(ada di Edlink)*
+- 📎 Modul PTKI 01 - Sejarah Teknologi Informasi.docx (102 KB) → [`Modul PTKI 01 - Sejarah Teknologi Informasi.docx`](../materi/Modul%20PTKI%2001%20-%20Sejarah%20Teknologi%20Informasi.docx)
 
 ### Kuis - Sesi #1 (1)
 - **Jenis**: Kuis · post_id `8805080`

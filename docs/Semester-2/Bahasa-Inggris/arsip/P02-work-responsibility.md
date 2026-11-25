@@ -10,7 +10,7 @@
 - **Oleh**: Sinta Wahyuni, S.Pd. M.Pd · dibuat 2026-10-26 20:18
 
 **Lampiran:**
-- 📎 SAT Bahasa Inggris Sesi 2.docx (133 KB) → `SAT Bahasa Inggris Sesi 2.docx` *(ada di Edlink)*
+- 📎 SAT Bahasa Inggris Sesi 2.docx (133 KB) → [`SAT Bahasa Inggris Sesi 2.docx`](../materi/SAT%20Bahasa%20Inggris%20Sesi%202.docx)
 
 ### Work & Responsibility
 - **Jenis**: Materi · post_id `8901369`
@@ -29,4 +29,4 @@
 > Pada pertemuan kali ini, kita akan mempelajari materi Work & Responsibility, yang berarti pekerjaan dan tanggung jawab. Kita akan belajar kosakata bahasa Inggris tentang pekerjaan, rutinitas sehari-hari, dan tanggung jawab dalam pekerjaan. Silakan membaca PPT yang telah disediakan dengan saksama, pahami contoh kalimatnya, dan jangan ragu untuk bertanya jika ada materi yang belum dipahami. Selamat belajar, teman-teman! 😊
 
 **Lampiran:**
-- 📎 Sesi 2_MKU Bahasa Inggris_Work & Responsibility.pptx (5169 KB) → `Sesi 2_MKU Bahasa Inggris_Work & Responsibility.pptx` *(ada di Edlink)*
+- 📎 Sesi 2_MKU Bahasa Inggris_Work & Responsibility.pptx (5169 KB) → [`Sesi 2_MKU Bahasa Inggris_Work & Responsibility.pptx`](../materi/Sesi%202_MKU%20Bahasa%20Inggris_Work%20&%20Responsibility.pptx)

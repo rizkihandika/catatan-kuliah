@@ -1,6 +1,6 @@
 # P05 — Bus & Sistem Interkoneksi (Bagian II): Register, Siklus Instruksi, Interupsi
 
-Tanggal: 2026-11-21 · Sumber: `materi/dPRAS_OrKom#05 Bus & Sistem Interkoneksi Bagian II.pdf`
+Tanggal: 2026-11-21 · Sumber: [`dPRAS_OrKom#05 Bus & Sistem Interkoneksi Bagian II.pdf`](../materi/dPRAS_OrKom%2305%20Bus%20%26%20Sistem%20Interkoneksi%20Bagian%20II.pdf)
 
 ## Ringkasan 3 kalimat
 CPU berkomunikasi dengan memori dan I/O lewat register khusus: **MAR/MBR** untuk memori dan **I/O AR/I/O BR** untuk perangkat I/O. Setiap instruksi dijalankan lewat **siklus instruksi**: *fetch* (ambil instruksi dari memori ke IR, PC naik) → *execute* → *interrupt* (bila ada interupsi aktif). **Interupsi** membuat CPU menunda rutin utama untuk melayani modul lain, sehingga kerja CPU dengan memori/I/O yang kecepatannya berbeda menjadi efisien.

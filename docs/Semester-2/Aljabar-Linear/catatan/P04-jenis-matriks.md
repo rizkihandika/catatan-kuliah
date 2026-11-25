@@ -1,6 +1,6 @@
 # P04 — Jenis-Jenis Matriks
 
-Tanggal: 2026-11-13 · Sumber: `materi/PPT ALE 4.pdf`, video "Jenis Matriks" (Bu Ira, ±6 menit)
+Tanggal: 2026-11-13 · Sumber: [`PPT ALE 4.pdf`](../materi/PPT%20ALE%204.pdf), video "Jenis Matriks" (Bu Ira, ±6 menit)
 
 ## Ringkasan 3 kalimat
 Matriks diberi nama berdasarkan **bentuk** (bujursangkar) dan **pola nol** pada elemennya (nol, diagonal, segitiga atas/bawah). Turunan matriks diagonal dibedakan dari isi diagonalnya: semua 1 → **identitas**, semua sama (bukan 0/1) → **skalar**. Matriks **simetris** adalah matriks bujursangkar yang transposenya sama dengan dirinya sendiri (Aᵀ = A).

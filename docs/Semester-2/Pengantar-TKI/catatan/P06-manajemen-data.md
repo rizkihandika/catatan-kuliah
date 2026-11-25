@@ -1,6 +1,6 @@
 # P06 — Manajemen Data
 
-Tanggal: 2026-11-26 · Sumber: `materi/Modul PTKI 06 - Manajemen Data.pdf/.docx`, `materi/Salinan Sesi 6 - Manajemen Data.pptx`
+Tanggal: 2026-11-26 · Sumber: `materi/Modul PTKI 06 - Manajemen Data.pdf/.docx`, [`Salinan Sesi 6 - Manajemen Data.pptx`](../materi/Salinan%20Sesi%206%20-%20Manajemen%20Data.pptx)
 
 ## Ringkasan 3 kalimat
 Manajemen data mencakup semua aspek **pembuatan, penyimpanan, pengiriman, pemeliharaan, pengamanan, hingga "mempensiunkan" data**, agar data **akurat, mutakhir, aman, dan tersedia** bagi pengguna. Kegiatannya ada tujuh: pengumpulan, integritas & pengujian, penyimpanan, pemeliharaan, keamanan, organisasi, dan pengambilan. Data disimpan dalam **database** (kumpulan data berelasi tanpa redundansi yang tidak perlu) yang dikelola **DBMS**, dengan tujuan menghindari redundansi dan mencapai independensi data.

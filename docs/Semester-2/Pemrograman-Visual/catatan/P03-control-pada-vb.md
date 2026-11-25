@@ -1,6 +1,6 @@
 # P03 — Control pada Visual Basic
 
-Tanggal: 2026-11-04 · Sumber: `materi/Pemograman Visual3.ppt`, `materi/PV Modul Sesi 3.docx`, `materi/Bab 4.pdf`
+Tanggal: 2026-11-04 · Sumber: [`Pemograman Visual3.ppt`](../materi/Pemograman%20Visual3.ppt), [`PV Modul Sesi 3.docx`](../materi/PV%20Modul%20Sesi%203.docx), [`Bab 4.pdf`](../materi/Bab%204.pdf)
 
 ## Ringkasan 3 kalimat
 Control dasar Windows Forms adalah **Label** (teks tak bisa diedit), **TextBox** (input/output teks), **Button** (menjalankan perintah), **ComboBox** (daftar pilihan yang bisa diketik), **ListBox** (daftar berindeks 0..n−1), serta CheckBox/RadioButton. Tiap control diatur lewat Properties window (F4) dan diberi prefix nama (`lbl`, `txt`, `btn`, `cbo`, `lst`). Pengaturan form penting: **AcceptButton** (tombol yang terpicu Enter) dan **TabIndex** (urutan fokus saat Tab).

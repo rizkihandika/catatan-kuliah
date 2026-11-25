@@ -1,6 +1,6 @@
 # P04 — Health & Verb Patterns
 
-Tanggal: 2026-11-10 · Sumber: `materi/Sesi 4_MKU Bahasa Inggris_Health (2).pptx`, `materi/Sesi 4_MKU Bahasa Inggris_Verb Pattern.pptx`, `materi/Reading comprehension_Fitness Pill.docx`, transkrip video Health & Verb Patterns
+Tanggal: 2026-11-10 · Sumber: [`Sesi 4_MKU Bahasa Inggris_Health (2).pptx`](../materi/Sesi%204_MKU%20Bahasa%20Inggris_Health%20%282%29.pptx), [`Sesi 4_MKU Bahasa Inggris_Verb Pattern.pptx`](../materi/Sesi%204_MKU%20Bahasa%20Inggris_Verb%20Pattern.pptx), [`Reading comprehension_Fitness Pill.docx`](../materi/Reading%20comprehension_Fitness%20Pill.docx), transkrip video Health & Verb Patterns
 
 ## Ringkasan 3 kalimat
 Tema Health memberi kosakata gejala, penyakit, rasa sakit (*ache/hurt/pain*), cedera beserta penanganannya, dan situasi rumah sakit. Grammar-nya adalah **lima verb patterns**: V + object, V + object + question word, V + object + to V1, V + (that) clause, dan V + (object) + preposition. Bacaan *Fitness Pill* melatih reading comprehension dengan kosakata kesehatan dan olahraga.

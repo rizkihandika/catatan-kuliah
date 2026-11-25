@@ -16,7 +16,7 @@
 > Pada pertemuan kedua ini kita akan membahas terkait building user interface pada pemrograman visual dengan visual code. Jadi silahkan rekan rekan dapat membaca terlebih dahulu modul yang ada pada sesi ini
 
 **Lampiran:**
-- 📎 Pemograman Visual Sesi 2.ppt (1674 KB) → `Pemograman Visual Sesi 2.ppt` *(ada di Edlink)*
+- 📎 Pemograman Visual Sesi 2.ppt (1674 KB) → [`Pemograman Visual Sesi 2.ppt`](../materi/Pemograman%20Visual%20Sesi%202.ppt)
 
 ### Quiz Pembelajaran #2
 - **Jenis**: Kuis · post_id `8974136`

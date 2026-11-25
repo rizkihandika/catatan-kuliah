@@ -15,9 +15,9 @@
 > menjelaskan jenis-jenis data, melakukan konversi data, dan menggunakan sistem bilangan
 
 **Lampiran:**
-- 📎 Modul PTKI 05 - Jenis data, Konversi data dan sistem bilangan.pdf (314 KB) → `Modul PTKI 05 - Jenis data, Konversi data dan sistem bilangan.pdf` *(ada di Edlink)*
-- 📎 Modul PTKI 05 - Jenis data, Konversi data dan sistem bilangan.docx (117 KB) → `Modul PTKI 05 - Jenis data, Konversi data dan sistem bilangan.docx` *(ada di Edlink)*
-- 📎 Salinan Sesi 5 - Jenis data, Konversi data dan sistem bilangan.pptx (895 KB) → `Salinan Sesi 5 - Jenis data, Konversi data dan sistem bilangan.pptx` *(ada di Edlink)*
+- 📎 Modul PTKI 05 - Jenis data, Konversi data dan sistem bilangan.pdf (314 KB) → [`Modul PTKI 05 - Jenis data, Konversi data dan sistem bilangan.pdf`](../materi/Modul%20PTKI%2005%20-%20Jenis%20data,%20Konversi%20data%20dan%20sistem%20bilangan.pdf)
+- 📎 Modul PTKI 05 - Jenis data, Konversi data dan sistem bilangan.docx (117 KB) → [`Modul PTKI 05 - Jenis data, Konversi data dan sistem bilangan.docx`](../materi/Modul%20PTKI%2005%20-%20Jenis%20data,%20Konversi%20data%20dan%20sistem%20bilangan.docx)
+- 📎 Salinan Sesi 5 - Jenis data, Konversi data dan sistem bilangan.pptx (895 KB) → [`Salinan Sesi 5 - Jenis data, Konversi data dan sistem bilangan.pptx`](../materi/Salinan%20Sesi%205%20-%20Jenis%20data,%20Konversi%20data%20dan%20sistem%20bilangan.pptx)
 
 ### Kuis - Sesi #5 (1)
 - **Jenis**: Kuis · post_id `9253659`
@@ -33,7 +33,7 @@
 - **Jenis**: Video konferensi · post_id `9254003`
 - **Oleh**: Winarsih, S.Si., MMSI · dibuat 2026-11-17 16:29
 - **Vicon**: ZOOM · jadwal 2026-11-21 19:00 · status ended · mulai 2026-11-21 19:00 selesai 2026-11-21 19:45
-- **Rekaman**: (rekaman/tautan Zoom — buka di Edlink)
+- **Rekaman**: https://zoom.us/rec/play/XY2mPYLyKcQiN4BTZvVAeqaPxSykZMOj1qssgDbTx2B7aJqFjPzJnIH2AOl3KL4yj2z5sHw-QTXaqnpg.9Ibi6LeM20gNSU0A
 
 **Isi / instruksi:**
 

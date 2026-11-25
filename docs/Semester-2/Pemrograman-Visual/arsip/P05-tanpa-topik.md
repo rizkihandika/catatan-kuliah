@@ -18,5 +18,5 @@
 > Untuk absensi sesi 1 dan 4 yang sudah diselesaikan kewajibannya oleh teman teman tidak perlu khawatir, karena akan saya cek kembali dalam 2 hari ini ya.
 
 **Lampiran:**
-- 📎 Bab 4.pdf (212 KB) → `Bab 4.pdf` *(ada di Edlink)*
-- 📎 PV5 Dialogs.pptx (466 KB) → `PV5 Dialogs.pptx` *(ada di Edlink)*
+- 📎 Bab 4.pdf (212 KB) → [`Bab 4.pdf`](../materi/Bab%204.pdf)
+- 📎 PV5 Dialogs.pptx (466 KB) → [`PV5 Dialogs.pptx`](../materi/PV5%20Dialogs.pptx)

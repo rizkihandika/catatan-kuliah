@@ -58,8 +58,8 @@
 > Untuk Memudahkan komunikasi nanti ibu share ya no wa, terima kasih
 
 **Lampiran:**
-- 📎 Sesi 1 - Pendahuluan ICT Literacy.pptx (3420 KB) → `Sesi 1 - Pendahuluan ICT Literacy.pptx` *(ada di Edlink)*
-- 📎 Modul ICT Literacy_01_Pendahuluan ITC Literacy.pdf (235 KB) → `Modul ICT Literacy_01_Pendahuluan ITC Literacy.pdf` *(ada di Edlink)*
+- 📎 Sesi 1 - Pendahuluan ICT Literacy.pptx (3420 KB) → [`Sesi 1 - Pendahuluan ICT Literacy.pptx`](../materi/Sesi%201%20-%20Pendahuluan%20ICT%20Literacy.pptx)
+- 📎 Modul ICT Literacy_01_Pendahuluan ITC Literacy.pdf (235 KB) → [`Modul ICT Literacy_01_Pendahuluan ITC Literacy.pdf`](../materi/Modul%20ICT%20Literacy_01_Pendahuluan%20ITC%20Literacy.pdf)
 
 ### Video Interaktif (pendahuluan)
 - **Jenis**: Video interaktif · post_id `8799379`

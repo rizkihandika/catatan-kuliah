@@ -1,6 +1,6 @@
 # P01 — Konsep Logika dan Pemrograman (Pendahuluan)
 
-Tanggal: 2026-10-26 · Sumber: `materi/Dasar Pemrograman Pertemuan 1.pdf`
+Tanggal: 2026-10-26 · Sumber: [`Dasar Pemrograman Pertemuan 1.pdf`](../materi/Dasar%20Pemrograman%20Pertemuan%201.pdf)
 
 ## Ringkasan 3 kalimat
 Dasar Pemrograman membangun logika pemrograman dan pemecahan masalah sederhana, dengan pokok bahasan: penulisan algoritma, flowchart, penamaan & tipe data, operasi & operator, struktur dasar (runtunan, pemilihan, perulangan), dan subprogram. Algoritma adalah urutan langkah logis untuk memecahkan masalah secara sistematis, tetapi ia hanya **satu tahap** dari pemecahan masalah: masalah → analisis → perancangan algoritma → implementasi. Paradigma bahasa pemrograman terbagi menjadi **imperative** (procedural, OOP) dan **declarative** (functional, logic).

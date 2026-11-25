@@ -10,8 +10,8 @@
 - **Oleh**: Yunan Fauzi Wijaya · dibuat 2026-11-10 23:13
 
 **Lampiran:**
-- 📎 AP.04 - Modul PPT - Condition.pdf (847 KB) → `AP.04 - Modul PPT - Condition.pdf` *(ada di Edlink)*
-- 📎 AP.04 - Modul PDF - Condition.pdf (1216 KB) → `AP.04 - Modul PDF - Condition.pdf` *(ada di Edlink)*
+- 📎 AP.04 - Modul PPT - Condition.pdf (847 KB) → [`AP.04 - Modul PPT - Condition.pdf`](../materi/AP.04%20-%20Modul%20PPT%20-%20Condition.pdf)
+- 📎 AP.04 - Modul PDF - Condition.pdf (1216 KB) → [`AP.04 - Modul PDF - Condition.pdf`](../materi/AP.04%20-%20Modul%20PDF%20-%20Condition.pdf)
 
 ### Kuis - Sesi #4
 - **Jenis**: Kuis · post_id `9149840`
