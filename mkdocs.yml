@@ -1,0 +1,40 @@
+site_name: Catatan Kuliah IF102
+site_url: https://rizkihandika.github.io/catatan-kuliah/
+docs_dir: docs
+theme:
+  name: material
+  language: id
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle: {icon: material/weather-night, name: Mode gelap}
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      toggle: {icon: material/weather-sunny, name: Mode terang}
+plugins:
+  - search
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc: {permalink: true}
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tasklist: {custom_checkbox: true}
+  - pymdownx.arithmatex: {generic: true}
+extra_javascript:
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+validation:
+  links: {not_found: info, unrecognized_links: info}
