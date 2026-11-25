@@ -6,7 +6,10 @@ hide:
 
 # Catatan Kuliah IF102
 
-Informatika PJJ · UNSIA · diperbarui 2026-11-25 10:57 WIB
+Informatika PJJ · UNSIA · diperbarui 2026-11-25 11:01 WIB
+
+!!! danger "URGENT — Tugas ICT Literacy: Upload Tugas Sebelum UTS"
+    <span class="countdown" data-deadline="2026-11-30T10:19:30+07:00"><span class="countdown-left"></span></span> &nbsp; [:material-arrow-right-bold: Buka semua info tugas ini](URGENT.md){ .md-button .md-button--primary }
 
 <div class="grid cards" markdown>
 

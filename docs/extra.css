@@ -11,3 +11,11 @@
 [data-md-color-scheme="slate"] .md-typeset .grid.cards .lg { color: var(--md-accent-fg-color); }
 .md-typeset a:has(code) code { color: var(--md-typeset-a-color); }
 @media (max-width: 600px) { .md-typeset { font-size: .78rem; } }
+/* Hitung mundur & menu urgent */
+.md-typeset div.countdown { font-size: 1rem; padding: .7em 1em; border-radius: .5rem;
+  background: var(--md-accent-fg-color--transparent); border-left: .3rem solid #ff1744; margin-bottom: 1em; }
+.countdown-left { font-weight: 700; color: #d50000; }
+[data-md-color-scheme="slate"] .countdown-left { color: #ff8a80; }
+.countdown.soon .countdown-left { animation: blink 1.5s ease-in-out infinite; }
+@keyframes blink { 50% { opacity: .45; } }
+.md-tabs__item:nth-child(2) .md-tabs__link { font-weight: 700; color: #ffd54f; opacity: 1; }
