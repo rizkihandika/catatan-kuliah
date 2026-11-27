@@ -1,14 +1,17 @@
 # Deadline
 
 Urutkan dari yang paling dekat. Pindahkan ke bagian **Selesai** setelah dikumpulkan.
-Sumber: Edlink "Perlu Dikerjakan" (diambil 2026-11-25).
+Sumber: Edlink "Perlu Dikerjakan" (sync 2026-11-27).
 
 ## Aktif
 | Tanggal | Mata Kuliah | Jenis | Judul | Status |
 |---------|-------------|-------|-------|--------|
 | 2026-11-29 23:30 | Aljabar Linear | Tugas | [Tugas 1 Aljabar Linier](Semester-2/Aljabar-Linear/tugas/T01-tugas-1-aljabar-linier/instruksi.md) | belum (Edlink: belum dikumpulkan) |
-| 2026-11-30 10:19 | ICT Literacy | Tugas | [Upload Tugas Sebelum UTS](Semester-2/ICT-Literacy/tugas/T01-upload-tugas-sebelum-uts/instruksi.md) — **makalah implementasi ICT Literacy di bidang pekerjaan** (berkesinambungan s/d UAS; info grup WA 11-19; cakupan Tugas 1 perlu dikonfirmasi, aman: draf Bab 1–3), referensi 10–20, tidak boleh telat | belum |
+| 2026-11-30 10:19 | ICT Literacy | Tugas | [Upload Tugas Sebelum UTS](Semester-2/ICT-Literacy/tugas/T01-upload-tugas-sebelum-uts/instruksi.md) — **makalah implementasi ICT Literacy di bidang pekerjaan**: Tugas 1 = **proposal** (Bab 1–3), individu/kelompok maks 3 (tiap anggota upload), A4 TNR 12 spasi 1, PDF `TUGAS1_ICTLiteracy_NamaKelompok.pdf`, referensi ≥ 10 (target akhir tepat 20), tidak boleh telat | belum |
+| 2026-11-30 23:59 | Algoritma dan Pemrograman | Kuis | Kuis - Sesi #6 | belum |
+| 2026-12-01 10:00 | Pengantar Teknologi Komunikasi dan Informatika | Kuis | Kuis - Sesi #6 (1) — 5 soal, 30 menit. Deskripsi dosen bilang Selasa 12.00, tapi sistem menutup **10:00** (pakai yang lebih awal) | belum |
 | 2026-12-01 12:00 | Dasar Pemrograman | Kuis | Kuis - Sesi #6 (1) | belum |
+| (tanpa batas) | ICT Literacy | Kuis | Quiz Sesi 6 (post 9398493, terbit 2026-11-27) | belum |
 
 <!-- Jenis: Tugas / Kuis / Praktikum / UTS / UAS / Proyek -->
 <!-- Status: belum / dikerjakan / review / selesai -->

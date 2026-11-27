@@ -55,12 +55,14 @@ RPS belum tersedia di Edlink — tanyakan dosen / cek pengumuman.
 | 15 | 2027-01-27 | - | |
 | 16 | 2027-02-03 | UAS (perkiraan dari RPS) | |
 
-## Status Edlink (sync 2026-11-25)
-- **Progres**: 64% — materi 9/16, kuis 5/5, tugas 0/1
-- **Belum dibuka**: P01 (4/5), P03 (5/7), P04 (1/3), P05 (3/5) — post materi belum dibuka
-- **Materi lokal** (`materi/`): Modul ICT Literacy 01–06 (.pdf), slide Sesi 1, 4 & 6 (.pptx), Analisis ICT di berbagai Sektor.pdf
+## Status Edlink (sync 2026-11-27)
+- **Progres**: 91% — materi 16/16, kuis 5/6, tugas 0/1
+- **Belum dibuka**: P06: Video Interaktif Sesi 6 belum ditonton (tonton sendiri di Edlink); Quiz Sesi 6 & Upload Tugas belum
+- **Materi lokal** (`materi/`, 12 file): .gitkeep, Analisis ICT di berbagai Sektor.pdf, Modul ICT Literacy_01_Pendahuluan ITC Literacy.pdf, Modul ICT Literacy_02_Penerapan TIK di Masyarakat.pdf, Modul ICT Literacy_03_Penerapan TIK di Berbagai Sektor.pdf, Modul ICT Literacy_04_Database dan ICT Literacy.pdf, Modul ICT Literacy_05_Data Warehouse dan Business Intelligence (9259370).pdf, Modul ICT Literacy_05_Data Warehouse dan Business Intelligence.pdf, Modul ICT Literacy_06_Internet dan World Wide Web.pdf, Sesi 1 - Pendahuluan ICT Literacy.pptx, Sesi 4 - Database dan ICT Literacy.pptx, Sesi 6 - Internet dan World Wide Web.pptx
 
 ## Info dari forum & pengumuman dosen
+- **Vicon Zoom hanya di pertemuan ganjil: 1, 3, 5, 7** (info 2026-11-27).
+- Tugas akhir: individu atau kelompok (maks 3), tema ICT Literacy × background pekerjaan. Tugas 1 = proposal. Detail di [T01](tugas/T01-upload-tugas-sebelum-uts/instruksi.md).
 - Tiap sesi dosen membuka post **'Diskusi Pagi Sesi N'** (pertanyaan pemantik), dijawab di komentar. Kemungkinan besar masuk nilai keaktifan — cek apakah kamu sudah menjawab sesi 5.
 - Diskusi Pagi Sesi 5 (studi kasus): data kampus terpisah di SIAKAD, keuangan, presensi, LMS → bagaimana Data Warehouse + BI membantu evaluasi akademik & layanan? Pola jawaban teman: DW = penyimpanan terpusat & historis via ETL; BI = dashboard/OLAP → deteksi dini mahasiswa berisiko DO, evaluasi matkul, kebijakan beasiswa/cicilan.
 - Video Pembelajaran Sesi 5 + kuesioner yang diminta dosen: https://forms.gle/zrrcd9bsuDRp7EhR8

@@ -46,12 +46,13 @@ Sumber: RPS di `materi/`.
 | 15 | 2027-01-29 |  | |
 | 16 | 2027-02-05 | UAS (perkiraan dari RPS) | |
 
-## Status Edlink (sync 2026-11-25)
-- **Progres**: 17% — materi 1/5, tugas 0/1
-- **Belum dibuka**: P02 (1/2), P03 (1/2), P04 (0/2), P05 (1/4) — post materi belum dibuka
-- **Materi lokal** (`materi/`): PPT ALE 1–5.pdf, Tugas 1 - Aljabar Linier.docx, RPS
+## Status Edlink (sync 2026-11-27)
+- **Progres**: 86% — materi 6/6, tugas 0/1
+- **Belum dibuka**: P06 (1/2): Video Interaktif Sesi #6 Rank Matriks belum ditonton (tonton sendiri di Edlink)
+- **Materi lokal** (`materi/`, 9 file): .gitkeep, PPT ALE 1.pdf, PPT ALE 2.pdf, PPT ALE 3.pdf, PPT ALE 4.pdf, PPT ALE 5.pdf, PPT ALE 6.pdf, RPS_ALJABAR LINIER_TI_UNSIA_AMRM (2).docx, Tugas 1 - Aljabar Linier.docx
 
 ## Info dari forum & pengumuman dosen
+- P06 Rank Matriks (2026-11-27): video YouTube https://www.youtube.com/watch?v=5mB5K7Ri97c&list=PLvOuFZ_J_esh0ri5O6yGfdvu3_upiPav9&index=6 · Video Interaktif Sesi #6 di Edlink.
 - **Tugas 1** tenggat 2026-11-29 23:30, format PDF, individu, tanpa perpanjangan → lihat `tugas/T01-tugas-1-aljabar-linier/`.
 - Vicon tidak di jam jadwal: Sesi 2 Senin 2026-11-02 20:00, Sesi 3 Sabtu 2026-11-07 19:00, Sesi 5 Minggu 2026-11-22 09:00. Pantau post 'Video Konferensi'.
 - Video pembelajaran matriks (YouTube): https://www.youtube.com/watch?v=ugiKvOfwFcg&list=PLvOuFZ_J_esiq9tPCHs__rsCa7nM9SRoI&index=3

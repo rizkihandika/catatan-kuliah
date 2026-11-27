@@ -58,10 +58,10 @@ Sumber: RPS di `materi/`.
 | 15 | 2027-01-30 | - | |
 | 16 | 2027-02-06 | UAS (perkiraan dari RPS) | |
 
-## Status Edlink (sync 2026-11-25)
-- **Progres**: 0% — materi 0/6
-- **Belum dibuka**: P01 (0/1), P02 (0/1), P03 (0/1), P05 (0/1) — post materi belum dibuka
-- **Materi lokal** (`materi/`): dPRAS_OrKom#01–#06 (.pdf), RPS
+## Status Edlink (sync 2026-11-27)
+- **Progres**: 100% — materi 6/6
+- **Belum dibuka**: semua sudah dibuka
+- **Materi lokal** (`materi/`, 8 file): .gitkeep, RPS Organisasi Dan Arsitektur Komputer dPRAS.pdf, dPRAS_OrKom#01 Pendahuluan.pdf, dPRAS_OrKom#02 Organisasi Komputer.pdf, dPRAS_OrKom#03 Evolusi Dan Kinerja Komputer.pdf, dPRAS_OrKom#04 Bus & Sistem Interkoneksi.pdf, dPRAS_OrKom#05 Bus & Sistem Interkoneksi Bagian II.pdf, dPRAS_OrKom#06 Memory Internal.pdf
 
 ## Info dari forum & pengumuman dosen
 - Kelas asinkron: tiap sesi hanya 1 post Materi (PDF), tanpa kuis/vicon. Progres 0% → buka setiap post materi di Edlink supaya tercatat.

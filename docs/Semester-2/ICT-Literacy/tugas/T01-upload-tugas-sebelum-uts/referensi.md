@@ -1,0 +1,58 @@
+# Kandidat Referensi — Makalah ICT Literacy × AI Generatif
+
+Dicari 2026-11-27 lewat Google Scholar dan Google di browser bawaan. Semua judul dan link di bawah **benar-benar muncul** di hasil pencarian. Daftar penulis yang berakhir "…" terpotong di Scholar, jadi ambil metadata lengkapnya lewat **Zotero Connector** saat membuka halamannya.
+
+**Cara pakai:**
+- ⭐ = prioritas untuk Tugas 1. Ada 13 sumber ⭐, cukup untuk syarat ≥ 10.
+- Baca abstrak + bagian yang relevan, lalu simpan ke Zotero.
+- Coret sumber yang ternyata tidak cocok. Kutip hanya yang benar-benar kamu baca.
+
+## A. Konsep ICT literacy & AI literacy → Bab 2.1, 2.4, indikator variabel X
+| | Sumber | Pakai untuk |
+|---|---|---|
+| ⭐ | ICT Literacy Panel. (2002). *Digital transformation: A framework for ICT literacy*. Educational Testing Service. [PDF](https://www.dga.or.th/upload/download/file_0e9cd3f1715de5f1a0d157d4b8ae5edb.pdf) | Sumber asli 5 komponen (access, manage, integrate, evaluate, create); dirujuk 235× |
+| ⭐ | Long, D., & Magerko, B. (2020). What is AI literacy? Competencies and design considerations. *Proceedings of CHI 2020*. [ACM](https://dl.acm.org/doi/abs/10.1145/3313831.3376727) | Definisi & kompetensi AI literacy; dirujuk 8.000+× |
+| ⭐ | Ng, D. T. K., Leung, J. K. L., Chu, S. K. W., & Qiao, M. S. (2021). Conceptualizing AI literacy: An exploratory review. *Computers and Education: Artificial Intelligence*. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2666920X21000357) | Kerangka AI literacy (open access) |
+| ⭐ | Wardoyo, P. (2022). Analisis ICT literacy mahasiswa pada pelaksanaan perkuliahan online di masa pandemi pada STTIKOM Insan Unggul. *JIIP*. [PDF](https://www.academia.edu/download/101018133/979_Article_Text_7172_1_10_20221001.pdf) | Penelitian terdahulu ICT literacy di Indonesia; contoh instrumen |
+| | Nalendra, V., Hermadi, I., & Agusta, I. (2017). Analisis ICT literacy pengguna aplikasi Sistem Informasi Manajemen Akademik (studi kasus SIMAK …). *Jurnal Komunikasi Pembangunan*. [IPB](https://journal.ipb.ac.id/jurnalkmp/article/view/22776) | Contoh mengukur ICT literacy dengan kuesioner |
+| | Islamia, I., & Arif, A. R. (2024). Assessing digital literacy skills among Indonesian university students in the age of Society 5.0. *Jurnal Educative*. [Link](https://ejournal.uinbukittinggi.ac.id/educative/article/view/8678) | Data literasi digital anak muda Indonesia |
+| | *Modul ICT Literacy 01 – Pendahuluan* (materi kuliah, `materi/`) | Definisi dari dosen, untuk dikutip di 2.1 |
+
+## B. AI generatif & keterbatasannya → Bab 1 (latar belakang), Bab 2.2
+| | Sumber | Pakai untuk |
+|---|---|---|
+| ⭐ | Kasneci, E., Seßler, K., Küchemann, S., Bannert, M., … (2023). ChatGPT for good? On opportunities and challenges of large language models for education. *Learning and Individual Differences*. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1041608023000195) | Peluang & risiko LLM di pendidikan; dirujuk 17.000+× |
+| ⭐ | Ji, Z., Lee, N., Frieske, R., Yu, T., Su, D., Xu, Y., Ishii, E., … (2023). Survey of hallucination in natural language generation. *ACM Computing Surveys*. [ACM](https://dl.acm.org/doi/abs/10.1145/3571730) | Rujukan utama soal **halusinasi** AI |
+| | Meyer, J. G., Urbanowicz, R. J., Martin, P. C. N., O'Connor, K., … (2023). ChatGPT and large language models in academia: Opportunities and challenges. *BioData Mining*. [Springer](https://link.springer.com/article/10.1186/s13040-023-00339-9) | Tambahan, open access |
+
+## C. Etika, integritas, kebijakan → Bab 2.4, indikator variabel Y
+| | Sumber | Pakai untuk |
+|---|---|---|
+| ⭐ | Miao, F., & Holmes, W. (2023). *Guidance for generative AI in education and research*. UNESCO. [Google Books](https://books.google.com/books?id=cKnYEAAAQBAJ) | Panduan internasional (unduh PDF gratis dari situs UNESCO) |
+| ⭐ | Kusumawardani, S. S., Wulandari, D., Pannen, P., Ekadiyanto, F. A., Wiryana, I. M., Purwarianti, A., & Alfarozi, S. A. I. (2024). *Panduan penggunaan generative artificial intelligence pada pembelajaran di perguruan tinggi*. Direktorat Pembelajaran dan Kemahasiswaan, Ditjen Diktiristek. [Repositori](https://repositori.kemendikdasmen.go.id/32289/) · [PDF](https://kemdiktisaintek.go.id/api/file/humas-production/2024/10/Panduan-Penggunaan-Generative-Artificial-Intelligence-pada-Pembelajaran-di-Perguruan-Tinggi.pdf) | Pedoman resmi Indonesia (sudah dicek: terbit Okt 2024) |
+| ⭐ | Cotton, D. R. E., Cotton, P. A., & Shipway, J. R. (2024). Chatting and cheating: Ensuring academic integrity in the era of ChatGPT. *Innovations in Education and Teaching International*. [T&F](https://www.tandfonline.com/doi/abs/10.1080/14703297.2023.2190148) | Integritas akademik |
+| ⭐ | Chairunnisa, S., & Amaniar, F. (2025). AI dan masa depan: Tantangan etika generasi Z. *Dewantara: Jurnal Pendidikan …*. [Link](https://jurnaluniv45sby.ac.id/index.php/Dewantara/article/view/3807) | Etika AI pada **generasi muda**, cocok dengan subjekmu |
+| | Ortiz-Bonnin, S., & Blahopoulou, J. (2025). Chat or cheat? Academic dishonesty, risk perceptions, and ChatGPT usage in higher education students. *Social Psychology of Education*. [Springer](https://link.springer.com/article/10.1007/s11218-025-10080-2) | Tambahan soal kecurangan |
+
+## D. Penelitian terdahulu → Bab 2.5 (tabel) dan perbandingan di Bab 4 nanti
+| | Sumber | Kenapa mirip |
+|---|---|---|
+| ⭐ | Marnita, S. M., Anugrah, S., Hendri, N., … (2026). Hubungan penggunaan ChatGPT dengan literasi digital mahasiswa Teknologi Pendidikan Universitas Negeri Padang. *Pendas*. [Link](https://journal.unpas.ac.id/index.php/pendas/article/view/47121) | **Korelasional**, paling mirip dengan rumusan masalah 3 |
+| ⭐ | Fadliyah, A. H., & Zatadini, G. I. (2024). Pengaruh pemanfaatan ChatGPT terhadap literasi digital pengguna (studi kasus mahasiswa UIN SATU Tulungagung). *Educationist*. [Link](https://jurnal.litnuspublisher.com/index.php/jecs/article/view/232) | ChatGPT × literasi digital, kuantitatif |
+| ⭐ | Ramadhan, G., & Susanti, A. (2026). The impact of generative AI use, AI literacy, and AI usage ethics on critical thinking skills among students at Universitas Negeri Semarang. *Improvement*. [Link](https://journal.unj.ac.id/unj/index.php/improvement/article/view/68359) | Ada variabel **etika** + berpikir kritis, dekat dengan variabel Y |
+| | Syamsuddin, I., Verawati, V., … (2026). Advanced digital literacy: Analysis of student readiness in facing generative AI. *Priviet Social Sciences Journal*. [Link](https://journal.privietlab.org/index.php/PSSJ/article/view/1223) | Kesiapan literasi digital menghadapi AI |
+| | Zulfa, I., Hariyanti, U., & Wijoyo, S. H. (2026). Pengaruh penggunaan ChatGPT dan literasi digital terhadap motivasi belajar mahasiswa Pendidikan Teknologi Informasi. *JTIIK*. [Link](https://jtiik.ub.ac.id/index.php/jtiik/article/view/11251) | Jurnal bereputasi (UB), mahasiswa TI |
+| | Sergeeva, O. V., Masalimova, A. R., Zheltukhina, M. R., … (2025). Impact of digital media literacy on attitude toward generative AI acceptance in higher education. *Frontiers in Education*. [Link](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1563148/full) | Literasi → sikap terhadap AI (internasional) |
+| | Wu, D., & Zhang, J. (2025). Generative artificial intelligence in secondary education: Applications and effects on students' innovation skills and digital literacy. *PLoS One*. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323349) | AI generatif × literasi digital, dirujuk 150+× |
+| | Ibrahim, J., Syahran, R., Lestari, M., … (2026). Pengaruh penggunaan kecerdasan buatan terhadap cara berpikir kritis dan motivasi belajar mahasiswa generasi Z. *Jurnal Pendidikan dan …*. [Link](https://jurnal.bimaberilmu.com/index.php/jppi/article/view/5541) | Subjek **generasi Z** |
+| | Astuty, N. T., & Anggraini, C. (2024). Optimalisasi penggunaan ChatGPT dalam meningkatkan literasi digital pada pembelajaran di Universitas Telkom. *Jurnal Ilmu Komunikasi*. [Link](http://jurnalilmukomunikasi.uho.ac.id/index.php/journal/article/view/182) | Pendekatan kualitatif, pembanding |
+
+## E. Data statistik & metodologi (dicari 2026-11-27) → Bab 1 (latar belakang), Bab 3
+| | Sumber | Pakai untuk |
+|---|---|---|
+| ⭐ | Asosiasi Penyelenggara Jasa Internet Indonesia [APJII]. (2026). *Survei penetrasi internet dan perilaku pengguna internet Indonesia 2026*. APJII. [survei.apjii.or.id](https://survei.apjii.or.id) · berita: [Metro TV](https://www.metrotvnews.com/read/kqYCdR56-survei-apjii-gen-z-paling-banyak-mengakses-ai) | **Paragraf 1–2 latar belakang.** Penetrasi internet 81,72% (235,26 juta jiwa). Hanya **18,2%** responden mengakses AI (2025: 27,3%). **Gen Z (13–28 th) paling aktif: 29,4%**, milenial 16,7%. Alasan tidak memakai: merasa tidak butuh 43,1%, **tidak tahu teknologi AI 35,5%**, tidak tahu cara pakai 8,1% → bukti celah *ICT/AI literacy*. Tujuan pemakaian: hiburan 36,5%, edukasi & riset 30,2%, pekerjaan 26,9%. Survei 1 Feb–15 Mar 2026, 8.700 responden, 38 provinsi, MoE 1,1% |
+| | APJII. (2025). *Survei penetrasi internet Indonesia 2025*. Berita: [Bisnis.com](https://teknologi.bisnis.com/read/20250806/101/1899997/data-apjii-pengguna-internet-di-indonesia-tembus-22943-juta-orang-pada-2025) | Pembanding tren (penetrasi 80,66%) |
+| ⭐ | Sugiyono. (2022). *Metode penelitian kuantitatif, kualitatif, dan R&D* (Ed. 2). Alfabeta. [Katalog Bina Darma](https://perpustakaan.binadarma.ac.id/opac/detail/24) · [Gramedia](https://www.gramedia.com/products/metode-penelitian-kuantitatif-kualitatif-dan-rd-1) | Bab 3: populasi & sampel, *accidental/snowball sampling*, skala Likert, analisis deskriptif & korelasi. **Cek tahun & cetakan di buku/PDF yang kamu pakai** (katalog mencatat Ed. 2 cet. I 2019 s/d cet. 29 2022) |
+
+**Catatan angka APJII:** kutip dari laporan asli (survei.apjii.or.id, perlu daftar gratis) kalau bisa; kalau tidak, tulis "(APJII, 2026)" dan cantumkan beritanya di daftar pustaka sebagai sumber sekunder. Angka 43,7% "Gen Z pengguna AI 2025" yang beredar di berita lain adalah **komposisi** pengguna AI, bukan tingkat pemakaian — jangan dicampur dengan 29,4%.
+- Opsional, belum dicek: Roscoe (1975) untuk aturan sampel minimal 30 (biasanya dikutip lewat Sugiyono), dan laporan *kumparan Indonesia AI Report 2025* ([PDF](https://blue.kumparan.com/document/kumparan-Indonesia-AI-Report-2025.pdf)).

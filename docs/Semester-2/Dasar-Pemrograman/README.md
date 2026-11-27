@@ -51,10 +51,10 @@ Sumber: RPS di `materi/`.
 | 15 | 2027-02-01 |  | |
 | 16 | 2027-02-08 | UAS (perkiraan dari RPS) | |
 
-## Status Edlink (sync 2026-11-25)
-- **Progres**: 75% — materi 4/6, kuis 5/6
-- **Belum dibuka**: P03 (2/3), P04 (1/2), P05 (2/3) — post materi belum dibuka
-- **Materi lokal** (`materi/`): Dasar Pemrograman Pertemuan 1–6.pdf, RPS_Dasar Pemrograman.pdf, 3 video .mp4
+## Status Edlink (sync 2026-11-27)
+- **Progres**: 92% — materi 6/6, kuis 5/6
+- **Belum dibuka**: sisa Kuis Sesi #6 (tenggat 2026-12-01 12:00)
+- **Materi lokal** (`materi/`, 11 file): .gitkeep, Dasar Pemrograman - Sesi 5.mp4, Dasar Pemrograman Pertemuan 1.pdf, Dasar Pemrograman Pertemuan 2.pdf, Dasar Pemrograman Pertemuan 3.pdf, Dasar Pemrograman Pertemuan 4.pdf, Dasar Pemrograman Pertemuan 5.pdf, Dasar Pemrograman Pertemuan 6.pdf, RPS_Dasar Pemrograman.pdf, video1165835247.mp4, video1193849624.mp4
 
 ## Info dari forum & pengumuman dosen
 - Grup WA matkul: (link grup WA — tanya di grup kelas) (diumumkan 2026-10-27)

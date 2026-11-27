@@ -51,10 +51,10 @@ Mahasiswa mampu mencetak output program
 | 15 | 2027-01-27 | - | |
 | 16 | 2027-02-03 | UAS (perkiraan dari RPS) | |
 
-## Status Edlink (sync 2026-11-25)
-- **Progres**: 29% — materi 0/5, kuis 2/2
-- **Belum dibuka**: P01 (1/2), P02 (1/2), P03 (0/1), P04 (0/1) — post materi belum dibuka
-- **Materi lokal** (`materi/`): Pemograman Visual Sesi 2.ppt, Pemograman Visual3.ppt, PV Modul Sesi 3.docx, Sesi 4 Pemrograman Visual.pdf, Bab 4.pdf, PV5 Dialogs.pptx
+## Status Edlink (sync 2026-11-27)
+- **Progres**: 100% — materi 5/5, kuis 2/2
+- **Belum dibuka**: semua sudah dibuka; P06 (2026-11-25) belum ada materi di Edlink
+- **Materi lokal** (`materi/`, 11 file): .gitkeep, Bab 4.pdf, PV Modul Sesi 3.docx, PV5 Dialogs.pptx, Pemograman Visual Sesi 2.ppt, Pemograman Visual3.ppt, Pemograman Visual4.pptx, Pertemuan 1 Part 1- RPS Pemograman Visual.pptx, Pertemuan 1 Part 2- RPS Pemograman Visual.pptx, RPS Pemrograman Visual.docx, Sesi 4 Pemrograman Visual.pdf
 
 ## Info dari forum & pengumuman dosen
 - Dosen (2026-11-22): absensi sesi 1 dan 4 yang sudah dipenuhi akan dicek ulang dalam 2 hari → pastikan kewajiban tiap sesi (buka materi/komentar) terpenuhi.

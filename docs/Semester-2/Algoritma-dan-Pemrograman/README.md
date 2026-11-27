@@ -55,10 +55,10 @@ Sumber: RPS di `materi/`.
 | 15 | 2027-01-28 |  | |
 | 16 | 2027-02-04 | UAS (perkiraan dari RPS) | |
 
-## Status Edlink (sync 2026-11-25)
-- **Progres**: 67% — materi 3/6, kuis 5/6
-- **Belum dibuka**: P01 (1/2), P03 (1/2), P04 (1/2) — post materi belum dibuka
-- **Materi lokal** (`materi/`): AP1.01 Introduction, AP1.02 Tipe Data, AP1.03 & AP.03 Input/Output, AP.04 Condition (PDF+PPT), AP05 Looping (PDF+PPT), AP06 Nested Loop (PDF+PPT), RPS
+## Status Edlink (sync 2026-11-27)
+- **Progres**: 92% — materi 6/6, kuis 5/6
+- **Belum dibuka**: P06 (1/2): sisa Kuis Sesi #6 (tenggat 2026-11-30 23:59)
+- **Materi lokal** (`materi/`, 12 file): .gitkeep, AP.03 - Modul Input & Output.pdf, AP.04 - Modul PDF - Condition.pdf, AP.04 - Modul PPT - Condition.pdf, AP05 - Modul PDF - Looping.pdf, AP05 - Modul PPT - Looping.pdf, AP06 - Nested Loop - PDF.pdf, AP06 - Nested Loop - PPT.pdf, AP1.01 - Introduction.pdf, AP1.02 - Tipe Data.pdf, AP1.03 - Input & Output.pdf, RPS Algoritma & Pemrograman.pdf
 
 ## Info dari forum & pengumuman dosen
 - Grup WA matkul: (link grup WA — tanya di grup kelas) (di post Materi Sesi #2)

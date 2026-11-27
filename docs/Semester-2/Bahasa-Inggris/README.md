@@ -35,10 +35,10 @@ RPS belum tersedia di Edlink — tanyakan dosen / cek pengumuman.
 | 15 | 2027-01-26 | - | |
 | 16 | 2027-02-02 | UAS (perkiraan dari RPS) | |
 
-## Status Edlink (sync 2026-11-25)
-- **Progres**: 44% — materi 6/16, kuis 1/1, tugas 1/1
-- **Belum dibuka**: P02 (1/3), P03 (3/4), P04 (2/3) — post materi belum dibuka
-- **Materi lokal** (`materi/`): Slide Sesi 1–5 (.pptx/.pdf), SAT Sesi 2–3 (.docx), Weekly Practice Introduction, Reading Fitness Pill & Habitat Loss
+## Status Edlink (sync 2026-11-27)
+- **Progres**: 100% — materi 16/16, kuis 1/1, tugas 1/1
+- **Belum dibuka**: semua sudah dibuka
+- **Materi lokal** (`materi/`, 15 file): .gitkeep, Reading Comprehension_Habitat Loss.docx, Reading comprehension_Fitness Pill.docx, SAT Bahasa Inggris Sesi 2.docx, SAT Bahasa Inggris Sesi 3 (1).docx, Sesi 1_ MKU Bahasa Inggris_ Introduction.pptx, Sesi 2_MKU Bahasa Inggris_Work & Responsibility.pptx, Sesi 3_MKU Bahasa Inggris_Leisure and Entertainment.pptx.pdf, Sesi 4_MKU Bahasa Inggris_Health (2).pptx, Sesi 4_MKU Bahasa Inggris_Verb Pattern.pptx, Sesi 5_MKU Bahasa Inggris_Environment.pptx, Sesi 5_MKU Bahasa Inggris_Present Tense.pptx, Sesi 6_MKU Bahasa Inggris_Past Tense.pptx, Sesi 6_MKU Bahasa Inggris_Travel and Tourism.pptx, WEEKLY PRACTICE_Introduction (1).docx
 
 ## Info dari forum & pengumuman dosen
 - Dosen menyapa lewat post materi (bilingual). Komentar mahasiswa di tiap post kemungkinan dipakai sebagai bukti keaktifan.

@@ -15,4 +15,6 @@ File asli dari dosen. Klik untuk membuka/unduh.
 | :material-file-powerpoint: | [Sesi 4_MKU Bahasa Inggris_Verb Pattern.pptx](Sesi%204_MKU%20Bahasa%20Inggris_Verb%20Pattern.pptx) | 558 KB |
 | :material-file-powerpoint: | [Sesi 5_MKU Bahasa Inggris_Environment.pptx](Sesi%205_MKU%20Bahasa%20Inggris_Environment.pptx) | 1.1 MB |
 | :material-file-powerpoint: | [Sesi 5_MKU Bahasa Inggris_Present Tense.pptx](Sesi%205_MKU%20Bahasa%20Inggris_Present%20Tense.pptx) | 762 KB |
+| :material-file-powerpoint: | [Sesi 6_MKU Bahasa Inggris_Past Tense.pptx](Sesi%206_MKU%20Bahasa%20Inggris_Past%20Tense.pptx) | 437 KB |
+| :material-file-powerpoint: | [Sesi 6_MKU Bahasa Inggris_Travel and Tourism.pptx](Sesi%206_MKU%20Bahasa%20Inggris_Travel%20and%20Tourism.pptx) | 631 KB |
 | :material-file-word: | [WEEKLY PRACTICE_Introduction (1).docx](WEEKLY%20PRACTICE_Introduction%20%281%29.docx) | 9 KB |

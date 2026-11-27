@@ -56,10 +56,10 @@ Sumber: RPS di `materi/`.
 | 15 | 2027-01-28 | - | |
 | 16 | 2027-02-04 | UAS (perkiraan dari RPS) | |
 
-## Status Edlink (sync 2026-11-25)
-- **Progres**: 79% — materi 5/7, kuis 5/6, tugas 1/1
-- **Belum dibuka**: P02 (2/3), P04 (2/4) — post materi belum dibuka
-- **Materi lokal** (`materi/`): Modul PTKI 01–06 (.docx/.pdf), slide Sesi 2–6 (.pptx), RPS
+## Status Edlink (sync 2026-11-27)
+- **Progres**: 93% — materi 7/7, kuis 5/6, tugas 1/1
+- **Belum dibuka**: P06 (1/2): sisa Kuis Sesi #6 (tenggat 2026-12-01 10:00)
+- **Materi lokal** (`materi/`, 17 file): .gitkeep, Modul PTKI 01 - Sejarah Teknologi Informasi.docx, Modul PTKI 02 - Pengertian Teknologi Informasi.docx, Modul PTKI 03 - Konsep Ekonomi Digital.docx, Modul PTKI 03 - Konsep Ekonomi Digital.pdf, Modul PTKI 04 - Data dan Informasi.docx, Modul PTKI 04 - Data dan Informasi.pdf, Modul PTKI 05 - Jenis data, Konversi data dan sistem bilangan.docx, Modul PTKI 05 - Jenis data, Konversi data dan sistem bilangan.pdf, Modul PTKI 06 - Manajemen Data.docx, Modul PTKI 06 - Manajemen Data.pdf, RPS Pengantar Teknologi Komunikasi dan Informatika.docx, Salinan Sesi 2 - Pengertian Teknologi Informasi.pptx, Salinan Sesi 3 - Konsep Ekonomi Digital.pptx, Salinan Sesi 4 - Data dan Informasi.pptx, Salinan Sesi 5 - Jenis data, Konversi data dan sistem bilangan.pptx, Salinan Sesi 6 - Manajemen Data.pptx
 
 ## Info dari forum & pengumuman dosen
 - Kuis Sesi 5: 5 soal, 30 menit, tenggat **Selasa 2026-11-24 12:00**. Dosen: baca modul dulu baru kerjakan.
