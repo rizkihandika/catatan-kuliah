@@ -3,7 +3,7 @@
 > Dosen: Sinta Wahyuni (tutor), koordinator Lia Dewinta. Materi dari Team Teaching UNSIA; video oleh Dermita Arianti dkk. · Arsip: [../arsip/README.md](../arsip/README.md) · Transkrip: [../arsip/transkrip/](../arsip/transkrip/README.md) · Teks materi: ../arsip/teks-materi/ *(ada di Edlink)*
 > **Tugas & kuis**:
 > - Tugas P01 (video perkenalan 2 menit di YouTube): **sudah dikumpulkan** 2026-10-31.
-> - Kuis P03 Leisure (10 soal): grade Edlink 80.
+> - Kuis P03 Leisure (10 soal): sudah dikerjakan.
 > - Vicon P03 diadakan 2026-11-09 11:00. Yang tidak hadir diminta menyimak rekamannya (lampiran `SINTA.jpg` tanpa URL di Edlink, dan rekamannya tidak tersedia di LMS).
 > Pola tiap sesi (SAT): **tema kosakata + satu topik grammar**, lalu asesmen kecakapan (listening/speaking/reading/writing).
 

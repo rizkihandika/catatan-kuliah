@@ -69,7 +69,7 @@
 ### Quiz Sesi 2
 - **Jenis**: Kuis · post_id `8946331`
 - **Oleh**: Dr. Fauziah, S.Kom, MMSI · dibuat 2026-10-29 03:51
-- **Kuis**: 5 soal · durasi 5 menit · acak soal: ya · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua · grade Edlink 100
+- **Kuis**: 5 soal · durasi 5 menit · acak soal: ya · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua
 
 **Isi / instruksi:**
 

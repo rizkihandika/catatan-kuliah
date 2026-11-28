@@ -36,7 +36,7 @@
 - **Jenis**: Kuis · post_id `9051005`
 - **Oleh**: Winarsih, S.Si., MMSI · dibuat 2026-11-04 12:13
 - **Tenggat**: 2026-11-10 12:00:00
-- **Kuis**: 5 soal · durasi 30 menit · acak soal: ya · bisa ulang: ya · status pengerjaanku: sudah dijawab semua · grade Edlink 100
+- **Kuis**: 5 soal · durasi 30 menit · acak soal: ya · bisa ulang: ya · status pengerjaanku: sudah dijawab semua
 
 **Isi / instruksi:**
 

@@ -28,7 +28,7 @@
 ### Kuis Leisure and Entertainment
 - **Jenis**: Kuis · post_id `9019184`
 - **Oleh**: Sinta Wahyuni, S.Pd. M.Pd · dibuat 2026-11-02 21:00
-- **Kuis**: 10 soal · durasi 1440 menit · acak soal: ya · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua · grade Edlink 80
+- **Kuis**: 10 soal · durasi 1440 menit · acak soal: ya · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua
 
 ### Video Konferensi - Sesi 3
 - **Jenis**: Video konferensi · post_id `9104802`

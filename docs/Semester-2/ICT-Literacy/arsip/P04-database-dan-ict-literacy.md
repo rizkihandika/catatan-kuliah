@@ -31,4 +31,4 @@
 ### Quiz Sesi 4
 - **Jenis**: Kuis · post_id `9174633`
 - **Oleh**: Dr. Fauziah, S.Kom, MMSI · dibuat 2026-11-12 09:49
-- **Kuis**: 5 soal · durasi 5 menit · acak soal: ya · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua · grade Edlink 100
+- **Kuis**: 5 soal · durasi 5 menit · acak soal: ya · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua

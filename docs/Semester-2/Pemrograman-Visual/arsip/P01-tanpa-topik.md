@@ -23,4 +23,4 @@
 ### Quiz Pembelajaran Pemrograman Visual
 - **Jenis**: Kuis · post_id `8805732`
 - **Oleh**: Muhammad Ikhwani Saputra · dibuat 2026-10-21 10:02
-- **Kuis**: 7 soal · durasi 1440 menit · acak soal: tidak · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua · grade Edlink 100
+- **Kuis**: 7 soal · durasi 1440 menit · acak soal: tidak · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua

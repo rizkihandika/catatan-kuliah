@@ -41,5 +41,5 @@ Sumber: Edlink "Perlu Dikerjakan" (sync 2026-11-27).
 |---------|-------------|-------|-------|-------|
 | 2026-11-23 23:30 | Algoritma dan Pemrograman | Kuis | Kuis - Sesi #5 | (sudah dikerjakan — progres kuis 5/5) |
 | (tanpa batas) | ICT Literacy | Kuis | Quiz Sesi 5 | (sudah dikerjakan — progres kuis 5/5) |
-| 2026-11-24 12:00 | Pengantar Teknologi Komunikasi dan Informatika | Kuis | Kuis - Sesi #5 (1) | sudah dijawab (arsip 2026-11-25; grade Edlink 100) |
-| 2026-11-26 12:00 | Dasar Pemrograman | Kuis | Kuis - Sesi #5 | sudah dijawab (arsip 2026-11-25; grade Edlink 100) |
+| 2026-11-24 12:00 | Pengantar Teknologi Komunikasi dan Informatika | Kuis | Kuis - Sesi #5 (1) | sudah dijawab (arsip 2026-11-25) |
+| 2026-11-26 12:00 | Dasar Pemrograman | Kuis | Kuis - Sesi #5 | sudah dijawab (arsip 2026-11-25) |

@@ -17,4 +17,4 @@
 - **Jenis**: Kuis · post_id `9348673`
 - **Oleh**: Yunan Fauzi Wijaya · dibuat 2026-11-24 08:16
 - **Tenggat**: 2026-11-30 23:59:00
-- **Kuis**: 10 soal · durasi 60 menit · acak soal: tidak · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua · grade Edlink 90
+- **Kuis**: 10 soal · durasi 60 menit · acak soal: tidak · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua

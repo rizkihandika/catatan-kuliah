@@ -69,7 +69,6 @@ Belum diumumkan resmi; tanggal dari RPS (pertemuan 8). Kisi-kisi per matkul ada 
 - **Minggu UTS**: review kisi-kisi + flashcard H-1 per matkul.
 
 ## Info penting lain
-- **IPK 4.00** (semester lalu semua A) — detail di [profil.md](profil.md).
 - **Grup WA**: Dasar Pemrograman & Algoritma — link di README masing-masing.
 - **Potensi libur**: 2026-12-24/25 dan 2027-01-01 (Aljabar P10–P11, Algoritma/PTKI P10) — lihat [jadwal-kuliah.md](jadwal-kuliah.md).
 - **Gagal diunduh**: 4 file Pemrograman Visual (404 di server Edlink, termasuk RPS) & `SINTA.jpg` (Bahasa Inggris). Buka langsung di Edlink.

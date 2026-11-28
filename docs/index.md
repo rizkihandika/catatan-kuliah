@@ -6,7 +6,7 @@ hide:
 
 # Catatan Kuliah IF102
 
-Informatika PJJ · UNSIA · diperbarui 2026-11-28 09:09 WIB
+Informatika PJJ · UNSIA · diperbarui 2026-11-28 09:19 WIB
 
 !!! danger "URGENT — Tugas ICT Literacy: Makalah Implementasi ICT Literacy di Bidang Pekerjaan"
     <span class="countdown" data-deadline="2026-11-30T10:19:30+07:00"><span class="countdown-left"></span></span> &nbsp; [:material-arrow-right-bold: Buka semua info tugas ini](URGENT.md){ .md-button .md-button--primary }

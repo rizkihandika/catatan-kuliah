@@ -10,7 +10,7 @@ X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:202611292330-aljabar-linear-tugas-tugas-1-aljabar-linier@catatan-kulia
  h
-DTSTAMP:20261128T020913Z
+DTSTAMP:20261128T021952Z
 DTSTART:20261129T160000Z
 DTEND:20261129T163000Z
 SUMMARY:Tugas Aljabar Linear: Tugas 1 Aljabar Linier
@@ -30,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:202611301019-ict-literacy-tugas-upload-tugas-sebelum-uts-mak@catatan-k
  uliah
-DTSTAMP:20261128T020913Z
+DTSTAMP:20261128T021952Z
 DTSTART:20261130T024900Z
 DTEND:20261130T031900Z
 SUMMARY:Tugas ICT Literacy: Upload Tugas Sebelum UTS
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:202611302359-algoritma-dan-pemrograman-kuis-kuis-sesi-6@catatan-kuliah
-DTSTAMP:20261128T020913Z
+DTSTAMP:20261128T021952Z
 DTSTART:20261130T162900Z
 DTEND:20261130T165900Z
 SUMMARY:Kuis Algoritma dan Pemrograman: Kuis - Sesi #6
@@ -73,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:202612011000-pengantar-teknologi-komunikasi-dan-informatika-kuis-kuis-
  sesi-6-1-5-soal-3@catatan-kuliah
-DTSTAMP:20261128T020913Z
+DTSTAMP:20261128T021952Z
 DTSTART:20261201T023000Z
 DTEND:20261201T030000Z
 SUMMARY:Kuis Pengantar Teknologi Komunikasi dan Informatika: Kuis - Sesi #
@@ -97,7 +97,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:202612011200-dasar-pemrograman-kuis-kuis-sesi-6-1@catatan-kuliah
-DTSTAMP:20261128T020913Z
+DTSTAMP:20261128T021952Z
 DTSTART:20261201T043000Z
 DTEND:20261201T050000Z
 SUMMARY:Kuis Dasar Pemrograman: Kuis - Sesi #6 (1)
@@ -116,7 +116,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:202612081700-bahasa-inggris-uts-uts-p08@catatan-kuliah
-DTSTAMP:20261128T020913Z
+DTSTAMP:20261128T021952Z
 DTSTART:20261208T093000Z
 DTEND:20261208T100000Z
 SUMMARY:(perkiraan) UTS Bahasa Inggris: UTS (P08)
@@ -125,7 +125,7 @@ URL:https://rizkihandika.github.io/catatan-kuliah/deadline/
 END:VEVENT
 BEGIN:VEVENT
 UID:202612091300-ict-literacy-uts-uts-p08-makalah-bab-1-3-s@catatan-kuliah
-DTSTAMP:20261128T020913Z
+DTSTAMP:20261128T021952Z
 DTSTART:20261209T053000Z
 DTEND:20261209T060000Z
 SUMMARY:(perkiraan) UTS ICT Literacy: UTS (P08): makalah Bab 1–3 (s/d me
@@ -138,7 +138,7 @@ URL:https://rizkihandika.github.io/catatan-kuliah/deadline/
 END:VEVENT
 BEGIN:VEVENT
 UID:202612091500-pemrograman-visual-uts-uts-p08@catatan-kuliah
-DTSTAMP:20261128T020913Z
+DTSTAMP:20261128T021952Z
 DTSTART:20261209T073000Z
 DTEND:20261209T080000Z
 SUMMARY:(perkiraan) UTS Pemrograman Visual: UTS (P08)
@@ -147,7 +147,7 @@ URL:https://rizkihandika.github.io/catatan-kuliah/deadline/
 END:VEVENT
 BEGIN:VEVENT
 UID:202612101300-algoritma-dan-pemrograman-uts-uts-p08@catatan-kuliah
-DTSTAMP:20261128T020913Z
+DTSTAMP:20261128T021952Z
 DTSTART:20261210T053000Z
 DTEND:20261210T060000Z
 SUMMARY:(perkiraan) UTS Algoritma dan Pemrograman: UTS (P08)
@@ -157,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:202612101500-pengantar-teknologi-komunikasi-dan-informatika-uts-uts-p0
  8@catatan-kuliah
-DTSTAMP:20261128T020913Z
+DTSTAMP:20261128T021952Z
 DTSTART:20261210T073000Z
 DTEND:20261210T080000Z
 SUMMARY:(perkiraan) UTS Pengantar Teknologi Komunikasi dan Informatika: UT
@@ -167,7 +167,7 @@ URL:https://rizkihandika.github.io/catatan-kuliah/deadline/
 END:VEVENT
 BEGIN:VEVENT
 UID:202612111500-aljabar-linear-uts-uts-p08@catatan-kuliah
-DTSTAMP:20261128T020913Z
+DTSTAMP:20261128T021952Z
 DTSTART:20261211T073000Z
 DTEND:20261211T080000Z
 SUMMARY:(perkiraan) UTS Aljabar Linear: UTS (P08)
@@ -177,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:202612120800-arsitektur-dan-organisasi-komputer-uts-uts-p08@catatan-ku
  liah
-DTSTAMP:20261128T020913Z
+DTSTAMP:20261128T021952Z
 DTSTART:20261212T003000Z
 DTEND:20261212T010000Z
 SUMMARY:(perkiraan) UTS Arsitektur dan Organisasi Komputer: UTS (P08)
@@ -186,7 +186,7 @@ URL:https://rizkihandika.github.io/catatan-kuliah/deadline/
 END:VEVENT
 BEGIN:VEVENT
 UID:202612140800-dasar-pemrograman-uts-uts-p08@catatan-kuliah
-DTSTAMP:20261128T020913Z
+DTSTAMP:20261128T021952Z
 DTSTART:20261214T003000Z
 DTEND:20261214T010000Z
 SUMMARY:(perkiraan) UTS Dasar Pemrograman: UTS (P08)
@@ -196,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:202701201300-ict-literacy-tugas-tugas-2-ict-sesi-14-makalah@catatan-ku
  liah
-DTSTAMP:20261128T020913Z
+DTSTAMP:20261128T021952Z
 DTSTART:20270120T053000Z
 DTEND:20270120T060000Z
 SUMMARY:(perkiraan) Tugas ICT Literacy: Tugas 2 ICT (Sesi 14): makalah dil
@@ -207,7 +207,7 @@ URL:https://rizkihandika.github.io/catatan-kuliah/deadline/
 END:VEVENT
 BEGIN:VEVENT
 UID:202702010000-semua-matkul-uas-uas-p16-ict-makalah-bab-4@catatan-kuliah
-DTSTAMP:20261128T020913Z
+DTSTAMP:20261128T021952Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270209
 SUMMARY:(perkiraan) UAS Semua matkul: UAS (P16)\; ICT: makalah Bab 4–5 +

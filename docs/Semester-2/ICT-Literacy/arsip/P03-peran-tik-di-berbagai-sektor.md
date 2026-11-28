@@ -79,7 +79,7 @@
 ### Quiz Sesi 3
 - **Jenis**: Kuis · post_id `9061589`
 - **Oleh**: Dr. Fauziah, S.Kom, MMSI · dibuat 2026-11-05 06:40
-- **Kuis**: 5 soal · durasi 5 menit · acak soal: ya · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua · grade Edlink 100
+- **Kuis**: 5 soal · durasi 5 menit · acak soal: ya · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua
 
 **Isi / instruksi:**
 

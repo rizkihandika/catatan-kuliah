@@ -1,7 +1,7 @@
 # Ringkasan Matkul — Algoritma dan Pemrograman (P01–P06)
 
 > Dosen: Yunan Fauzi Wijaya · Bahasa: **C++** · Arsip lengkap: [../arsip/README.md](../arsip/README.md) · Teks materi: ../arsip/teks-materi/ *(ada di Edlink)*
-> Belum ada vicon/video di kelas ini — semua dari modul PDF + PPT. Kuis P01–P05 sudah dikerjakan (grade Edlink 80, 80, 80, 90, 100).
+> Belum ada vicon/video di kelas ini — semua dari modul PDF + PPT. Kuis P01–P05 sudah dikerjakan.
 
 ## Peta besar
 Program = **input → proses → output**. Sesi 1–3 membangun "bahan" (struktur program, tipe data, I/O), sesi 4–6 menambah **struktur kendali**: *sequence* → *selection* (condition) → *loop* (looping, nested loop). Setelah UTS: fungsi, rekursi, array, string, pointer, struct, OOP (RPS).

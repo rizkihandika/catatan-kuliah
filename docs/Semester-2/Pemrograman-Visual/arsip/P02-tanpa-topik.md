@@ -21,4 +21,4 @@
 ### Quiz Pembelajaran #2
 - **Jenis**: Kuis · post_id `8974136`
 - **Oleh**: Muhammad Ikhwani Saputra · dibuat 2026-10-30 14:34
-- **Kuis**: 5 soal · durasi 1440 menit · acak soal: tidak · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua · grade Edlink 80
+- **Kuis**: 5 soal · durasi 1440 menit · acak soal: tidak · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua

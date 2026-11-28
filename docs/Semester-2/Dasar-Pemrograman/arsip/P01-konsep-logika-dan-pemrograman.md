@@ -18,7 +18,7 @@
 - **Jenis**: Kuis · post_id `8803087`
 - **Oleh**: Dr.  Tri Wahyu Widyaningsih, S.Kom., MMSI · dibuat 2026-10-21 09:01
 - **Tenggat**: 2026-10-28 12:00:00
-- **Kuis**: 5 soal · durasi 25 menit · acak soal: ya · bisa ulang: ya · status pengerjaanku: sudah dijawab semua · grade Edlink 80
+- **Kuis**: 5 soal · durasi 25 menit · acak soal: ya · bisa ulang: ya · status pengerjaanku: sudah dijawab semua
 
 ### Video Konferensi - Sesi 1
 - **Jenis**: Video konferensi · post_id `8804289`

@@ -83,7 +83,7 @@
 - **Jenis**: Kuis · post_id `8838668`
 - **Oleh**: Dr. Fauziah, S.Kom, MMSI · dibuat 2026-10-22 17:49
 - **Tenggat**: 2026-10-26 20:49:44
-- **Kuis**: 4 soal · durasi 5 menit · acak soal: ya · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua · grade Edlink 75
+- **Kuis**: 4 soal · durasi 5 menit · acak soal: ya · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua
 
 **Isi / instruksi:**
 
