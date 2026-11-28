@@ -22,6 +22,7 @@ Sinyal di control bus: **Memory Write, Memory Read, I/O Write, I/O Read, Transfe
 
 ### 2. Struktur interkoneksi (slide 5–7)
 Kumpulan lintasan yang menghubungkan modul CPU, memori, I/O.
+
 | 3 jenis transfer data | 3 jenis interkoneksi |
 |-----------------------|----------------------|
 | CPU ↔ Memori | CPU interconnection |

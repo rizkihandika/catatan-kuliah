@@ -22,6 +22,7 @@
 **IPK: 4.00** (19 SKS dinilai). Ganjil 2026/2027 belum ada nilai.
 
 **Genap 2025/2026 — IPS 4.00 (19 SKS)**
+
 | Mata Kuliah | SKS | Nilai | Skor |
 |-------------|-----|-------|------|
 | Pendidikan Pancasila | 2 | A | 89.60 |

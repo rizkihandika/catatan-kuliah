@@ -12,6 +12,7 @@ Data = bahan mentah; informasi = masakan jadi. "Persija menang" = data; "Persija
 
 ### 2. Data
 - Fakta/rincian peristiwa yang **belum diolah**; di ilmu komputer: segala yang disimpan di memori dalam format tertentu.
+
 | Ahli | Definisi |
 |------|----------|
 | Robert N. Anthony & John Dearden | bentuk jamak dari **datum** |
@@ -21,6 +22,7 @@ Data = bahan mentah; informasi = masakan jadi. "Persija menang" = data; "Persija
 
 ### 3. Informasi
 - Hasil pengolahan data yang **bisa diterima akal** dan dipakai untuk **keputusan**.
+
 | Ahli | Definisi |
 |------|----------|
 | Anton M. Moeliono | penerangan, keterangan, kabar, berita |

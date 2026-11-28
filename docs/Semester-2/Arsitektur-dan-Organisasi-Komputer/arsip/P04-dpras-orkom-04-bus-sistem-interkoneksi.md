@@ -7,7 +7,7 @@
 
 ### Materi - Sesi #4 (1)
 - **Jenis**: Materi · post_id `9153158`
-- **Oleh**: Dr.Ir. DWI PRASETYO, S.Kom.M.Si. · dibuat 2026-11-11 08:22
+- **Oleh**: Dr. Ir. DWI PRASETYO, S.Kom.,M.Si., IPM · dibuat 2026-11-11 08:22
 
 **Lampiran:**
 - 📎 dPRAS_OrKom#04 Bus & Sistem Interkoneksi.pdf (895 KB) → `dPRAS_OrKom#04 Bus & Sistem Interkoneksi.pdf` *(ada di Edlink)*

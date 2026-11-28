@@ -5,6 +5,29 @@
 - **Durasi**: 11:10 · bahasa terdeteksi: id
 - Transkrip otomatis (faster-whisper large-v3-turbo) — mungkin ada salah dengar istilah.
 
+## Ringkasan detail
+
+Video pertemuan 5 Aljabar Linear tentang transformasi elementer pada matriks: empat jenis operasi pada baris (notasi $B$) dan kolom (notasi $K$), masing-masing dengan contoh perhitungan. Matriks asal ditampilkan di layar dan tidak terbaca penuh dari transkrip, tetapi hasil hitungan terucap.
+
+- **[00:14–01:17] Notasi dan jenis 1.** Notasi **B** untuk transformasi pada baris, **K** untuk kolom; ada **4 jenis**. **Jenis 1: menukar** baris/kolom ke-$i$ dengan baris/kolom ke-$j$ (notasi $B_{ij}$ / $K_{ij}$). Contoh baris: menukar baris ke-3 dengan baris ke-1; contoh kolom: menukar kolom ke-2 dengan kolom ke-3.
+- **[02:17–03:18] Jenis 2: mengalikan skalar.** Mengalikan semua elemen baris/kolom ke-$i$ dengan skalar $a$ (notasi $B_i(a)$ / $K_i(a)$). Contoh baris: $B_3(2)$ pada baris ke-3 berelemen (1, 2, 1, 2) menghasilkan (2, 4, 2, 4).
+- **[03:18–04:21] Contoh jenis 2 pada kolom.** $K_3(3)$: kolom ke-3 berelemen (-1, -2, 1, 2) dikali 3 menjadi (-3, -6, 3, 6).
+- **[03:18–05:21] Jenis 3: menambah kelipatan.** Menambahkan $a$ kali baris/kolom ke-$j$ ke baris/kolom ke-$i$ (notasi $B_{ij}(a)$ / $K_{ij}(a)$): $B_i \leftarrow B_i + a \cdot B_j$. Contoh baris: $B_{32}(-2)$, baris ke-3 (1, 2, 1, 2) ditambah $-2 \times$ baris ke-2 (3, 1, -2, 1) menjadi (-5, 0, 5, 0).
+- **[05:21–06:22] Contoh jenis 3 pada kolom.** $K_{21}(2)$: kolom ke-2 ditambah $2 \times$ kolom ke-1. Hasil kolom ke-2 adalah (5, 7, 4, 8) (perhitungan terucap: -3+8, 1+6, 2+2, 4+4).
+- **[06:22–08:26] Jenis 4: gabungan skalar dan penambahan.** Baris/kolom ke-$i$ dikali $a$, lalu ditambah $b$ kali baris/kolom ke-$j$ (notasi $B_{i(a)\,j(b)}$): $B_i \leftarrow a B_i + b B_j$. Contoh baris: baris ke-3 dikali 2 ditambah baris ke-2 dikali 4: $(1\cdot2 + 3\cdot4,\; 2\cdot2 + 1\cdot4,\; 1\cdot2 + (-2)\cdot4,\; 2\cdot2 + 1\cdot4) = (14, 8, -6, 8)$.
+- **[08:26–10:38] Contoh jenis 4 pada kolom.** Kolom ke-3 (-1, -2, 1, 2) dikali 4 ditambah kolom ke-2 (-3, 1, 2, 4) dikali 3 menghasilkan kolom ke-3 = (-13, -5, 10, 20). Dalam semua jenis, yang berubah hanya baris/kolom ke-$i$ (baris/kolom ke-$j$ tetap).
+- **[09:32–10:38] Latihan.** Dosen memberi soal: satu matriks ditransformasi dengan salah satu dari empat cara tersebut.
+
+**Poin penting untuk ujian:**
+- Empat jenis transformasi elementer: (1) tukar $B_{ij}$; (2) kalikan skalar $B_i(a)$; (3) tambah kelipatan $B_{ij}(a)$; (4) gabungan $a B_i + b B_j$; $B$ untuk baris, $K$ untuk kolom.
+- Pada jenis 3 dan 4, hanya baris/kolom ke-$i$ yang berubah, baris/kolom ke-$j$ tetap.
+- Hafal contoh hasil: $B_3(2)$ menghasilkan (2, 4, 2, 4); $B_{32}(-2)$ menghasilkan (-5, 0, 5, 0); hasil jenis 4 adalah (14, 8, -6, 8).
+- Transformasi elementer menjadi dasar mencari rank matriks (pertemuan berikutnya).
+
+**Info dari dosen:** Ada soal latihan transformasi elementer; pertanyaan atau diskusi lewat web kuliah. Kuis harus dikerjakan dan di-upload. Pertemuan berikutnya adalah pertemuan ke-6.
+
+## Transkrip lengkap
+
 **[00:14]** Assalamualaikum warahmatullahi wabarakatuh Halo para rekan-rekan mahasiswa semua Apa kabarnya? Semoga dalam keadaan baik ya Kembali lagi dengan saya Ira Kali ini di dalam pertemuan kelima Yang akan membahas tentang transformasi elementer Kita akan melihat apa yang dimaksud dengan transformasi elementer Di dalam transformasi elementer ini Notasi B yang digunakan untuk transformasi pada baris Dan notasi K digunakan untuk transformasi elementer pada kolom Ada 4 jenis transformasi elementer pada baris atau kolom suatu matriks Untuk transformasi elementer yang pertama adalah Menukar elemen pada baris atau kolom ke-i Dengan elemen pada baris atau kolom ke-i Contohnya kita akan menukar elemen pada baris ketiga Dengan elemen pada baris ke-1 Maka kita lihatkan bahwa
 
 **[01:17]** Yang tadinya di elemen satu Elemen pada baris ke-1 Kemudian akan ditukar dengan elemen pada baris ke-2 Kemudian baris ketiga akan berubah menjadi seperti ini Yang awalnya berasal dari baris ke-1 Baik, kita sudah melihat contoh satu Yang melakukan transformasi elementer Dengan menukar baris ke-i dengan baris ke-j Kita akan melihat contoh berikutnya Yaitu contoh kedua Yang akan menukar elemen pada kolom ke-i dan kolom ke-j Di dalam hal ini Perpindahan dari elemen kolom di-2 Dengan elemen pada kolom tiga Maka hasil dari transformasi elementer tersebut adalah

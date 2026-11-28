@@ -48,5 +48,11 @@ RPS belum tersedia di Edlink — tanyakan dosen / cek pengumuman.
 - Sesi 5 Environment: kosakata alam, sumber daya alam, masalah lingkungan, cara menjaga lingkungan. Reading exercise: Habitat Loss (penyebab & dampak).
 - RPS tidak diunggah di Edlink → bobot nilai belum diketahui. `SINTA.jpg` gagal diunduh (tanpa URL).
 
+## Arsip Edlink (lengkap, dicek di browser 2026-11-28)
+- [Indeks arsip](arsip/README.md) — semua post per pertemuan (instruksi, tenggat, lampiran), tanpa komentar
+- Teks materi *(ada di Edlink)* — isi PDF/PPT/DOCX dalam markdown
+- [Transkrip video](arsip/transkrip/README.md) — 9 video, tiap file berisi **Ringkasan detail** + transkrip lengkap
+- Post "VICON" sesi 3 hanya berisi foto dosen + catatan, tanpa link rekaman.
+
 ## Referensi
 -

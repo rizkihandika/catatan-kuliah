@@ -67,5 +67,11 @@ Sumber: RPS di `materi/`.
 - Tugas Sesi 3 (studi kasus UMKM makanan tradisional → strategi ekonomi digital) sudah dikumpulkan.
 - Ringkasan RPS menulis bobot 30/30/30/10, tapi rincian RPS memakai 6 komponen (tabel di atas).
 
+## Arsip Edlink (lengkap, dicek di browser 2026-11-28)
+- [Indeks arsip](arsip/README.md) — semua post per pertemuan (instruksi, tenggat, lampiran), tanpa komentar
+- Teks materi *(ada di Edlink)* — isi PDF/PPT/DOCX dalam markdown
+- [Transkrip video](arsip/transkrip/README.md) — 5 video, tiap file berisi **Ringkasan detail** + transkrip lengkap
+- Vicon Sesi #2 tidak punya rekaman di Edlink.
+
 ## Referensi
 -

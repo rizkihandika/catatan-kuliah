@@ -5,21 +5,6 @@
 - **Progres Edlink**: Terjadwal · dibaca 4/4
 - session_id `34737225`
 
-### Reading Exercise: Habitat Loss
-- **Jenis**: Materi · post_id `9258930`
-- **Oleh**: Sinta Wahyuni, S.Pd. M.Pd · dibuat 2026-11-17 23:09
-
-**Isi / instruksi:**
-
-> Hello, everyone! How are you today?
-> Hai, teman-teman mahasiswa UNSIA! Pada pertemuan kali ini, kita akan membahas Habitat Loss atau Kehilangan Habitat, yaitu kerusakan tempat hidup hewan dan tumbuhan.
-> Melalui materi ini, kita akan memahami penyebab dan dampak kehilangan habitat serta mempelajari kosakata bahasa Inggris tentang lingkungan.
-> Baiklah, mari kita mulai pembelajaran hari ini.
-> Let's get started!
-
-**Lampiran:**
-- 📎 Reading Comprehension_Habitat Loss.docx (17 KB) → [`Reading Comprehension_Habitat Loss.docx`](../materi/Reading%20Comprehension_Habitat%20Loss.docx)
-
 ### Sesi 5_Present Tense
 - **Jenis**: Materi · post_id `9258887`
 - **Oleh**: Sinta Wahyuni, S.Pd. M.Pd · dibuat 2026-11-17 23:04
@@ -53,6 +38,21 @@
 **Lampiran:**
 - 🔗 Environment: https://www.youtube.com/watch?v=atpAQf-obB4
 - 📎 Sesi 5_MKU Bahasa Inggris_Environment.pptx (1088 KB) → [`Sesi 5_MKU Bahasa Inggris_Environment.pptx`](../materi/Sesi%205_MKU%20Bahasa%20Inggris_Environment.pptx)
+
+### Reading Exercise: Habitat Loss
+- **Jenis**: Materi · post_id `9258930`
+- **Oleh**: Sinta Wahyuni, S.Pd. M.Pd · dibuat 2026-11-17 23:09
+
+**Isi / instruksi:**
+
+> Hello, everyone! How are you today?
+> Hai, teman-teman mahasiswa UNSIA! Pada pertemuan kali ini, kita akan membahas Habitat Loss atau Kehilangan Habitat, yaitu kerusakan tempat hidup hewan dan tumbuhan.
+> Melalui materi ini, kita akan memahami penyebab dan dampak kehilangan habitat serta mempelajari kosakata bahasa Inggris tentang lingkungan.
+> Baiklah, mari kita mulai pembelajaran hari ini.
+> Let's get started!
+
+**Lampiran:**
+- 📎 Reading Comprehension_Habitat Loss.docx (17 KB) → [`Reading Comprehension_Habitat Loss.docx`](../materi/Reading%20Comprehension_Habitat%20Loss.docx)
 
 ### video Present Tense
 - **Jenis**: Materi · post_id `9258895`

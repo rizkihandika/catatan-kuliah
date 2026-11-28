@@ -5,6 +5,30 @@
 - **Durasi**: 05:10 · bahasa terdeteksi: id
 - Transkrip otomatis (faster-whisper large-v3-turbo) — mungkin ada salah dengar istilah.
 
+## Ringkasan detail
+
+Video pengantar Sesi 1 mata kuliah Pengantar Teknologi Komputer dan Informasi (dosen: Chartur Nugroho). Isinya mengenalkan pengertian teknologi informasi (TI), alasan mempelajarinya, konsep sistem informasi (data, informasi, pengetahuan), infrastruktur, tujuan, prinsip, enam fungsi TI, dan keuntungannya.
+
+- **[00:00–01:00] Definisi TI.** Tujuan sesi: menjelaskan konsep dan definisi TI. TI = istilah untuk berbagai hal dan kemampuan yang dipakai dalam pembentukan, penyimpanan, dan penyebaran informasi. Menurut Haag dan Keen (di transkrip "hak and kin"): seperangkat alat yang membantu bekerja dengan informasi dan melakukan tugas-tugas pemrosesan informasi.
+- **[01:00–02:02] Pandangan pakar & pentingnya TI.** Menurut Martin, TI tidak hanya teknologi komputer (memproses dan menyimpan informasi) tetapi juga teknologi komunikasi untuk mengirim informasi. Menurut Williams dan Sawyer, TI adalah teknologi yang menghubungkan komputasi dengan jalur komunikasi berkecepatan tinggi yang membawa data, suara, dan video. TI penting dipelajari karena kompleksitas tugas dan manajemen, pengaruh globalisasi, perlunya *response time* yang cepat, dan tekanan persaingan bisnis.
+- **[02:02–03:03] Sistem informasi.** Sistem yang menggunakan teknologi komputer untuk mengumpulkan, memproses, menyimpan, menganalisis, dan menyebarkan informasi. Tiga komponen: **data** = fakta mentah; **informasi** = data yang diorganisasikan sehingga memberi arti; **pengetahuan** = informasi yang diproses sehingga memberi pembelajaran/pemahaman yang dapat diaplikasikan. Keuntungan: pemrosesan informasi cepat dan akurat, efisien, *real time* tanpa dibatasi waktu, jarak, dan tempat.
+- **[03:03] Infrastruktur TI:** perangkat keras (*hardware*), perangkat lunak (*software*), jaringan dan komunikasi, manajemen personel, basis data, dan arsitektur informasi (perencanaan terhadap kebutuhan informasi).
+- **Kemampuan sistem informasi:** transaksi cepat dan akurat, kapasitas penyimpanan besar dan akses cepat, komunikasi cepat.
+- **Tujuan TI:** memecahkan masalah, membuka kreativitas, serta efektivitas dan efisiensi. **Prinsip TI:** "high tech, high touch" (di transkrip "high text, high talks").
+- **[03:03–04:06] Enam fungsi TI:** (1) *capture* (menangkap): mengambil data yang bisa jadi informasi; (2) *processing* (mengolah): mengorganisasi data menjadi informasi; (3) *generating* (menghasilkan): menampilkan data terproses sebagai informasi; (4) menyimpan (*storage*); (5) *retrieval* (mencari kembali informasi tersimpan); (6) *transmission* (transmisi/penyebaran informasi).
+- **Keuntungan TI lain:** kecepatan, presisi, konsistensi, dan *reliability*.
+
+**Poin penting untuk ujian:**
+- Definisi TI menurut Haag & Keen, Martin, serta Williams & Sawyer (TI = komputasi + komunikasi).
+- Beda data (fakta mentah), informasi (data terorganisasi bermakna), dan pengetahuan (informasi yang diproses jadi pemahaman).
+- Enam fungsi TI: capture, processing, generating, storage, retrieval, transmission.
+- Infrastruktur TI: hardware, software, jaringan/komunikasi, manajemen personel, basis data, arsitektur informasi.
+- Prinsip TI "high tech, high touch"; tujuan TI: memecahkan masalah, kreativitas, efektivitas, efisiensi.
+
+**Info dari dosen:** Tidak ada tugas, kuis, atau tenggat yang disebut dalam video ini.
+
+## Transkrip lengkap
+
 **[00:00]** Halo rekan-rekan mahasiswa-mahasiswi Universitas Iberasia program studi PJC Informatika berjumpa dengan saya Chartur Nugroho pada pertemuan pertama untuk mata kuliah pengantar teknologi komputer dan informasi sesi pertama kita akan membahas tentang pengertian teknologi informasi tujuan dari pembelajaran ini adalah menjelaskan tentang konsep teknologi informasi definisi dalam teknologi informasi teknologi informasi adalah istilah terhadap berbagai macam hal dan kemampuan yang digunakan dalam pembantukan penyimpanan dan penyebaran suatu informasi pengertian dalam teknologi informasi yang menurut beberapa pakar seperti hak and kin itu adalah seperangkat alat yang membantu Anda
 
 **[01:00]** bekerja dengan informasi dan melakukan tugas-tugas yang berhubungan dengan pemrosesan informasi menurut Martin teknologi informasi tidak hanya terbatas pada teknologi komputer yang digunakan untuk memproses dan menyimpan informasi melainkan juga mencakup teknologi komunikasi untuk mengirimkan informasi menurut William dan Sawyer teknologi yang menghubungkan komputasi dengan jalur komunikasi berkecepatan tinggi yang membawa data suara dan juga video pentingnya mempelajari teknologi informasi karena kompleksitas tugas dan manajemen adanya pengaruh globalisasi perlunya respon time dengan cepat dan tekanan persaingan pada bisnis apa yang dimaksud dengan sistem informasi?

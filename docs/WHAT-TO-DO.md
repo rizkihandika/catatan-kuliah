@@ -8,7 +8,7 @@ Disusun dari Edlink: tugas terbuka, agenda, vicon, progres kelas, notifikasi. Pe
 | **Hari ini 15:00** | Aljabar P6 Rank Matriks: materi sudah dibuka, **Video Interaktif Sesi #6 belum ditonton** (tonton sendiri di Edlink) | `PPT ALE 6.pdf`, catatan P06 *(ada di Edlink)* |
 | **Sabtu 11-28 08:00** | OrKom P6 Memory Internal (materi sudah dibuka) | [catatan P06](Semester-2/Arsitektur-dan-Organisasi-Komputer/catatan/P06-memory-internal.md) |
 | **Minggu 11-29 23:30** (target ≤ 17:00) | **Tugas 1 Aljabar Linier**: PDF, individu, tanpa perpanjangan. Belum mulai, ± 2–2,5 jam | [panduan langkah + angka pengecek](Semester-2/Aljabar-Linear/tugas/T01-tugas-1-aljabar-linier/panduan.md) |
-| **Senin 11-30 10:19** (target Minggu ≤ 21:00) | **ICT: Upload Tugas Sebelum UTS** = proposal makalah Bab 1–3, ≥ 10 referensi. **Tidak bisa telat**, Senin pagi kamu kerja. Belum mulai menulis | [rencana](Semester-2/ICT-Literacy/tugas/T01-upload-tugas-sebelum-uts/rencana.md) · [referensi](Semester-2/ICT-Literacy/tugas/T01-upload-tugas-sebelum-uts/referensi.md) · [kerangka Word](Semester-2/ICT-Literacy/tugas/T01-upload-tugas-sebelum-uts/kerangka-proposal.docx) |
+| **Senin 11-30 10:19** (target Minggu ≤ 21:00) | **ICT: Upload Tugas Sebelum UTS** = proposal makalah Bab 1–3, ≥ 10 referensi. **Tidak bisa telat**, Senin pagi kamu kerja. Belum mulai menulis | [rencana](Semester-2/ICT-Literacy/tugas/T01-upload-tugas-sebelum-uts/rencana.md) · [referensi](Semester-2/ICT-Literacy/tugas/T01-upload-tugas-sebelum-uts/referensi.md) · [kerangka Word](Semester-2/ICT-Literacy/tugas/T01-upload-tugas-sebelum-uts/kerangka-proposal.docx) · [panduan baca](Semester-2/ICT-Literacy/tugas/T01-upload-tugas-sebelum-uts/panduan-baca.md) · [checklist](Semester-2/ICT-Literacy/tugas/T01-upload-tugas-sebelum-uts/cek-review.md) |
 | **Senin 11-30 23:59** | Kuis Algoritma Sesi #6 (Nested Loop) | [catatan P06](Semester-2/Algoritma-dan-Pemrograman/catatan/P06-nested-loop.md) |
 
 ## 🟠 Minggu ini (≤ 7 hari)
@@ -38,6 +38,7 @@ Tidak ada vicon terjadwal per 2026-11-27 (cek 3 hari ke belakang, 7 hari ke depa
 
 ## 🟡 Progres Edlink (keaktifan = 10% nilai) — sync 2026-11-27
 Semua materi sudah dibuka. Sisa yang hanya bisa kamu kerjakan sendiri: kuis & video interaktif.
+
 | Matkul | Progres | Sisa |
 |--------|---------|------|
 | Bahasa Inggris · OrKom · Pemrograman Visual | 100% | — |
@@ -48,6 +49,7 @@ Semua materi sudah dibuka. Sisa yang hanya bisa kamu kerjakan sendiri: kuis & vi
 
 ## 🔵 Persiapan UTS (perkiraan 2026-12-08 → 2026-12-14)
 Belum diumumkan resmi; tanggal dari RPS (pertemuan 8). Kisi-kisi per matkul ada di `ujian/kisi-kisi-UTS.md`.
+
 | Tanggal | Matkul | Bobot UTS | Kisi-kisi |
 |---------|--------|-----------|-----------|
 | 12-08 | Bahasa Inggris | ? | [link](Semester-2/Bahasa-Inggris/ujian/kisi-kisi-UTS.md) |

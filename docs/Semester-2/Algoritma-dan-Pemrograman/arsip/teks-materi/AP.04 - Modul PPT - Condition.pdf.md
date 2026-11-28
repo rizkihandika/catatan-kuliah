@@ -112,6 +112,7 @@ AND
 &&
 benar jika kedua sisi benar
 OR
+
 ||
 benar jika salah satu sisi benar
 NOT
@@ -373,6 +374,7 @@ int main() {
 int tahun;
 cin >> tahun;
 if ((tahun % 4 == 0 && tahun % 100 != 0)
+
 || tahun % 400 == 0) {
 cout << tahun << " adalah tahun kabisat" << endl;
 } else {

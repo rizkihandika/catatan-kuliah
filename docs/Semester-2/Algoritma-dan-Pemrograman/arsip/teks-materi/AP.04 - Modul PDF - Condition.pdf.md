@@ -219,6 +219,7 @@ AND
 benar jika kedua sisi benar
 umur >= 17 && punyaKTP
 OR
+
 ||
 benar jika salah satu sisi benar
 hari == 6 || hari == 7
@@ -254,6 +255,7 @@ salah
 benar
 Urutan prioritas
 Jika beberapa operator muncul dalam satu ekspresi, C++ menghitung dalam urutan: ! lebih dulu, lalu &&, lalu
+
 ||. Operator relasional dihitung sebelum operator logika. Pakai tanda kurung agar maksud Anda jelas, seperti
 pada contoh tahun kabisat nanti.
 Menulis rentang

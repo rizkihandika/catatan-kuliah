@@ -9,6 +9,7 @@ Input adalah data yang mengalir **masuk ke memori utama** (dari keyboard, flash 
 
 ### 1. Arah aliran data (modul hal. 5)
 **Intuisi** (analogi restoran): pesanan = input, memasak = proses, makanan diantar = output.
+
 | Operasi | Arah | Contoh perangkat |
 |---------|------|------------------|
 | Input | perangkat luar → **memori utama** | keyboard, flash disk, jaringan |
@@ -18,6 +19,7 @@ Keyboard + monitor = I/O **standar**.
 
 ### 2. Stream (modul hal. 6)
 Data mengalir satu per satu berurutan seperti **air dalam pipa**. Header: `#include <iostream>`.
+
 | Stream | Fungsi |
 |--------|--------|
 | `cin` | standard input (keyboard) |
@@ -72,6 +74,7 @@ temp = A;   // simpan A
 A = B;      // A diisi B
 B = temp;   // B diisi A lama
 ```
+
 | Langkah | A | B | temp |
 |---------|---|---|------|
 | awal | 5 | 8 | – |

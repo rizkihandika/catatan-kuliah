@@ -69,5 +69,11 @@ RPS belum tersedia di Edlink — tanyakan dosen / cek pengumuman.
 - Menurut RPS: Tugas 1 di topik Internet & WWW (≈P06), Tugas 2 di topik ML & AI (≈P14).
 - Kuis Sesi 5 sudah selesai (progres kuis 5/5).
 
+## Arsip Edlink (lengkap, dicek di browser 2026-11-28)
+- [Indeks arsip](arsip/README.md) — semua post per pertemuan (instruksi, tenggat, lampiran), tanpa komentar
+- Teks materi *(ada di Edlink)* — isi PDF/PPT/DOCX dalam markdown
+- [Transkrip video](arsip/transkrip/README.md) — 9 video, tiap file berisi **Ringkasan detail** + transkrip lengkap
+- [Pengumuman linimasa](arsip/pengumuman.md)
+
 ## Referensi
 -

@@ -27,6 +27,7 @@ int total = 0;                     // akumulator mulai dari 0
 for (int i = 1; i <= 10; i++)
     total = total + i;             // 1+2+...+10 = 55
 ```
+
 | putaran | i | total sebelum | total sesudah |
 |---------|---|---------------|---------------|
 | 1 | 1 | 0 | 1 |

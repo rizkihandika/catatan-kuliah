@@ -2,8 +2,30 @@
 
 - **Kelas**: ICT Literacy
 - **Jadwal**: 2026-11-25 13:00:00 – 14:40 WIB
-- **Progres Edlink**: Sudah dimulai · dibaca 2/5
+- **Progres Edlink**: Sudah dimulai · dibaca 6/6
 - session_id `34712419`
+
+### Upload Tugas Sebelum UTS
+- **Jenis**: Tugas · post_id `9365500`
+- **Oleh**: Dr. Fauziah, S.Kom, MMSI · dibuat 2026-11-25 07:20
+- **Tenggat**: 2026-11-30 10:19:30
+- **Pengumpulanku**: BELUM
+
+### Internet dan www
+- **Jenis**: Materi · post_id `9365324`
+- **Oleh**: Dr. Fauziah, S.Kom, MMSI · dibuat 2026-11-25 07:04
+
+**Isi / instruksi:**
+
+> Assalamu’alaikum warahmatullahi wabarakatuh.
+> Selamat pagi dan salam semangat untuk seluruh mahasiswa! 😊
+> Pada sesi pembelajaran kali ini, kita akan membahas materi Internet dan World Wide Web (WWW). Keduanya merupakan bagian penting dari perkembangan teknologi informasi yang memungkinkan kita terhubung, berkomunikasi, mencari informasi, serta berbagi pengetahuan tanpa batas ruang dan waktu.
+> Melalui materi ini, kita akan mengenal bagaimana internet bekerja, memahami perbedaan antara Internet dan WWW, serta mengetahui berbagai layanan dan manfaatnya dalam kehidupan sehari-hari, pendidikan, bisnis, dan dunia profesional. Mari ikuti pembelajaran dengan antusias, perluas wawasan digital, dan pahami bagaimana teknologi internet telah mengubah cara kita beraktivitas di era digital.
+> Selamat belajar, tetap semangat, dan mari kita mulai!
+> Wassalamu’alaikum warahmatullahi wabarakatuh. 🌐✨
+
+**Lampiran:**
+- 📎 Modul ICT Literacy_06_Internet dan World Wide Web.pdf (162 KB) → [`Modul ICT Literacy_06_Internet dan World Wide Web.pdf`](../materi/Modul%20ICT%20Literacy_06_Internet%20dan%20World%20Wide%20Web.pdf)
 
 ### Materi Sesi 6
 - **Jenis**: Materi · post_id `9365282`
@@ -22,22 +44,6 @@
 - 📎 Sesi 6 - Internet dan World Wide Web.pptx (1167 KB) → [`Sesi 6 - Internet dan World Wide Web.pptx`](../materi/Sesi%206%20-%20Internet%20dan%20World%20Wide%20Web.pptx)
 
 ### Internet dan www
-- **Jenis**: Materi · post_id `9365324`
-- **Oleh**: Dr. Fauziah, S.Kom, MMSI · dibuat 2026-11-25 07:04
-
-**Isi / instruksi:**
-
-> Assalamu’alaikum warahmatullahi wabarakatuh.
-> Selamat pagi dan salam semangat untuk seluruh mahasiswa! 😊
-> Pada sesi pembelajaran kali ini, kita akan membahas materi Internet dan World Wide Web (WWW). Keduanya merupakan bagian penting dari perkembangan teknologi informasi yang memungkinkan kita terhubung, berkomunikasi, mencari informasi, serta berbagi pengetahuan tanpa batas ruang dan waktu.
-> Melalui materi ini, kita akan mengenal bagaimana internet bekerja, memahami perbedaan antara Internet dan WWW, serta mengetahui berbagai layanan dan manfaatnya dalam kehidupan sehari-hari, pendidikan, bisnis, dan dunia profesional. Mari ikuti pembelajaran dengan antusias, perluas wawasan digital, dan pahami bagaimana teknologi internet telah mengubah cara kita beraktivitas di era digital.
-> Selamat belajar, tetap semangat, dan mari kita mulai!
-> Wassalamu’alaikum warahmatullahi wabarakatuh. 🌐✨
-
-**Lampiran:**
-- 📎 Modul ICT Literacy_06_Internet dan World Wide Web.pdf (162 KB) → [`Modul ICT Literacy_06_Internet dan World Wide Web.pdf`](../materi/Modul%20ICT%20Literacy_06_Internet%20dan%20World%20Wide%20Web.pdf)
-
-### Internet dan www
 - **Jenis**: Materi · post_id `9365341`
 - **Oleh**: Dr. Fauziah, S.Kom, MMSI · dibuat 2026-11-25 07:05
 
@@ -53,12 +59,6 @@
 
 **Lampiran:**
 - 🔗 Video Sesi 6: https://www.youtube.com/watch?v=mlGroPPIclQ&list=PLvOuFZ_J_esiq9tPCHs__rsCa7nM9SRoI&index=6
-
-### Upload Tugas Sebelum UTS
-- **Jenis**: Tugas · post_id `9365500`
-- **Oleh**: Dr. Fauziah, S.Kom, MMSI · dibuat 2026-11-25 07:20
-- **Tenggat**: 2026-11-30 10:19:30
-- **Pengumpulanku**: BELUM
 
 ### Video Interaktif Sesi 6
 - **Jenis**: Video interaktif · post_id `9365380`
@@ -76,3 +76,12 @@
 
 **Lampiran:**
 - 🔗 Video Sesi 6: https://www.youtube.com/watch?v=mlGroPPIclQ&list=PLvOuFZ_J_esiq9tPCHs__rsCa7nM9SRoI&index=6
+
+### Quiz Sesi 6
+- **Jenis**: Kuis · post_id `9398493`
+- **Oleh**: Dr. Fauziah, S.Kom, MMSI · dibuat 2026-11-27 07:27
+- **Kuis**: 5 soal · durasi 5 menit · acak soal: ya · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua · grade Edlink 100
+
+**Isi / instruksi:**
+
+> Mari Kuis Sesi 6

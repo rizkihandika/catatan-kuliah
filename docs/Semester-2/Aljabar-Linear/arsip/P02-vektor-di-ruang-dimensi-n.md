@@ -2,7 +2,7 @@
 
 - **Kelas**: Aljabar Linear
 - **Jadwal**: 2026-10-30 15:00:00 – 16:40 WIB
-- **Progres Edlink**: Selesai · dibaca 1/2
+- **Progres Edlink**: Selesai · dibaca 2/2
 - session_id `34703614`
 
 ### Materi - Sesi #2 (1)

@@ -74,6 +74,7 @@ Give X; Give Y
 Langkah: (1) beri nomor tiap instruksi, (2) buat tabel: kolom baris + semua variabel, (3) isi nilai yang **berubah** saja per baris.
 
 Penelusuran Swap dengan X = 25, Y = 88:
+
 | Line | X | Y | Temp |
 |------|---|---|------|
 | 1 Get X | 25 | | |

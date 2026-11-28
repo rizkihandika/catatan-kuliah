@@ -30,6 +30,7 @@ Sesi ini melatih cara memperkenalkan diri (nama, umur, asal, tempat tinggal, hob
 | you / we / they / jamak | are | were |
 
 Keterangan sesudah *to be*:
+
 | Jenis | Contoh |
 |-------|--------|
 | Noun (kata benda) | *They are **our classmates**.* · *This is **my wife**.* |

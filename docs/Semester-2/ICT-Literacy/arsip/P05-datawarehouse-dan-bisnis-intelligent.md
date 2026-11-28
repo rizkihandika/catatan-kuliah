@@ -2,7 +2,7 @@
 
 - **Kelas**: ICT Literacy
 - **Jadwal**: 2026-11-18 13:00:00 – 14:40 WIB
-- **Progres Edlink**: Selesai · dibaca 3/5
+- **Progres Edlink**: Selesai · dibaca 5/5
 - session_id `34712418`
 
 ### Materi Sesi 5 (Datawarehouse dan Bisnis Intelligent)

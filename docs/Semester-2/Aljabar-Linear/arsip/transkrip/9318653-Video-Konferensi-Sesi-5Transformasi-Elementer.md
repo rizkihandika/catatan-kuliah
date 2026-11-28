@@ -5,6 +5,27 @@
 - **Durasi**: 14:47 · bahasa terdeteksi: id
 - Transkrip otomatis (faster-whisper large-v3-turbo) — mungkin ada salah dengar istilah.
 
+## Ringkasan detail
+
+Rekaman video konferensi (Zoom) sesi 5 Aljabar Linear, membahas transformasi elementer pada matriks. Materinya sama dengan video `9294973-Transformasi-Elementer.md` (empat jenis transformasi pada baris/kolom), tetapi dibawakan dosen lain secara interaktif dengan tanya-jawab; kontennya serupa, bukan transkrip identik.
+
+- **[00:01–02:17] Pengantar.** Dosen berharap mahasiswa sudah mempelajari matriks dan jenisnya. Matriks = jajaran angka berbaris dan berkolom dengan ukuran (baris × kolom); dapat dibayangkan sebagai *array* data, penting misalnya untuk pengolahan citra (*vision*). **Transformasi elementer** adalah perpindahan/perubahan elemen pada baris atau kolom suatu matriks. Notasi **B** untuk baris dan **K** untuk kolom; ada **4 jenis**.
+- **[02:17–04:33] Jenis 1: menukar.** $B_{ij}$ / $K_{ij}$ menukar baris/kolom ke-$i$ dengan ke-$j$; menukar berarti tidak ada yang hilang. Contoh: $B_{31}$ menukar baris ke-3 dengan baris ke-1 (dan sebaliknya); $K_{23}$ menukar kolom ke-2 dan ke-3.
+- **[05:39–06:42] Jenis 2: mengalikan skalar.** $B_i(a)$ / $K_i(a)$ mengalikan semua elemen baris/kolom ke-$i$ dengan skalar $a$. Contoh: $B_3(2)$ mengalikan baris ke-3 dengan 2; $K_3(3)$ mengalikan kolom ke-3 dengan 3.
+- **[06:42–08:46] Jenis 3: menambah kelipatan baris/kolom lain.** $B_{ij}(a)$ / $K_{ij}(a)$: $B_i \leftarrow B_i + a \cdot B_j$. Contoh $B_{32}(-2)$: baris ke-3 ditambah $-2 \times$ baris ke-2; yang berubah **hanya baris ke-3** (baris ke-2 tetap); perhitungan: $1 + 3(-2)$, $2 + 1(-2)$, $1 + (-2)(-2)$, $2 + 1(-2)$. Berbeda dari jenis 1 (menukar) yang mengubah kedua baris. Contoh kolom $K_{21}(2)$: kolom ke-2 ditambah $2 \times$ kolom ke-1; kolom ke-1 tetap.
+- **[08:46–10:52] Jenis 4: gabungan.** Baris/kolom ke-$i$ dikalikan skalar $a$ lebih dulu, lalu ditambah $b$ kali baris/kolom ke-$j$: $B_i \leftarrow a B_i + b B_j$. Contoh: $B_3$ dikali 2 lalu ditambah 4 kali baris ke-2: $(1\cdot2 + 3\cdot4,\; 2\cdot2 + 1\cdot4,\; 1\cdot2 + (-2)\cdot4,\; \dots)$; baris ke-2 tidak berubah. Contoh kolom: kolom ke-3 dikali 4 ditambah kolom ke-2 dikali 3.
+- **[12:11–13:15] Latihan bersama.** Dikerjakan satu soal di kelas: hanya baris pertama yang terkena dampak; baris pertama dikali 4 lalu ditambah baris kedua dikali $-3$ (perhitungan mengikuti pola $a B_i + b B_j$). Detail angkanya kurang jelas di transkrip. Materi dinilai sedikit/mudah dan bisa dicoba sendiri di rumah.
+
+**Poin penting untuk ujian:**
+- Empat jenis transformasi elementer dan notasinya: tukar, kalikan skalar, tambah kelipatan, gabungan skalar + tambah.
+- Pada jenis 3 dan 4 hanya baris/kolom target ($i$) yang berubah; baris/kolom pembantu ($j$) tetap.
+- Menukar mengubah dua baris/kolom sekaligus.
+- Cara menghitung: elemen baris target dikalikan/ditambah elemen demi elemen dengan baris pembantu.
+
+**Info dari dosen:** Jangan lupa mengerjakan tugas dan jangan sampai terlambat mengunggahnya; kerjakan pada minggu ini untuk mengisi nilai tugas. (Kalimat penutup seperti "Bagaimana keuangan?" kemungkinan percakapan di luar materi.)
+
+## Transkrip lengkap
+
 **[00:01]** Baik, teman-teman, hari ini yang kita bahas adalah transformasi elementer. Nah, saya mengharapkan teman-teman sudah membaca dan sudah mempelajari matriks ya. Kemarin matriks itu seperti apa, kemudian jenisnya itu apa saja. Kemudian hari ini kita akan belajar tentang transformasi elementer pada matriks. Jadi, sebenarnya matriks itu kan jajaran dari angka-angka yang akan membentuk suatu ada baris dan ada kolomnya. Kita dinamakan matriks dan matriks itu ada ukurannya, ukurannya N kali M gitu ya. Jadi, ada baris kali kolom. Nah, teman-teman, dari baris dan kolom ini tadi, jadi apa sih nanti matriks itu gunanya seperti apa?
 
 **[01:09]** Ini kita bayangkan sebagai array data ya. Nah, data array ini nantinya kita bisa kelola. Jadi, manfaatnya nanti ya kalau kalian mau mengelola di ilmu vision, pengelolaan vision ya, pengelolaan citra, maka ini adalah yang penting dilakukan adalah mengelola matriks ini. Baik, kalau saya tayangkan saja. Oke, bisa dilihat? Sudah bisa dilihat ya. Oh, ya, bisa dilihat. Nah, transformasi elementer yang disebutkan, kan kita tahu bahwa matriks ini berisi elemen-elemen-elemen baris dan elemen kolom. Jadi, transformasi elementer adalah perpindahan elemen pada baris atau kolom suatu matriks.

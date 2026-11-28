@@ -2,7 +2,7 @@
 
 - **Kelas**: ICT Literacy
 - **Jadwal**: 2026-10-21 13:00:00 – 14:40 WIB
-- **Progres Edlink**: Selesai · dibaca 4/5
+- **Progres Edlink**: Selesai · dibaca 5/5
 - session_id `34712414`
 
 ### VCON Sesi 1

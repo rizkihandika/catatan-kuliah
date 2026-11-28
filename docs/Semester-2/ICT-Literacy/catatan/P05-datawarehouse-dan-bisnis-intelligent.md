@@ -17,6 +17,7 @@ Tanggal: 2026-11-18 · Sumber: [`Modul ICT Literacy_05_Data Warehouse dan Busine
 - **5 fungsi**: bantu pengambilan keputusan, akses cepat, konsistensi data, ROI optimal, historical intelligence (tren & forecasting).
 
 **4 karakteristik (Inmon)** — sering keluar:
+
 | Karakteristik | Arti |
 |---------------|------|
 | **Subject-oriented** | disusun per subjek (pelanggan, produk, penjualan), bukan per aplikasi |
@@ -29,6 +30,7 @@ Tanggal: 2026-11-18 · Sumber: [`Modul ICT Literacy_05_Data Warehouse dan Busine
 Data source ──ETL──► ODS / staging ──► Data warehouse ──► Data mart ──► Analitik, laporan, data mining
 (ERP, CRM, csv)      (gabung, bersihkan)  (bersih, terkonsolidasi)  (per fungsi bisnis)
 ```
+
 | Komponen | Fungsi |
 |----------|--------|
 | ETL | **extract, transform, load** → format seragam, konsisten |

@@ -11,6 +11,7 @@ class_id `2330548` · diarsipkan oleh `tools/edlink-archive/archive.py` · komen
 | [03](P03-matriks.md) | 2026-11-06 | Matriks | Materi, Video konferensi | 1 |
 | [04](P04-minggu-4-jenis-matriks.md) | 2026-11-13 | Minggu 4 Jenis Matriks | Materi, Video interaktif | 2 |
 | [05](P05-transformasi-elementer.md) | 2026-11-20 | Transformasi Elementer | Materi, Video interaktif, Video konferensi, Tugas | 3 |
+| [06](P06-minggu-6-rank-matriks.md) | 2026-11-27 | Minggu 6 Rank Matriks | Materi, Video interaktif | 2 |
 
 [rps.md](rps.md)
 
@@ -20,3 +21,4 @@ class_id `2330548` · diarsipkan oleh `tools/edlink-archive/archive.py` · komen
 - youtube: Jenis Matriks — https://www.youtube.com/watch?v=Zk-gobapZ8o&list=PLvOuFZ_J_esh0ri5O6yGfdvu3_upiPav9&index=4&t=20s
 - youtube: Transformasi Elementer — https://www.youtube.com/watch?v=359Bxby8K2Y&list=PLvOuFZ_J_esh0ri5O6yGfdvu3_upiPav9&index=5
 - zoom: Video Konferensi - Sesi #5Transformasi Elementer — https://zoom.us/rec/play/rZeWl6Gye0ppj8ipBm9EM_LeYmsypN9e1gCWsbwhMUmtLbDsI6VmUcMZ85y4exhjq7MJn-iuy-Wga65_.0bd6eLNgrxpjaiHd
+- youtube: Minggu 6 Rank Matriks — https://www.youtube.com/watch?v=5mB5K7Ri97c&list=PLvOuFZ_J_esh0ri5O6yGfdvu3_upiPav9&index=6

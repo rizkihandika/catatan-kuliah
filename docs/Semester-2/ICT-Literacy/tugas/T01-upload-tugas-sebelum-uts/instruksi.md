@@ -3,7 +3,8 @@
 - **Tenggat**: 2026-11-30 10:19 WIB. **Tidak boleh telat** (`allowLateSubmission: false`).
 - **Status**: belum dikumpulkan (cek Edlink 2026-11-27).
 - **Rencana pengerjaan**: [rencana.md](rencana.md)
-- **Tema dipilih (2026-11-27, individu)**: ICT literacy **generasi muda (17–35)** dalam pemanfaatan **AI generatif** secara kritis dan etis. Tidak memakai tema pekerjaan; tema lain diperbolehkan asal terkait ICT Literacy (WA 2026-10-24). Judul, rumusan masalah, kerangka Word, dan referensi ada di rencana.md.
+- **Tema dipilih (2026-11-27, individu)**: ICT literacy **generasi muda (17–35)** dalam pemanfaatan **AI generatif** secara kritis dan etis. Tidak memakai tema pekerjaan; **tema lain boleh** (WA 2026-10-24, dikonfirmasi lagi 2026-11-27). Judul, tujuan, kerangka Word, dan referensi ada di rencana.md.
+- **Bentuk (diputuskan 2026-11-27)**: format dari dosen belum ada → ikuti **gaya contoh dosen** (artikel: judul, abstrak, pendahuluan, kajian teori, metode, daftar pustaka; deskriptif kuantitatif tanpa hipotesis). Tidak perlu terlalu lengkap, yang penting memenuhi syarat. Detail contoh di rencana.md.
 - **Post upload**: Edlink `9365500` (Sesi 6). Deskripsinya **kosong** (dicek 2026-11-25).
 - **Bobot**: Tugas 1 = **15%** · UTS 30% · Tugas 2 15% · UAS 30% · sikap 10%.
 - **Individu atau kelompok**: boleh dua-duanya.
@@ -23,6 +24,22 @@
 
 ⚠️ **Tenggat di screenshot itu "Minggu, 3 Desember 2023 23.59"**, jadi tabelnya bekas angkatan 2023. **Abaikan tanggalnya.** Tenggat yang berlaku tetap dari Edlink: **2026-11-30 10:19**.
 ⚠️ **File "Format Proposal" belum ada di Edlink.** Sudah kucek `class_files` 2026-11-27, isinya hanya modul & slide. Minta file template di grup WA. Kalau tidak ada, pakai struktur proposal di bawah dengan format A4/TNR 12/spasi 1.
+
+🔎 **Pencarian "Format Proposal" di seluruh LMS (2026-11-27), hasilnya TIDAK ADA:**
+
+| Yang dicek | Hasil |
+|---|---|
+| `class_files` ICT (10 file) | Hanya modul 01–06, slide Sesi 1/4/6, infografis sektor. Tidak ada template |
+| Deskripsi post tugas 9365500 + 6 komentarnya | Deskripsi kosong; komentar hanya "terima kasih bu" |
+| Komentar diskusi di **46 post** ICT (semua yang berkomentar) | Tidak ada satu pun yang membahas format, bab, halaman, font, atau nama file. Tidak ada tanya-jawab soal tugas |
+| Transkrip 9 video (Pendahuluan s/d Sesi 6) | Hanya video Pendahuluan [03:13]–[05:20]: output berupa *paper/makalah/software/pelatihan/artikel*, mandiri/kelompok, **Tugas 1 = proposal rencana kegiatan tugas proyek**, UTS 40% → Tugas 2 60% → UAS 100% + presentasi |
+| Slide Sesi 1 (SmartArt slide 10 "Assesment", baru terbaca) | "**Tugas 1 = Proposal** · UTS = Hasil Sementara Progress 40% · Tugas 2 = Progress 60% · UAS = Hasil Akhir Tugas dan Presentasi 100%". Slide 9: paper/makalah dipresentasikan (*colloquium/FGD*), boleh diterbitkan di jurnal/media online |
+| Slide RPS (gambar slide 6–7) | CPMK & bobot saja; P6 = TUGAS 1, P14 = TUGAS 2 |
+| Rekaman Zoom ICT (vicon Sesi 1, 3, 5) | **Tidak ada rekaman** yang dibagikan, walau dosen pernah bilang "nanti ada rekamannya" (post 8842639) |
+| Kelas MKU semester lalu (Estetika Humanisme, Pancasila) | Tidak ada template proposal. Sebagai pembanding, tugas MKU Estetika memakai: cover, kata pengantar, pendahuluan, pembahasan, penutup, daftar pustaka, pernyataan orisinalitas; TNR 12, spasi 1,5, justify, 5–10 hlm |
+
+→ Satu-satunya ketentuan format yang ada: tabel "Uraian Tugas" (screenshot 2023) di atas: **A4, TNR 12, spasi 1, PDF `TUGAS1_ICTLiteracy_Nama.pdf`**. Struktur isi bebas → pakai [kerangka-proposal.docx](kerangka-proposal.docx) (v2: gaya artikel seperti contoh dosen, sampai Metode). **Tanyakan di grup WA** apakah ada file "Format Proposal"; kalau tidak ada jawaban sampai Sabtu malam, lanjut dengan kerangka ini.
+💡 Tambahan aman (tidak diminta, tapi lazim & murah): halaman **pernyataan orisinalitas** di akhir, seperti tugas MKU lain.
 
 **Kesimpulan:** Tugas 1 = **proposal** (Bab 1–3: pendahuluan, tinjauan pustaka, metode). Ini cocok dengan skema video P01 (proposal → 40% → 60% → 100%) dan dengan UTS yang "sampai metode". Jadi ambiguitas cakupan Tugas 1 di bawah praktis terjawab.
 
@@ -84,11 +101,14 @@ Pola judul: *"Implementasi ICT Literacy dalam Mendukung [aktivitas kerja] pada [
 - Video P01 (dosen pengembang MKU) sebelumnya sudah menyebut skema proyek berkesinambungan (proposal → 40% → 60% → 100% + presentasi). Skema itu **konsisten** dengan info WA.
 
 ## Checklist sebelum kumpul (Tugas 1)
-- [ ] Putuskan: individu atau kelompok (maks 3)
-- [ ] Minta file "Format Proposal" di grup WA
-- [ ] Tentukan bidang pekerjaan + judul
-- [ ] Bab 1 lengkap (latar belakang, rumusan masalah, tujuan, manfaat)
-- [ ] Bab 2 & 3 (minimal kerangka, sebaiknya draf)
+- [x] Putuskan: individu atau kelompok (maks 3) → individu
+- [x] Tema di luar pekerjaan boleh (dikonfirmasi 2026-11-27)
+- [ ] (Opsional) Tanya di grup WA: ada file "Format Proposal"? YouTube private/unlisted?
+- [x] Tentukan tema + judul → ICT literacy generasi muda × AI generatif (lihat rencana.md)
+- [ ] Abstrak + kata kunci (ditulis terakhir)
+- [ ] Pendahuluan (5 paragraf + tujuan & manfaat)
+- [ ] Kajian Teori (3 subjudul)
+- [ ] Metode (paragraf + Tabel 1 kisi-kisi + Tabel 2 kategori)
 - [ ] Sudah ada ≥ 10 referensi dan sitasi di teks (target akhir 20)
 - [ ] Identitas (nama, NIM, IF102) di halaman judul
 - [ ] Format A4, Times New Roman 12 pt, spasi 1

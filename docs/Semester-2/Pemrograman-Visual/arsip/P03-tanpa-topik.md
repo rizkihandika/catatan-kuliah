@@ -2,7 +2,7 @@
 
 - **Kelas**: Pemrograman Visual
 - **Jadwal**: 2026-11-04 15:00:00 – 16:40 WIB
-- **Progres Edlink**: Terjadwal · dibaca 0/1
+- **Progres Edlink**: Terjadwal · dibaca 1/1
 - session_id `34703550`
 
 ### Control pada VB

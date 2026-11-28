@@ -13,6 +13,7 @@
 
 ## Pola kelas & vicon (dari feed Edlink)
 Kuliah PJJ asinkron: materi biasanya rilis H-3 s/d hari kuliah. **Vicon (Zoom) sering di luar jam jadwal** — pantau post "Video Konferensi".
+
 | Mata Kuliah | Pola |
 |-------------|------|
 | Dasar Pemrograman | Materi + kuis tiap sesi; vicon kadang (mis. Rabu 09:30) |

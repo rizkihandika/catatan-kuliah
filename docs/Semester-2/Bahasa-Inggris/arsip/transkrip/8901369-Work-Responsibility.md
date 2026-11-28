@@ -5,6 +5,49 @@
 - **Durasi**: 22:07 · bahasa terdeteksi: en
 - Transkrip otomatis (faster-whisper large-v3-turbo) — mungkin ada salah dengar istilah.
 
+## Ringkasan detail
+
+Video sesi 3 (sekitar 21 menit) dari dosen Dermita Arianti (UNSIA) ini membahas *work and responsibility*: cara menyampaikan pekerjaan dan tanggung jawab dalam bahasa Inggris. Isi utama: delapan kombinasi kata dengan *work*, tiga cara menyatakan tanggung jawab, kata sifat untuk menilai pekerjaan (positif, negatif, repetitif, melelahkan), dan lima jenis cara bekerja. Dosen menjelaskan sebagian besar dalam bahasa Indonesia dengan contoh kalimat berbahasa Inggris.
+
+- [00:00–01:00] Pembukaan: sesi 3 membahas pekerjaan dan tanggung jawab. Setelah sesi ini mahasiswa diharapkan mampu memakai kosa kata rutinitas kerja dan tanggung jawab.
+- [01:00–10:09] **Eight word combinations with work**: work for, work in, leave for work, go to work, get to / arrive at work, at work, off work, out of work.
+  - *work for* + nama perusahaan spesifik: "I work for BCA Bank." / "I work for Pertamina." / "I work for Unilever."
+  - *work in* + jenis tempat (lebih umum): "I work in a bank." / "I work in a university." / "I work in a department store." / "I work in a studio." / "I work in television."
+  - *leave for work* + jam berangkat: "I leave for work at 6.30 a.m." (di transkrip tertulis "live", salah dengar; maksudnya *leave*). a.m. untuk pagi, p.m. untuk siang sampai malam, mis. 1.00 p.m. = 13.00.
+  - *go to work* + cara/transportasi: "I go to work by train." / "I go to work by car." Vocabulary: train, bus, car, motorcycle, MRT, LRT.
+  - *get to / arrive at work* = waktu kita sudah siap mulai bekerja: "I get to work at 7 a.m." (dosen: maksudnya saat membuka pintu dan mulai bekerja; kalau masih sarapan/ngopi, hitung saat benar-benar siap, mis. "I get to work at 10 a.m.").
+  - *at work* = sedang melakukan pekerjaan: "I'm usually at work from 9 a.m. until 5 p.m. every day." (dosen mengucap "I usually at work", bentuk benar: I'm usually at work). Contoh dosen: "I'm usually at work from 8 a.m. until 8 p.m. every day."
+  - *off work* = hari libur / tidak bekerja (a day off): "We have to work on Monday until Friday, so we are off on the weekend." Hari libur tergantung perusahaan.
+  - *out of work* = tidak punya pekerjaan, unemployed, menganggur: "I have been out of work for the past six months."
+- [06:08] Dosen menyebut forum diskusi di Edlink dan *synchronous mode* (video conference) untuk bertanya kepada dosen.
+- [11:09–14:10] **Three ways to express responsibility**.
+  - *deal with* = take action to do something, especially to solve a problem: "I deal with the complaints from the customer." (cocok untuk customer care/service).
+  - *in charge of* = having control of or responsibility for something: "I'm in charge of the complaints from the customer."
+  - *responsible for* = having control and authority over something/someone and the duty of taking care of it/him/her: "I'm responsible for the complaints from the customer."
+- [14:10–16:11] **Adjectives to describe a job**.
+  - Positif: *satisfying*, *stimulating*, *fascinating*, *exciting*. Contoh: "My job is satisfying." / "My job is very fascinating." / "My job is exciting."
+  - Negatif: *dull*, *boring*, *uninteresting*, *unstimulating*. Contoh: "My job is boring." / "This job is uninteresting."
+- [16:11–17:12] Kata sifat lain: *repetitive* dan *routine* (melakukan hal yang sama berulang-ulang); untuk pekerjaan berat dan melelahkan: *tiring*, *tough*, *hard*, *demanding* (mis. banyak deadline). Contoh: "My job is very tiring."
+- [17:12–21:13] **Ways of working** (lima jenis).
+  - *nine-to-five job*: rutin, mulai jam 9 selesai jam 5, biasanya Senin sampai Jumat.
+  - *flexi time*: waktu mulai/selesai bisa diatur sendiri (You can change the time you start or finish work); biasanya pekerjaan kreatif, tetap ada deadline.
+  - *work in shifts*: beberapa kelompok pekerja dengan jam berbeda (pagi, siang, malam), mis. 7 sampai 13, 12 sampai 18, 18 sampai 23.
+  - *commute*: perjalanan teratur dari rumah ke tempat kerja dan kembali (dosen juga memberi contoh tempat kerja yang berpindah-pindah).
+  - *work from home* (WFH): bekerja dari rumah, populer sejak pandemi; dibandingkan dengan WFO (work from office).
+- [21:13–akhir] Penutup: ajakan bertanya ke dosen UNSIA kalau belum jelas, dan menonton sesi berikutnya.
+
+**Poin penting untuk ujian:**
+- *work for* + nama perusahaan; *work in* + jenis tempat; *leave for work* + jam; *go to work by* + transportasi.
+- *get to work* = siap mulai bekerja; *at work* = sedang bekerja; *off work* = libur; *out of work* = menganggur.
+- Tiga ekspresi tanggung jawab: deal with, in charge of, responsible for (contoh kalimat tentang customer complaints).
+- Adjective positif: satisfying, stimulating, fascinating, exciting; negatif: dull, boring, uninteresting, unstimulating.
+- Lima ways of working: nine-to-five, flexi time, shifts, commute, work from home.
+- a.m. = pagi, p.m. = siang sampai malam.
+
+**Info dari dosen:** Tidak ada tugas/kuis/tenggat spesifik. Dosen mengingatkan untuk bertanya di forum diskusi Edlink atau lewat sesi video conference (synchronous mode), dan mengajak mahasiswa mendiskusikan WFH vs WFO.
+
+## Transkrip lengkap
+
 **[00:00]** Assalamualaikum warahmatullahi wabarakatuh Salam sejahtera untuk kita semua Wah, kita ketemu lagi ya Dengan saya, Dermita Arianti Dan juga tim pengajar dari Universitas Siber Asia Nah, di mata kuliah Bahasa Inggris ini Kita sudah masuk ke sesi ketiga, teman-teman Nah, di sesi ketiga ini Kita akan bahas sedikit Lebih banyak, begitu ya Tentang work and responsibility Atau pekerjaan Dan juga tanggung jawabnya seperti apa Dan bagaimana sih sebenarnya Cara menyampaikan di dalam bahasa Inggris Sepertinya, teman-teman semua Sebagian besar ya Merupakan teman-teman yang luar biasa Mahasiswa yang juga punya Kesibukan bekerja Dari data yang kita punya Dan juga pasti punya tanggung jawabnya Masing-masing Kita akan bantu disini untuk menjelaskan Bagaimana sih kita menjelaskan Dalam bahasa Inggris tentang pekerjaan kita
 
 **[01:00]** Dan responsibility-nya seperti apa Kita mulai, oke? Oke, yuk Baik Working atau work and responsibility Kita akan bahas juga tentang Terkait dengan vocabulary-nya ya, teman-teman Nah, setelah mempelajari bagian ini Kita berharap bahwa teman-teman Mampu menggunakan kosa kata Terkait dengan rutinitas pekerjaan Dan juga tanggung jawab Teman-teman semua dalam pekerjaan tersebut Baik Nah, kira-kira teman-teman sudah pernah Familiar lah ya Dengan kata-kata ini Work for Work in Leave for work Go to work Get to Or arrive at work At work Of work Out of work Nah, ini semua adalah Eight word combination with work Jadi ada delapan kombinasi Untuk penggunaan kata kerja Dengan basicnya adalah Work atau kerja Baik Nah, yang pertama

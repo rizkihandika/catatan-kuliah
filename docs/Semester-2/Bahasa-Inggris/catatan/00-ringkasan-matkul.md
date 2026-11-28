@@ -123,6 +123,7 @@ Sumber: `Sesi 4_…Health (2).pptx`, `Sesi 4_…Verb Pattern.pptx`, video Health
   - **injury** = luka biasa (*seriously injured in a car crash*).
 
 **Verb Patterns**
+
 | Pola | Contoh |
 |---|---|
 | V + object | *They discussed the film for hours.* |
@@ -157,6 +158,7 @@ Sumber: `Sesi 5_…Environment.pptx`, `Sesi 5_…Present Tense.pptx`, video Envi
   - **Akuatik**: limbah toksik, pengeringan *wetlands*, *overfishing*, mangrove dibabat, *coral bleaching*.
 
 **Present Tenses**
+
 | Tense | Rumus | Pemakaian | Signal words |
 |---|---|---|---|
 | Simple | S + V1(s/es) · *do/does not* | fakta, kebiasaan, jadwal, instruksi, headline, *when/if* clause | every day, usually |

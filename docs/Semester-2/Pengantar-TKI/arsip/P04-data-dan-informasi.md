@@ -2,7 +2,7 @@
 
 - **Kelas**: Pengantar Teknologi Komunikasi dan Informatika
 - **Jadwal**: 2026-11-12 15:00:00 – 16:40 WIB
-- **Progres Edlink**: Selesai · dibaca 2/4
+- **Progres Edlink**: Selesai · dibaca 4/4
 - session_id `34703599`
 
 ### Materi - Sesi #4 (1)

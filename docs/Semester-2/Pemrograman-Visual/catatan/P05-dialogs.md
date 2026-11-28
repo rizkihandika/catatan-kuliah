@@ -59,6 +59,7 @@ If MessageBox.Show("Keluar dari aplikasi?", "Konfirmasi",
     Me.Close()
 End If
 ```
+
 | Parameter | Contoh nilai |
 |-----------|--------------|
 | teks | `"Keluar?"` |

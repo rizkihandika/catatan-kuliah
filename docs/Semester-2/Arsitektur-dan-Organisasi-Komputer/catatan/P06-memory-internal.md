@@ -16,6 +16,7 @@ Memori disusun dalam **hirarki**: makin ke bawah (register → cache → main me
         │  Magnetic disk
         │  Magnetic tape / Optical disc   ← terlambat, termurah, terbesar (GB), jarang diakses
 ```
+
 | Makin ke bawah | |
 |----------------|-|
 | Harga per bit | makin **murah** |

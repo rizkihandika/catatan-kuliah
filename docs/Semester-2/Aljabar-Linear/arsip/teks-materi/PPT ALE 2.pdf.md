@@ -39,8 +39,10 @@ a
 u
 2
 2
+
 |
 u
+
 |
 b
 a +
@@ -290,6 +292,7 @@ Besar Vektor Hasil Penjumlahan dan Pengurangan
 (
 )
 (
+
 |
 |
 d
@@ -367,6 +370,7 @@ Penguranga
 (
 )
 (
+
 |
 |
 d
@@ -446,6 +450,7 @@ Dot Product (Inner Product)
 antara panjang vektor dan cosinus sudut antara keduanya.
 
 cos
+
 |
 ||
 |
@@ -501,6 +506,7 @@ a
 =
 •
 =
+
 |
 ||
 |

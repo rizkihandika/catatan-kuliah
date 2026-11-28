@@ -5,6 +5,61 @@
 - **Durasi**: 27:15 · bahasa terdeteksi: en
 - Transkrip otomatis (faster-whisper large-v3-turbo) — mungkin ada salah dengar istilah.
 
+## Ringkasan detail
+
+Video ini (sekitar 27 menit) membahas grammar *present tense*: mengapa tenses penting, empat bentuk tense (simple, continuous, perfect, perfect continuous) pada waktu sekarang, penggunaan, signal words, pola kalimat positif/negatif/tanya, dan rumus akhir. Dosen menjelaskan dari fungsi tense untuk mengomunikasikan waktu, hubungan antar kejadian, serta keadaan dan kebiasaan, lalu menjelaskan keempat present tense satu per satu dengan contoh kalimat.
+
+- [00:01–03:07] **Mengapa tenses penting**. Tenses dipakai untuk:
+  - *Expressing time and chronological order*: "She studied." (simple past: sudah selesai di masa lalu) vs "He is playing." (present continuous: sedang terjadi sekarang).
+  - *Conveying relationships and conditions*: "I had studied." (past perfect: sudah selesai sebelum kejadian lain di masa lalu).
+  - *Communicating states and habits*: "She is reading." (sedang berlangsung); "They play tennis every weekend." (kebiasaan atau general truth).
+  - Tenses ada tiga (present, past, future), masing-masing punya empat bentuk: *simple, continuous, perfect, perfect continuous*.
+- [03:07–10:16] **Simple present tense**.
+  - Kegunaan dan contoh: fakta/kebenaran umum ("Chinese people eat rice."); kondisi permanen ("I am a teacher."); fakta matematika ("1 plus 1 equals 2."); kebiasaan ("I drink coffee every day."); kejadian berulang ("It snows every winter."); keadaan mental ("I think she is very kind."); perasaan dan senses ("I feel very cold." / "I'm freezing."); instruksi ("Open the box on the table. Take out the hand beater and beat the eggs until they are creamy."); berita media ("Earthquake hits New Zealand."); jadwal ("The train leaves at midnight."); kalimat setelah *when / if* untuk kondisi umum ("I like to ski when it snows." / "When it snows, I like to ski."; tanda koma dipakai bila *when* di depan).
+  - Positif: kata kerja bentuk pertama; subjek he/she/it (3rd person singular) memakai -s: "The teacher talks to his students regularly." ; "I walk daily early in the morning." ; "They discuss the literature with each other."
+  - Negatif: do not / does not + V1: "I do not like mathematics." (= I don't like mathematics) ; "He does not fall in the category of eligible candidates for a job." ; "It does not look attractive." (the garden = it).
+  - Tanya: Do/Does di depan subjek: "Do you like mathematics?" ; "Does he belong to Rome?" ; "Do they perform their duties honestly?" ; "Does she take exercise daily?"
+- [10:16–15:23] **Present continuous tense** (aksi yang sedang berlangsung atau sudah direncanakan).
+  - Untuk aksi yang terjadi sekarang: "He is playing tennis now."
+  - Untuk aksi yang sudah direncanakan: "He is watching a movie with his friend next Sunday."
+  - Untuk situasi yang berubah: "The climate is getting hotter each year." (dosen mengucapkan "harder"; kemungkinan salah ucap/salah dengar dari *hotter*).
+  - Untuk waktu saat berbicara: "We are performing our duty at the moment."
+  - Signal words: now, right now, at the moment, next Sunday, next week, each year.
+  - Contoh: "Julia is making a sponge cake right now." ; "He is going to the hill station next week." ; "I am making a sponge cake right now." ; "They are going to the hill station next week."
+  - Negatif: not di antara to be dan V-ing: "Julia is not making a sponge cake right now." ; "He is not going to the hill station next week."
+  - Tanya: to be di depan: "Is Julia making a sponge cake right now?" ; "Is he going to the hill station right now?" ; "Are you going to the hill station right now?"
+- [15:23–19:30] **Present perfect tense** (aksi selesai yang terkait waktu sekarang).
+  - Untuk *how long*: "How long have you been at work?" / "I have been at work for 6 hours."
+  - Pekerjaan yang baru selesai: "He has just cooked the meal."
+  - Periode waktu yang belum selesai: "She has drunk 2 cups of tea today."
+  - Momen waktu tertentu: "We have lived in this house since 2015."
+  - Rumus: have/has + V3 (has untuk he/she/it). Bentuk V3: drink - drank - drunk; cook - cooked; live - lived; be - been.
+  - Signal words: for, since, yet, still, already, ever, just, till now.
+  - Contoh: "Julia has made a sponge cake." ; "He has gone to the hill station." ; "I have made a sponge cake." ; "You have gone to the hill station." ; tanya: "Has Julia made a sponge cake?" ; "Have you gone to the hill station?"; negatif: not di antara has/have dan V3.
+- [19:30–24:34] **Present perfect continuous (progressive)** = aksi yang dimulai di masa lalu dan masih berlanjut sekarang; menekankan durasi.
+  - "I have been learning French since I went to school."
+  - Mengungkapkan marah atau kesal: "Why have you been disturbing me?"
+  - Time expressions: for, how long, since. Contoh: "He has been watching TV for 2 hours." ; "He has been smoking since 2015." ; "He has been playing football for 2 hours." ; "The child has been studying since morning." ; "I have been playing my favorite game." ; "They have been working in this office since last year."
+  - Negatif: "Julia hasn't been making a sponge cake." ; "He has not been planning for 3 hours." ; "They haven't been studying since morning." ; "I haven't been traveling."
+  - Tanya: has/have di depan subjek: "Has she ...?" ; "Have they ...?" ; "Has the farmer ...?" ; "Has he ...?"
+- [24:34–26:36] **Rumus ringkas** (subjek + ...).
+  - Simple: S + V1 (V1+s/es untuk he/she/it).
+  - Continuous: S + am/is/are + V-ing (I am; he/she/it is; you/we/they are).
+  - Perfect: S + have/has + V3.
+  - Perfect continuous: S + have/has + been + V-ing (perfect memberi *have/has* + V3, yaitu *been*; continuous memberi V-ing).
+
+**Poin penting untuk ujian:**
+- Empat bentuk present tense dan rumusnya: V1 / is-am-are + V-ing / have-has + V3 / have-has + been + V-ing.
+- Simple present untuk fakta, kebiasaan, jadwal, instruksi, dan setelah when/if; negatif dengan do/does not + V1; he/she/it memakai -s atau does.
+- Present continuous untuk aksi sekarang dan rencana dekat; signal words now, at the moment, next week.
+- Present perfect memakai V3; signal words for, since, yet, already, just, ever.
+- Present perfect continuous menekankan durasi: for 2 hours, since 2015, how long.
+- Pembentukan negatif dan tanya tiap tense (not setelah auxiliary; auxiliary pindah ke depan untuk tanya).
+
+**Info dari dosen:** Tidak ada tugas/kuis/tenggat yang disebut. Di akhir dosen menyebut daftar referensi materi.
+
+## Transkrip lengkap
+
 **[00:01]** Welcome back to the video of the NKDU English In this video, grammar grammar is present tense This is what we hope to understand the structure of present tense and be able to apply the present tense and design Tenses is a part of the English language that is often removed by the English learners but tense tense is important to be studied because it has a goal to communicate with the conversation baik, yang pertama adalah expressing time and chronological order
 
 **[01:02]** mengekspresikan waktu dan kronologis aktivitas communicate events and action in relation to time jadi mengkomunikasikan events-events atau kejadian-kejadian dan aksi-aksi dalam hubungannya dengan waktu contohnya, menggunakan simple past tense she studied itu menunjukkan bahwa aksi tersebut terjadi occurred terjadi dan sudah selesai di waktu yang telah lalu jadi sekarang sudah tidak terjadi lagi while the present continuous tense sedangkan present continuous tense he is playing mengindikasikan bahwa aksi tersebut terjadi sedang terjadi di saat ini and then conveying relationships and conditions menjelaskan hubungan antar aksi

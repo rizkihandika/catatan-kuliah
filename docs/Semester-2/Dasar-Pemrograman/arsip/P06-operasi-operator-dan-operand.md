@@ -16,4 +16,4 @@
 - **Jenis**: Kuis · post_id `9353791`
 - **Oleh**: Dr.  Tri Wahyu Widyaningsih, S.Kom., MMSI · dibuat 2026-11-24 11:13
 - **Tenggat**: 2026-12-01 12:00:00
-- **Kuis**: 5 soal · durasi 25 menit · acak soal: ya · bisa ulang: tidak · status pengerjaanku: belum · grade Edlink 0
+- **Kuis**: 5 soal · durasi 25 menit · acak soal: ya · bisa ulang: tidak · status pengerjaanku: sudah dijawab semua · grade Edlink 80

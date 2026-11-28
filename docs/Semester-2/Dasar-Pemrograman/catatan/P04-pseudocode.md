@@ -21,6 +21,7 @@ Pseudocode ("kode semu") adalah deskripsi informal tingkat tinggi dari algoritma
 | 5 | **Independen** bahasa | jangan pakai sintaks bahasa tertentu (`cout`, `;`, `{}`) |
 
 Contoh aturan 1 (gaji):
+
 | Uraian | Pseudocode |
 |--------|-----------|
 | Read name, hours worked, rate of pay | `GET name` · `GET hoursWorked` · `GET payRate` |

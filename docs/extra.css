@@ -59,3 +59,15 @@
   .md-footer__title { font-size: .8rem; }
   .md-typeset .admonition, .md-typeset details { font-size: .8rem; }
 }
+
+/* Lencana sisa waktu di tabel tenggat & jadwal hari ini (diisi extra.js) */
+.dl-badge { display: inline-block; margin-left: .45em; padding: 0 .5em; border-radius: 1em; font-size: .68rem;
+  font-weight: 700; white-space: nowrap; vertical-align: middle; background: var(--md-default-fg-color--lightest); }
+tr.dl-urgent { background: rgba(255, 23, 68, .10); }
+tr.dl-urgent .dl-badge { background: #d50000; color: #fff; }
+tr.dl-week .dl-badge { background: #ff9100; color: #000; }
+tr.dl-over { opacity: .5; }
+tr.dl-over td:first-child { text-decoration: line-through; }
+tr.today { background: var(--md-accent-fg-color--transparent); font-weight: 600; }
+tr.today .dl-badge { background: var(--md-accent-fg-color); color: #000; }
+.md-typeset div.countdown.uts { border-left-color: var(--md-primary-fg-color); }

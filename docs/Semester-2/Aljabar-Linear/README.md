@@ -58,5 +58,12 @@ Sumber: RPS di `materi/`.
 - Video pembelajaran matriks (YouTube): https://www.youtube.com/watch?v=ugiKvOfwFcg&list=PLvOuFZ_J_esiq9tPCHs__rsCa7nM9SRoI&index=3
 - Video Interaktif: Sesi 4 Jenis Matriks, Sesi 5 Transformasi Elementer (tonton di Edlink).
 
+## Arsip Edlink (lengkap, dicek di browser 2026-11-28)
+- [Indeks arsip](arsip/README.md) — semua post per pertemuan (instruksi, tenggat, lampiran), tanpa komentar
+- Teks materi *(ada di Edlink)* — isi PDF/PPT/DOCX dalam markdown
+- [Transkrip video](arsip/transkrip/README.md) — 5 video, tiap file berisi **Ringkasan detail** + transkrip lengkap
+- ⚠️ Video di Materi Sesi 3 (post 9060300) ternyata video **ICT Literacy Sesi 3** (YouTube ugiKvOfwFcg) — salah lampiran di LMS; materi Aljabar sesi 3 ada di PPT ALE 3.
+- Vicon Pendahuluan, Vektor, dan Matriks (sesi 1–3) tidak punya rekaman di Edlink.
+
 ## Referensi
 -

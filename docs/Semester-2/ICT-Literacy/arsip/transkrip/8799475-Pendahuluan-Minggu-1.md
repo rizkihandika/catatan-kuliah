@@ -5,6 +5,32 @@
 - **Durasi**: 10:28 · bahasa terdeteksi: id
 - Transkrip otomatis (faster-whisper large-v3-turbo) — mungkin ada salah dengar istilah.
 
+## Ringkasan detail
+
+Video pendahuluan Minggu 1 ICT Literasi: dosen memperkenalkan struktur perkuliahan (RPS, bobot penilaian, sistem absensi, tugas berbasis output), lalu masuk ke materi pertama yaitu Revolusi Industri 1.0 sampai 4.0.
+
+- **[00:00–01:01] Pembukaan & komponen belajar.** Satu semester berisi RPS, video pembelajaran, PowerPoint, modul, link pendukung, dan assessment (tugas dan kuis). Deskripsi matkul: konsep literasi informasi dan keterampilan memanfaatkan informasi pada abad 21, untuk mendukung capaian profesional di dunia kerja.
+- **[01:01–02:04] Video conference (vikon) & absensi.** Vikon diadakan 4 kali dalam satu semester; ini layanan wajib dosen yang terjadwal, **tidak wajib diikuti mahasiswa**, tetapi mahasiswa wajib menyimak dokumentasinya di LMS. Absensi berbasis *record activities*: mahasiswa reguler wajib mengerjakan kuis mingguan sebagai syarat absensi; untuk mahasiswa yang bekerja, aktivitas yang dihitung adalah diskusi/forum dan menyimak *learning material* (pembagian kelompoknya kurang jelas di transkrip, perlu dicek ulang di RPS).
+- **[02:04–03:13] RPS.** MKU untuk semua program studi, 2 SKS, 16 minggu. UTS pada pertemuan ke-8, UAS pada minggu ke-16. Tugas 1 diberikan minggu ke-6, Tugas 2 minggu ke-14. Komponen penilaian: Tugas 1 = 15%, UTS = 30%, Tugas 2 = 15%, UAS = 30%, sikap dan perilaku = 10%.
+- **[03:13–05:20] Pembelajaran berbasis output.** Dalam satu semester mahasiswa wajib menghasilkan satu output (paper/makalah atau karya inovatif/kreatif), boleh mandiri atau kelompok, lalu dipresentasikan; UTS/UAS adalah "minggu konversi ujian" dan nilainya berasal dari presentasi hasil. Timeline: Tugas 1 = proposal rencana kegiatan proyek; UTS = hasil sementara dengan progres 40%; Tugas 2 = kelanjutan dengan progres 60%; UAS = hasil akhir dan presentasi (100%).
+- **[04:15–06:20] Contoh output (4 pilihan):** (1) merancang software sederhana, mis. kalkulator; (2) membuat paper/makalah terpublikasi tentang ICT literasi dalam kehidupan sehari-hari; (3) mengadakan pelatihan ICT literasi untuk warga sekitar, mis. webinar video editing atau pelatihan pemrograman dasar; (4) membuat artikel tentang ICT literasi, mis. fenomena Revolusi Industri 1.0 sampai 4.0.
+- **[06:20–09:31] Materi: Revolusi Industri 1.0–4.0** (awal abad 18 sampai abad 21; tiap tahap membawa perubahan teknologi).
+  - **Industri 1.0** (sekitar 1750-an): perubahan besar di pertanian, manufaktur, pertambangan, transportasi, dan teknologi; dimulai dari mesin bertenaga air dan uap untuk membantu pekerja.
+  - **Industri 2.0** (sekitar 1913): proses otomatis/lini perakitan (contoh perakitan mobil dari awal sampai akhir); pekerja terorganisir menjadi tenaga spesialis per stasiun kerja (pemasangan kaki/roda, ban, dst.).
+  - **Industri 3.0**: tenaga manusia mulai digantikan; mesin dapat "berpikir" otomatis, yaitu komputer dan robot mulai digunakan.
+  - **Industri 4.0**: revolusi yang sangat konkret, antara lain kendaraan dan peralatan industri otonom, pelabuhan dengan sistem penggerak katrol dan pengatur lalu lintas kontainer, sistem kemudi dan navigasi cerdas pada mobil, robot gudang yang memilih barang dan mengantar ke pintu distribusi, serta 3D printer (model digital di komputer dicetak dengan bahan bervariasi seperti plastik dan logam).
+
+**Poin penting untuk ujian:**
+- Bobot nilai: Tugas 1 15%, UTS 30%, Tugas 2 15%, UAS 30%, sikap/perilaku 10%.
+- MKU 2 SKS, 16 minggu; UTS minggu ke-8, UAS minggu ke-16.
+- Progres output: proposal (Tugas 1) → 40% (UTS) → 60% (Tugas 2) → 100% (UAS).
+- Vikon 4 kali, tidak wajib hadir tetapi dokumentasi wajib disimak; absensi berbasis aktivitas di LMS (kuis mingguan, diskusi).
+- Ciri tiap revolusi industri: 1.0 mesin uap/air; 2.0 lini perakitan/produksi massal; 3.0 komputer dan robot/otomasi; 4.0 kendaraan otonom, robot cerdas, 3D printing.
+
+**Info dari dosen:** Tugas 1 (proposal proyek output) diberikan minggu ke-6 dan Tugas 2 minggu ke-14 (menurut RPS); output boleh mandiri atau kelompok; pilih salah satu dari 4 jenis output yang disebutkan.
+
+## Transkrip lengkap
+
 **[00:00]** Assalamualaikum warahmatullahi wabarakatuh, selamat datang di mata kuliah ICT Literasi untuk program studi informatika dengan dosen Ciaramadona Hasoltin, Eskom-Emkom, untuk sesi kali ini tentang pembahasan mengenai RPS dan pendahuluan serta materi. Oke, di sini ada learning materialnya dalam satu semester itu, terdiri dari RPS atau RPP, lalu akan diberikan video pembelajaran, lalu ada powerpoint, serta modul link support dan assessment. Nah, assessment ini bersifat tugas dan kuis. Nah, di sini untuk deskripsi mata kuliahnya, tentang berkaitan dengan konsep-konsep literasi informasi dan keterampilan dalam pemanfaatan informasi pada abad 21.
 
 **[01:01]** Jadi, intinya dalam satu semester ini kita belajar tentang konsep ICT Literasi untuk mendukung capaian profesional di dunia kerja. Oke, selanjutnya, dalam satu semester ada video conference yang akan diadakan dalam 4 kali dalam seminggu dengan jumlah total VKON adalah 4 kali. Nah, VKON ini merupakan layanan wajib dosen yang terjadwal, tidak wajib diikuti oleh mahasiswa, lalu mahasiswa diwajibkan menyimak dokumentasinya di LMS. Nah, lalu untuk sistem absensi untuk mata kuliahnya, based on record activities, seperti mahasiswa yang full time week, nah di sini, yang warna biru itu wajib mengerjakan kuis mingguan. Nah, di sini, sebagai persyaratan absensinya setelah hadir.

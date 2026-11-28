@@ -13,6 +13,7 @@ Tanggal: 2026-11-11 · Sumber: [`Sesi 4 Pemrograman Visual.pdf`](../materi/Sesi%
     ' kode prosedur
 End Sub
 ```
+
 | Jenis | Ciri | Cara dibuat/dipanggil |
 |-------|------|-----------------------|
 | **Prosedur objek** | milik control & event-nya (mis. `btnSimpan_Click`) | double-click control → kerangka otomatis |

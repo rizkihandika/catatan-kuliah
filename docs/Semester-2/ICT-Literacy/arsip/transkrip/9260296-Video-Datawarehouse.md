@@ -5,6 +5,46 @@
 - **Durasi**: 23:43 · bahasa terdeteksi: id
 - Transkrip otomatis (faster-whisper large-v3-turbo) — mungkin ada salah dengar istilah.
 
+## Ringkasan detail
+
+Sesi 5 ICT Literasi membahas *data warehouse* dan *business intelligence* (BI): konsep dan karakteristik data warehouse, komponen dan alur ETL (ODS, staging, data mart), pemodelan multidimensi (star schema), komponen BI (data integration tool, OLAP, reporting tool, dashboard), serta contoh pemanfaatan di ritel (Walmart, Amazon) dan kepolisian. Bagian akhir transkrip berisi pengulangan dan ucapan penutup berulang ("terima kasih" berkali-kali), kemungkinan artefak Whisper.
+
+- **[00:00–03:05] Konsep data warehouse.** Menurut **Inmon**, data warehouse adalah koleksi data dengan empat karakteristik untuk mendukung pengambilan keputusan manajemen:
+  - *Subject-oriented*: data diorganisasi per subjek (mis. pelanggan, penjualan, produk); tiap organisasi memilih subjeknya.
+  - *Integrated*: data dari berbagai sumber diekstrak, ditransformasi, dan diintegrasikan.
+  - *Time-variant*: menyajikan data historis yang berubah menurut waktu.
+  - *Non-volatile*: data tidak berubah setiap saat (berbeda dari database operasional).
+  - Komponen (dari kiri ke kanan): *data source* (operational system, ERP, CRM, flat file) → layer **ODS** dan **staging** → **data warehouse** (dekomposisi: *raw data*, *metadata*, *summary data*) → **data mart** → output untuk user berupa analitik, laporan (mis. laporan penjualan), dan *data mining*.
+- **[04:09–07:22] ETL, ODS, staging.** Sumber data: database transaksional, ERP, dan flat file (mis. `.csv`, statis). Data diproses lewat **ETL** (*extract, transform, load*; di transkrip "extract transform plot") menuju *operational data store* dan *data staging*.
+  - **ODS**: database terpusat yang menggabungkan data dalam format aslinya; bila di-*refresh* real-time datanya dinamis sehingga pelaporan bisnis selalu ter-update; sebagai saluran antara sistem operasional dan analitik; berguna menganalisis data transaksi masuk dengan cepat.
+  - **Data warehouse**: repositori data yang sudah dibersihkan (*cleaning*) dan dikonsolidasi; diperbarui dalam mode *batch* sesuai jadwal; diolah dengan *query* (SQL).
+  - **Staging**: area sementara tempat aturan bisnis kompleks diterapkan (cleaning sampai *delta loading*); data harus melewati staging sebelum masuk ke warehouse.
+  - **Data mart** (di transkrip "data mars/marks"): bagian dari data warehouse yang dikategorikan menurut fungsi bisnis (mis. finance, human resource).
+  - Proses analitik menghasilkan pelaporan dan konsep *data mining*.
+- **[07:22–10:26] Pemodelan multidimensi dan star schema.** Data warehouse berisi data multidimensi (mis. dimensi waktu, wilayah, produk). **Model bintang (*star schema*)** terdiri dari dua jenis tabel: **tabel fakta** di tengah dan **tabel dimensi** yang mengelilinginya. Contoh di slide: tabel produk (kolom product name dan brand), tabel order date (date, amount, quarter, year), tabel salesperson, dan tabel customer, semuanya berelasi dengan tabel fakta; skema ini adalah sistem informasi penjualan (ada kata order dan customer).
+- **[10:26–12:30] Business intelligence.** Istilah BI dipopulerkan tahun **1989** oleh **Howard Dresner** dari Gartner Group (di transkrip "Dressner"). BI = konsep dan metode untuk meningkatkan kualitas keputusan bisnis; *intelligence* = kemampuan belajar, memahami, dan mengatasi situasi baru; definisi lain: konsep, metode, dan proses yang tidak hanya meningkatkan kualitas keputusan tetapi juga mendukung realisasi strategi organisasi. Tugas utama BI: eksplorasi, integrasi, agregasi, dan analisis multidimensi dari berbagai sumber data. **Komponen BI:** data integration tool, data warehouse, online analytic tool (OLAP), reporting tool, dan dashboard.
+- **[12:30–16:37] Komponen BI secara rinci.**
+  - *Data integration tool*: proses **ETL** (extract, transform, load) untuk memastikan konsistensi data sebelum masuk warehouse (juga dipakai dalam staging). Dosen menganjurkan menginstal software integrasi data untuk dicoba.
+  - **OLAP** (di transkrip "OLEP"): tool untuk memanipulasi data multidimensi; jenis manipulasi: *slicing*, *dicing*, *drill up*, *drill down*, dan *pivoting*. Demo memakai **Pentaho BI** dengan data penjualan per pasar/negara tahun 2003 sampai 2005 untuk melihat tren naik atau turun (slicing per negara).
+  - *Reporting tool*: menyajikan hasil analisis sebagai laporan sesuai kebutuhan dan rekomendasi.
+  - **Dashboard**: *presentation layer* aplikasi (antarmuka), bersifat interaktif sehingga semua lapisan pengguna dapat memakai BI; demo Pentaho dengan filter (mis. executive management), grafik, data real-time (aktual headcount, budget, varian).
+- **[16:37–22:02] Pemanfaatan data warehouse dan BI.**
+  - **Ritel**: memberi pengalaman belanja baik di toko maupun online serta mengumpulkan insight dari data. *Walmart* (apotek terintegrasi): manajemen rantai pasokan, optimasi ragam produk, kinerja pembayaran tidak lagi manual. *Amazon*: sistem rekomendasi (algoritma data mining, mis. rekomendasi e-book, pembelian satu klik dengan pengisian otomatis pengiriman dan pembayaran), prediksi jumlah pembelian, optimasi rantai pasokan (terhubung ke produsen untuk melacak inventaris).
+  - **Kepolisian (*predictive policing*)**: memakai data kejahatan masa lalu dan statistik lanjutan untuk memprediksi kejahatan masa depan; pola dilihat dari hari, bulan, area, faktor ekonomi. Teknik: *predictive analytics* (waktu, lokasi, cuaca, kondisi), *data mining* (menemukan pola tersembunyi), *tactical analysis* (membuat model dan memecahkan kejahatan), *behavioral analysis*. Dashboard kejahatan: studi pola kriminal, karakteristik kejahatan, grafik faktor, pantau tren, dan temukan *hotspot* (data spasial/peta).
+
+**Poin penting untuk ujian:**
+- Empat karakteristik data warehouse menurut Inmon: subject-oriented, integrated, time-variant, non-volatile.
+- Alur: data source → ETL → ODS/staging → data warehouse → data mart → analitik/laporan/data mining.
+- Perbedaan ODS (data terkini, real-time, saluran sistem operasional ke analitik) dan data warehouse (repositori data bersih, update batch terjadwal).
+- Star schema: tabel fakta di pusat dikelilingi tabel dimensi.
+- BI dipopulerkan Howard Dresner (Gartner Group, 1989); komponen: data integration tool (ETL), data warehouse, OLAP, reporting tool, dashboard.
+- Operasi OLAP: slicing, dicing, drill up, drill down, pivoting.
+- Contoh penerapan: Walmart, Amazon (recommendation system), kepolisian (predictive policing).
+
+**Info dari dosen:** Tidak ada tugas, kuis, atau tenggat yang disebut; dosen menyarankan mencoba menginstal software data integration (mis. Pentaho) secara mandiri.
+
+## Transkrip lengkap
+
 **[00:00]** Halo rekan-rekan mahasiswa, kembali lagi di mata kuliah ICT Literasi di sesi kelima tentang bisnis intelijen dan data warehouse. Oke, di sini ada outline perkuliahannya yaitu konsep data warehouse, lalu ada konsep bisnis intelijen, lalu pemanfaatan data warehouse dan bisnis intelijennya. Nah, di sini terkait konsep data warehouse, menurut Inmon, data warehouse merupakan sebuah koleksi data yang memiliki karakteristik. Nah, karakteristik di sini merupakan subject-oriented, integrated, lalu time-variant, dan not volatile. Nah, ini untuk mendukung proses pengambilan keputusan oleh manajemen. Nah, di sini data warehouse itu ada istilahnya ada subject-oriented. Nah, di sini adalah data berdasarkan subject.
 
 **[01:03]** Nah, lalu sebagai contoh yaitu subject mengenai pelanggan, lalu pejualan dan produk. Jadi, di setiap organisasi itu harus dipilih subject di setiap masing-masingnya. Nah, misalnya untuk di sistem informasi, sistem informasi penjualan, nah itu diperlukan subject yaitu pelanggan, penjualan produk. Nah, selanjutnya ada integrated, yaitu data dari berbagai sumber diekstrak, lalu ditransformasi dan diintegrasikan ke dalam data warehouse. Nah, selanjutnya ada time-variant, yaitu data yang disajikan, berupa data historis yang berubah sesuai waktunya. Selanjutnya ada non-volatile, yaitu data tidak mengalami perubahan setiap saat. Seperti pada perubahan database operasional. Nah, di sini kita lihat ada komponen data warehouse, ya.

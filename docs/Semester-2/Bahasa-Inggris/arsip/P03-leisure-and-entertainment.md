@@ -2,7 +2,7 @@
 
 - **Kelas**: Bahasa Inggris
 - **Jadwal**: 2026-11-03 17:00:00 – 18:40 WIB
-- **Progres Edlink**: Selesai · dibaca 3/4
+- **Progres Edlink**: Selesai · dibaca 4/4
 - session_id `34737223`
 
 ### Materi - Sesi #3 (1)

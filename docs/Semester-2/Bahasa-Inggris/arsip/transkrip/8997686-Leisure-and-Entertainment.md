@@ -5,6 +5,54 @@
 - **Durasi**: 23:58 · bahasa terdeteksi: en
 - Transkrip otomatis (faster-whisper large-v3-turbo) — mungkin ada salah dengar istilah.
 
+## Ringkasan detail
+
+Video ini (sekitar 23 menit) membahas topik *leisure and entertainment*. Tujuan: menguasai kosa kata hobi dan aktivitas waktu luang, serta mampu mengomunikasikan kegiatan waktu luang dengan struktur kalimat yang tepat. Materi mencakup kategori leisure activities, kosa kata olahraga bola (equipment, tempat, orang, menang/kalah), tabel olahraga lain, genre film dan kata-kata kritikus film, ekspresi untuk bercerita tentang film/serial, serta cara menanyakan dan menjawab tentang hobi dengan *like / love / enjoy*.
+
+- [00:02–02:10] **Leisure** = waktu ketika kita tidak sedang kuliah, bekerja, tidur, atau menjalankan kewajiban; waktu untuk hal yang menyenangkan. Lima kategori leisure activities:
+  - *creative leisure*: painting, drawing, photography, writing
+  - *active leisure*: walking, yoga, dancing, hiking
+  - *passive leisure*: watching TV or movies, listening to music, meditation, googling topics to learn about
+  - *social leisure*: calling a friend or family member, writing a letter, texting a friend or stranger, joining a religious community agenda, joining a book club
+  - *cognitive leisure*: reading, puzzles, sudoku, board games
+- [02:10–05:25] **Ball games**: football, table tennis, basketball, tennis, volleyball, rugby, golf, baseball.
+  - *Equipment*: boots / training shoes (informal: *trainers*), *racket* (tennis), *bat* (baseball, table tennis), *stick* (hockey), *clubs* (golf).
+  - *net* di tengah *court* (tennis, volleyball) dan di sekitar *goal* (football).
+  - Hal yang dilakukan dengan bola: *throw it* (melempar), *head it* (menyundul), *pass it* (mengoper), *hit it* (memukul), *catch it* (menangkap), *kick it* (menendang).
+- [05:25–06:29] Tempat dan orang. *pitch* (rugby, football), *court* (tennis, volleyball, basketball), *course* (golf). *Stadium* = seluruh area lapangan ditambah *bleachers* (tribun beratap terbuka dengan tempat duduk miring).
+- [06:29–08:33] Orang dan hasil pertandingan. *referee* (football, rugby) dan *umpire* (baseball, tennis) = wasit; *spectators* atau *the crowd* = penonton. Menang/kalah: *beat* (mengalahkan), *score* (skor; juga kata kerja, mis. *score a goal*), *draw* (seri), *lead* (memimpin), *win / won* dan *winner*, *lose / lost* dan *loser*. Contoh kalimat: "At half time, Brazil are leading Chile 2-1." (dosen menyebut "Brazil are leading Chile to one"). Kolokasi: *latest score*.
+- [08:33–10:35] Tabel **sports, place, equipment**:
+  - athletics: *track*; vest, shorts, running shoes
+  - motor racing: *circuit*; crash helmet
+  - swimming: *pool*; swimming costume (wanita), trunks (pria)
+  - boxing: *ring*; vest, shorts, gloves, boots
+  - ice hockey: *rink* (di transkrip tertulis "ring with K", maksudnya rink); sticks, skates, *puck* (bola/piringan hoki es)
+  - skiing: *ski slopes*; skis, sticks, ski suit, ski boots
+- [10:35–12:53] **Film genres**: *animated/cartoon* (film berupa gambar, bukan orang sungguhan), *horror* (vampir, monster, hantu), *comedy* (lucu), *sci-fi / science fiction* (kehidupan masa depan, robot, perjalanan luar angkasa), *musical* (banyak nyanyian dan tarian), *romance* (kisah cinta), *action* (situasi berbahaya dan menegangkan), *historical* (peristiwa masa lalu), *documentary* (non-fiksi yang menangkap kenyataan), *thriller* (menarik dan menegangkan, biasanya tentang kejahatan).
+- [12:53–15:05] **Critics and reviews**: *critics* = orang yang menilai film; *review* = artikel hasil penilaian itu. Kata yang sering dipakai: *brilliant acting / super acting*, *very moving* (berdampak besar pada emosi, sering sedih), *violent scenes* (adegan perkelahian dan sejenisnya), *awful / dreadful film*, *a slow film* (membosankan), *a gripping story* (menarik, seru), *good fun* (menyenangkan tapi tidak serius), *a complex plot* (alur dengan banyak ide).
+- [15:05–18:12] **Ekspresi untuk membicarakan film/serial**: *enthralling* (memikat sepenuhnya), *cliffhanger* (cerita seru karena akhirnya belum pasti sampai terjadi; contoh: "Many of Hitchcock's films are real cliffhangers."), *binge watch* (menonton banyak episode berturut-turut), *at the edge of one's seat* (tetap tertarik dan tegang karena tidak tahu apa yang terjadi), *a lighthearted show* (acara yang ringan dan tidak serius). Contoh lengkap: "She binge watched Korean drama till dawn. She said every episode was such a cliffhanger that she was at the edge of her seat."
+- [18:12–19:14] **Menanyakan hobi**: "What do you like to do?" ; "What are your hobbies?" ; "What do you do at weekends?" (di transkrip tertulis "what things do you get up at weekends", kemungkinan salah dengar).
+- [19:14–20:23] **Menjawab**: "In my free time, I like to watch movies." ; "In my spare time, I enjoy hiking." ; "My hobbies include ..." ; "When I have free time, I ..." ; "As a way to relax, I ...".
+- [20:23–22:34] **Like / love / enjoy**.
+  - *like* + gerund (V-ing): "I like going to the mall on Saturdays." ; "We like cooking with organic ingredients."
+  - *like* + to infinitive: "He likes to play soccer with his friends." ; "I like to drive while listening to the radio."
+  - *love* + gerund: "I love traveling." ; "I love dancing with my friends at concerts." *love* + to infinitive: "I love to read murder mysteries." ; "I love to sleep in late."
+  - *enjoy* + noun: "We enjoyed the movie." ; "I enjoy sunsets." *enjoy* + gerund: "I enjoy watching horror movies." ; "They enjoy traveling by plane." (tidak diikuti to infinitive).
+- [22:34–akhir] **Dialog Adam dan Bella** tentang hobi: Bella enjoys cooking and baking, dan saat cuaca bagus suka *go horse riding*; Adam suka *go into the mountains and do a little hiking*; John *regularly goes to the beach to do some surfing*; di musim panas Bella suka *go fishing and camping*, di musim dingin pergi ke pegunungan karena *real passion is skiing*. Ditutup pertanyaan untuk mahasiswa: "What do you like to do in your spare time?"
+
+**Poin penting untuk ujian:**
+- Lima kategori leisure: creative, active, passive, social, cognitive, beserta contoh aktivitasnya.
+- Equipment/tempat olahraga: racket (tennis), bat (baseball, table tennis), stick (hockey), clubs (golf); pitch (football, rugby), court (tennis, volleyball, basketball), course (golf).
+- Referee untuk football dan rugby, umpire untuk baseball dan tennis.
+- Kosa kata menang/kalah: beat, score, draw, lead, win/won, lose/lost.
+- Genre film dan kata kritikus: brilliant acting, very moving, gripping story, slow film, complex plot.
+- Pola: like / love + V-ing atau to infinitive; enjoy + noun atau V-ing.
+- Ekspresi: binge watch, cliffhanger, at the edge of one's seat, lighthearted.
+
+**Info dari dosen:** Tidak ada tugas/kuis/tenggat yang disebut. Di akhir dosen mengajak mahasiswa menjawab sendiri "What do you like to do in your spare time?"
+
+## Transkrip lengkap
+
 **[00:02]** Welcome back to the video of the English learning. In this session, I will explain the topic of leisure and entertainment, which is the topic of the session of the session of the session. The goal of the session of the session is that the students would expect to achieve two things, yaitu yang pertama, menguasai kosa kata terkait hobi dan aktivitas di waktu luang. Yang kedua, mampu mengkomunikasikan kegiatan di waktu luang dengan struktur kalimat yang tepat. Ok, now let's get down to our business. Leisure atau waktu luang. It is the time when you are not in class, working, sleeping, or doing your duty.
 
 **[01:05]** It is also the time when you can do fun things. You may be working on your hobbies, participating in sports, going to the movies, attending concert. So basically, leisure is the time when you can do things which entertain you. We have some leisure activities. Di sini, kami membagi leisure activities menjadi 5 kategori. We have creative leisure, active leisure, passive leisure, social leisure, and cognitive leisure. Ok, for creative leisure, ada painting, drawing, photography, and writing. Active leisure, we have walking, yoga, dancing, and hiking. For passive leisure, we have watching TV or movie, listening to music, meditation, and google topics to learn about.

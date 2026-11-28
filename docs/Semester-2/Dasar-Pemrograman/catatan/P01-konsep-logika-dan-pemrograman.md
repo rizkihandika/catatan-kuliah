@@ -35,6 +35,7 @@ Dasar Pemrograman membangun logika pemrograman dan pemecahan masalah sederhana, 
 
 ### 5. Contoh: menyelesaikan ax + b = c (slide 19–20)
 **Analisis**: output = x; input = a, b, c; proses:
+
 | Kondisi | Hasil |
 |---------|-------|
 | a = 0 dan c − b = 0 | x **tak berhingga** (semua x memenuhi) |

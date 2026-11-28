@@ -2,7 +2,7 @@
 
 - **Kelas**: Bahasa Inggris
 - **Jadwal**: 2026-10-27 17:00:00 – 18:40 WIB
-- **Progres Edlink**: Selesai · dibaca 1/3
+- **Progres Edlink**: Selesai · dibaca 3/3
 - session_id `34737222`
 
 ### Video Work & Responsibility

@@ -36,6 +36,7 @@ Contoh penelusuran (hal. 4): `a=5; b=2; a=a+1; hasil=a-b;` → `hasil = 6 - 2 = 
 | Kondisional | `kondisi ? h1 : h2` | `7==5 ? 4 : 3` → `3`; `5>3 ? a : b` → `a` |
 
 Tabel kebenaran:
+
 | A | B | A && B | A \|\| B |
 |---|---|--------|---------|
 | F | F | F | F |
@@ -45,6 +46,7 @@ Tabel kebenaran:
 
 ### 4. Tipe data dasar (angka versi slide)
 **Bilangan bulat** (hal. 11)
+
 | Tipe | Byte | Jangkauan |
 |------|------|-----------|
 | `short` | 1 | −128 … 127 |
@@ -56,6 +58,7 @@ Tabel kebenaran:
 `unsigned` = hanya nilai positif (jangkauan positifnya jadi dua kali lipat).
 
 **Bilangan pecahan / floating point** (hal. 13)
+
 | Tipe | Byte | Jangkauan | Digit presisi |
 |------|------|-----------|---------------|
 | `float` | 4 | 3.4E−38 … 3.4E+38 | 5–7 |

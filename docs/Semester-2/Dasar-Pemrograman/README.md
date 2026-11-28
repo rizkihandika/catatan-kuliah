@@ -62,5 +62,11 @@ Sumber: RPS di `materi/`.
 - Kuis Sesi 5 tenggat 2026-11-26 12:00 (belum dikerjakan).
 - Video rekaman di `materi/`: `Dasar Pemrograman - Sesi 5.mp4`, `video1165835247.mp4`, `video1193849624.mp4` (pertemuan sebelumnya).
 
+## Arsip Edlink (lengkap, dicek di browser 2026-11-28)
+- [Indeks arsip](arsip/README.md) — semua post per pertemuan (instruksi, tenggat, lampiran), tanpa komentar
+- Teks materi *(ada di Edlink)* — isi PDF/PPT/DOCX dalam markdown
+- [Transkrip video](arsip/transkrip/README.md) — 4 video, tiap file berisi **Ringkasan detail** + transkrip lengkap
+- [Pengumuman linimasa](arsip/pengumuman.md)
+
 ## Referensi
 -

@@ -1,5 +1,11 @@
 # Deadline
 
+!!! tip "Masukkan ke kalender HP"
+    Semua tenggat di halaman ini juga ada sebagai kalender: **[deadline.ics](deadline.ics)** (pengingat H-1 dan 3 jam sebelum).
+    Supaya ikut ter-update, *subscribe* lewat URL (jangan impor sekali): Google Calendar di web →
+    **Setelan → Tambahkan kalender → Dari URL** → tempel `https://rizkihandika.github.io/catatan-kuliah/deadline.ics`.
+
+
 Urutkan dari yang paling dekat. Pindahkan ke bagian **Selesai** setelah dikumpulkan.
 Sumber: Edlink "Perlu Dikerjakan" (sync 2026-11-27).
 

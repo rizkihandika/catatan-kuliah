@@ -8,10 +8,10 @@ class_id `2331069` · diarsipkan oleh `tools/edlink-archive/archive.py` · komen
 |---|---|---|---|---|
 | [01](P01-pendahuluan.md) | 2026-10-21 | Pendahuluan | Video konferensi, Materi, Materi, Video interaktif, Kuis | 4 |
 | [02](P02-peran-tik-di-masyarakat.md) | 2026-10-28 | Peran TIK di Masyarakat | Materi, Materi, Materi, Video interaktif, Kuis | 3 |
-| [03](P03-peran-tik-di-berbagai-sektor.md) | 2026-11-04 | Peran TIK di berbagai sektor | Materi, Video konferensi, Materi, Materi, Materi, Video interaktif, Kuis | 5 |
+| [03](P03-peran-tik-di-berbagai-sektor.md) | 2026-11-04 | Peran TIK di berbagai sektor | Materi, Materi, Video konferensi, Materi, Materi, Video interaktif, Kuis | 5 |
 | [04](P04-database-dan-ict-literacy.md) | 2026-11-11 | Database dan ICT Literacy | Materi, Video interaktif, Kuis | 3 |
 | [05](P05-datawarehouse-dan-bisnis-intelligent.md) | 2026-11-18 | Datawarehouse dan Bisnis Intelligent | Materi, Materi, Video konferensi, Materi, Kuis | 3 |
-| [06](P06-internet-dan-www.md) | 2026-11-25 | Internet dan www | Materi, Materi, Materi, Tugas, Video interaktif | 4 |
+| [06](P06-internet-dan-www.md) | 2026-11-25 | Internet dan www | Tugas, Materi, Materi, Materi, Video interaktif, Kuis | 4 |
 
 ## Linimasa
 

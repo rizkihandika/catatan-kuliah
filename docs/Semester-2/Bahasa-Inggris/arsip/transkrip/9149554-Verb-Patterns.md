@@ -5,6 +5,45 @@
 - **Durasi**: 14:09 · bahasa terdeteksi: en
 - Transkrip otomatis (faster-whisper large-v3-turbo) — mungkin ada salah dengar istilah.
 
+## Ringkasan detail
+
+Video sesi 4 (14:09) ini membahas *verb patterns*, yaitu pola-pola kalimat bahasa Inggris berdasarkan apa yang mengikuti kata kerja. Tujuan pembelajaran: menguasai pola kalimat bahasa Inggris, dan mampu berkomunikasi lisan maupun tulisan dengan pola yang tepat. Dosen menjelaskan lima pola: verb + object, verb + object + question word, verb + object + to infinitive, verb + that clause, dan verb + object + preposition. Di tiap pola ada contoh kalimat dan catatan tentang objek yang boleh/tidak boleh dihilangkan.
+
+- [00:05–02:13] Pola 1: **verb + object**.
+  - Rumus: S + V + O.
+  - Contoh: "They discussed the film for hours." (verb *discuss*, object *the film*); "Did she answer the question?" (verb *answer*, object *the question*).
+- [02:13–04:14] Pola 2: **verb + object + question word**.
+  - Rumus: S + V + (O) + question word (+ to infinitive / clause).
+  - Contoh: "I told them where to find it." ; "She asked (us) why we were late." ; "He showed everyone what to do."
+  - Object dalam kurung, mis. *us*, boleh dihilangkan jika sudah jelas.
+  - Common mistake: tidak ada direct object setelah *explain*. Salah: "He explained me what to do." Benar: "He explained what to do." / "He explained the lesson." / "He explained the material."
+- [04:14–07:20] Pola 3: **verb + object + to infinitive** (to infinitive = *to* + kata kerja bentuk pertama).
+  - Contoh: "She asked everyone to leave." ; "They told us to wait outside." ; "The doctor advised him to stay in bed." ; "I wanted the others to help us." ; "He persuaded me to go to the party." ; "She warned them to be careful."
+  - Dipakai untuk meminta, menyuruh, memperingatkan, menyarankan, atau membujuk orang lain melakukan sesuatu. Tanpa *to leave*, kalimat "She asked everyone" tidak lengkap maknanya.
+- [07:20–09:23] Pola 4: **verb + that clause**.
+  - Contoh: "She said that it was good." ; "He suggested that we go together." ; "She mentioned that the film was tonight."
+  - *that* (konjungsi, "bahwa") boleh dihilangkan: "She said it was good." ; "He suggested we go together." ; "She mentioned the film was tonight."
+  - Setelah *that* selalu ada subject + verb baru (*it was good*, *we go*, *the film was tonight*).
+- [09:23–13:26] Pola 5: **verb + object + preposition** (verb dengan preposisi tertentu).
+  - Contoh: "I asked the taxi driver for directions to the hotel." (*ask somebody for*); "They blamed me for the accident." (*blame somebody for*); "So they said I was responsible for it. It was my fault."; "She complained (to the manager) about the service."; "The manager apologized for the noise outside the restaurant."
+  - Pada *ask ... for* dan *blame ... for*, object wajib ada; pada *complain (to ...) about* object boleh ada boleh tidak; *apologize for* tidak memakai object orang.
+  - Preposisi harus sesuai dengan kata kerjanya; jika diganti, makna bisa berubah. Ini akan dibahas lagi di materi *phrasal verb* dan idiom.
+- [13:26–14:09] Penutup: setiap pola punya subject dan verb, dan pola ini bisa dipakai dalam situasi lisan maupun tulisan.
+
+**Vocabulary penting:** *discuss* (mendiskusikan), *answer* (menjawab), *explain* (menjelaskan), *advise* (menyarankan), *persuade* (membujuk), *warn* (memperingatkan), *suggest* (menyarankan), *mention* (menyebutkan), *blame* (menyalahkan), *complain* (mengeluh), *apologize* (minta maaf), *responsible* (bertanggung jawab), *fault* (kesalahan), *noise* (keributan), *directions* (petunjuk arah).
+
+**Poin penting untuk ujian:**
+- Lima pola: V + O; V + O + question word; V + O + to infinitive; V + that clause; V + O + preposition.
+- *Explain* tidak diikuti object orang: "He explained what to do", bukan "He explained me what to do".
+- Pola V + O + to infinitive dipakai dengan ask, tell, advise, want, persuade, warn.
+- *That* pada V + that clause boleh dihilangkan, tetapi setelahnya harus ada subject + verb.
+- Verb + preposition harus tepat: ask ... for, blame ... for, complain about, apologize for.
+- Object dalam kurung boleh dihilangkan; object tanpa kurung wajib ada.
+
+**Info dari dosen:** Tidak ada tugas/kuis/tenggat yang disebut. Dosen menyebut bahwa verb + preposition akan dibahas lebih lanjut pada materi phrasal verb.
+
+## Transkrip lengkap
+
 **[00:05]** Hello, welcome back to another English lesson video Kali ini kita memasuki video pembelajaran sesi 4 Dimana pada sesi 4 ini kita akan membahas verb patterns Tujuan pembelajaran materi ini Pembelajar diharapkan mampu Pertama, menguasai dan memahami pola kalimat bahasa Inggris Yang kedua, mampu berkomunikasi secara lisan dan tertulis Menggunakan pola kalimat yang tepat Ini adalah pola kalimat bahasa Inggris yang paling sederhana Jadi dalam bahasa Inggris ada beberapa pola-pola kalimat Untuk seorang mengekspresikan sesuatu Menjelaskan satu informasi kepada orang lain Untuk pola yang paling sederhana adalah verb dan object
 
 **[01:07]** Oke, kita punya contoh kalimatnya disini Ada subjek, verb, dan object Nah, pola disini adalah verb plus object Mereka mendiskusikan film tersebut selama berjam-jam Ada verb discuss, lalu ada object, the film Kalimat kedua, did she answer the question? Pada kalimat kedua ini, contoh kalimatnya dalam bentuk kalimat tanya Disini ada subjek, she, lalu kata kerjanya, verbnya adalah answer And then the object is the question Did she answer the question? Ada kata kerja, ada object Pola kedua, ada verb, object plus question word Kalimat pertama, I told them where to find it

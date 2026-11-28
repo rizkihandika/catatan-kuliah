@@ -11,6 +11,7 @@ class_id `2332222` · diarsipkan oleh `tools/edlink-archive/archive.py` · komen
 | [03](P03-leisure-and-entertainment.md) | 2026-11-03 | Leisure and Entertainment | Materi, Materi, Kuis, Video konferensi | 4 |
 | [04](P04-tanpa-topik.md) | 2026-11-10 | - | Materi, Materi, Materi | 5 |
 | [05](P05-tanpa-topik.md) | 2026-11-17 | - | Materi, Materi, Materi, Materi | 5 |
+| [06](P06-tanpa-topik.md) | 2026-11-24 | - | Materi, Materi | 4 |
 
 [rps.md](rps.md)
 
@@ -19,7 +20,9 @@ class_id `2332222` · diarsipkan oleh `tools/edlink-archive/archive.py` · komen
 - youtube: Introduction — https://www.youtube.com/watch?v=I_tRSrPru94
 - youtube: Work & Responsibility — https://www.youtube.com/watch?v=yd8tUj-QWPg
 - youtube: Leisure and Entertainment — https://www.youtube.com/watch?v=Ls1JYyzuQkQ
-- youtube: Verb Patterns — https://www.youtube.com/watch?v=k1_RJ7IXft0
 - youtube: Health — https://www.youtube.com/watch?v=wIn76dYq06k
+- youtube: Verb Patterns — https://www.youtube.com/watch?v=k1_RJ7IXft0
 - youtube: Environment — https://www.youtube.com/watch?v=atpAQf-obB4
 - youtube: Present Tense — https://www.youtube.com/watch?v=DP5gvlIZjS0
+- youtube: Past Tense — https://www.youtube.com/watch?v=uJGwbGj7too
+- youtube: Travel and Tourism — https://www.youtube.com/watch?v=G9CZr4uOKpM

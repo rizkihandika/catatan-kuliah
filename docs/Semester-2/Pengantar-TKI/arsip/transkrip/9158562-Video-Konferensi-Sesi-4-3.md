@@ -5,6 +5,38 @@
 - **Durasi**: 28:34 · bahasa terdeteksi: id
 - Transkrip otomatis (faster-whisper large-v3-turbo) — mungkin ada salah dengar istilah.
 
+## Ringkasan detail
+
+Rekaman video konferensi (Zoom) Sesi 4 Pengantar TKI, bertema data dan informasi. Dosen (seorang ibu dosen) menjelaskan definisi data dan informasi menurut beberapa ahli, perbedaan keduanya lewat contoh, lalu menguji dua mahasiswa (Maulana dan Nadila) dengan contoh soal. Di awal ada urusan administrasi grup WhatsApp kelas.
+
+- **[00:26–03:34] Administrasi kelas.** Ini Zoom kedua dari total tujuh kali yang wajib dosen adakan untuk PTKI (kelas Informatika). Grup WhatsApp matkul belum ada sehingga dosen meminta Maulana dan Nadila membantu membuatkan; selama ini info Zoom disampaikan lewat LMS (peserta kelas 45 orang, notifikasi LMS ada). Kehadiran Zoom tidak wajib bagi mahasiswa, tidak masuk absensi, dan tidak memengaruhi nilai karena banyak mahasiswa bekerja.
+- **[03:34–04:36] Tujuan sesi 4:** mampu menjelaskan pengertian data dan informasi serta perbedaannya.
+- **[04:36–06:42] Definisi data.** Fakta mentah atau rincian peristiwa yang belum diolah dan terkadang belum dapat diterima akal penerima; bisa berupa angka, simbol, karakter, suara, gambar, atau tanda. Dalam ilmu komputer: segala sesuatu yang disimpan di memori menurut format tertentu. Menurut para ahli: Robert N. Anthony dan John Dearden (data adalah bentuk jamak dari *datum*/data item); Jogiyanto (kenyataan yang menggambarkan kejadian dan kesatuan nyata); Slamet Riyadi (kumpulan informasi hasil pengamatan berupa angka atau lambang); Arli Kuntung/pengarang lain (semua fakta dan angka yang bisa jadi bahan menyusun informasi). Nama ahli di transkrip hasil salah dengar, sehingga ejaan di sini perkiraan.
+- **[06:42–07:46] Contoh data:** karyawan Z hanya masuk 15 hari dalam sebulan; jumlah kecelakaan di jalan raya tahun 2026; "Persija menang".
+- **[06:42–08:46] Definisi informasi.** Hasil pengolahan data yang sudah dapat diterima akal penerima dan dapat dipakai mengambil keputusan; bisa berupa gabungan, analisis, penyimpulan, atau hasil sistem informasi komputerisasi. Menurut Anton M. Moeliono: penerangan, keterangan, pemberitahuan, kabar, atau berita; juga bahan nyata sebagai dasar kajian, analisis, atau kesimpulan. Menurut Tata Sutabri (di transkrip "Tioner H. Sugiyan"): konsep universal bermuatan besar yang terekam pada media. Menurut Gordon B. Davis: data yang diolah menjadi bentuk penting bagi penerima, bernilai nyata untuk keputusan sekarang atau mendatang. Menurut Kusrini: data yang diolah menjadi bentuk berarti, bermanfaat untuk pengambilan keputusan.
+- **[08:46–11:50] Contoh informasi (dari data yang sama):** karyawan Z tidak masuk 15 hari karena mengantar orang tuanya yang sakit keluar-masuk rumah sakit; kecelakaan di jalan tol/raya pukul 13.00 dengan 4 korban jiwa satu keluarga meninggal di tempat; pertandingan Liga Indonesia Persija vs Persib pukul 16.30 berakhir 3-2 untuk Persija.
+- **[11:50–14:53] Tiga perbedaan data dan informasi:** (1) data tidak bisa dipakai mengambil keputusan, informasi bisa; (2) data terkadang tidak bisa diterima akal penerima (hanya angka tanpa konteks), informasi bisa diterima dan berguna; (3) data bersifat mentah, lebih detail, dan teknis, sedangkan informasi adalah penjelasan siap pakai. Contoh: penjualan 100 piece itu data; penjualan bulan lalu 100 piece dan bulan ini 200 piece itu informasi, sehingga manajemen memutuskan menyiapkan stok sekitar 300 piece bulan depan.
+- **[14:53–19:04] Kuis lisan 1: "jumlah mahasiswa UNSIA 10 ribu" data atau informasi?** Maulana menjawab informasi, tetapi jawaban benar adalah **data** karena hanya angka tanpa rincian untuk memutuskan. Menjadi informasi jika diolah, misalnya angkatan 2023 sebanyak 2000, 2024 sebanyak 3000, 2025 sebanyak 5000, laki-laki 4000 dan perempuan 6000; dari situ manajemen bisa memutuskan menambah dosen (mis. 100 menjadi 200) atau meningkatkan promosi di wilayah yang mahasiswanya sedikit.
+- **[19:04–20:04] Nadila:** "penjualan hari ini 50 ribu piece" = data (hanya angka); dosen membenarkan.
+- **[20:04–24:07] Contoh informasi dari mahasiswa:** suhu udara Jakarta bulan November dari data harian disimpulkan suhu tertinggi 38 derajat pada tanggal 8; penggunaan internet di Indonesia dari persentase streaming video, media sosial, dan game disimpulkan paling banyak untuk streaming video (nonton drama Korea). Sedangkan "pengguna internet Indonesia 100 juta" hanya data karena hanya jumlah.
+- **[25:09–27:09] Pengumuman tugas** (lihat Info dari dosen), lalu penutupan; Zoom berikutnya diinformasikan lewat LMS.
+
+**Poin penting untuk ujian:**
+- Data = fakta mentah (angka, simbol, karakter, suara, gambar) yang belum diolah; informasi = hasil olahan data yang bermakna dan dapat dipakai mengambil keputusan.
+- Tiga perbedaan: bisa/tidaknya dipakai untuk keputusan, bisa/tidaknya diterima akal penerima, dan sifat mentah/teknis vs siap pakai.
+- Angka tunggal tanpa konteks (jumlah mahasiswa 10 ribu, penjualan 50 ribu piece, pengguna internet 100 juta) = data.
+- Data yang dirinci/diolah (per angkatan, jenis kelamin, tren penjualan bulanan) = informasi.
+- Definisi data dan informasi menurut ahli (Davis: data diolah menjadi bentuk penting bagi penerima untuk keputusan sekarang atau mendatang; Kusrini).
+- Dalam ilmu komputer, data = segala sesuatu yang disimpan di memori menurut format tertentu.
+
+**Info dari dosen:**
+- Ada kuis di LMS dengan tenggat Selasa pukul 12.00 siang (dosen menyebut tanggal 17; tanggal pastinya perlu dicek di LMS).
+- Ada video interaktif bertema data dan informasi: ada satu soal kuis di tengah video, seputar isi video; tenggat sama (sampai tanggal 17).
+- Zoom wajib diadakan dosen minimal 7 kali; 4 kali sebelum UTS dan sisanya setelah UTS. Jadwal Zoom diumumkan lewat LMS. Kehadiran Zoom tidak wajib dan tidak masuk absensi.
+- Dosen meminta dibuatkan grup WhatsApp untuk matkul PTKI (kelas IF).
+
+## Transkrip lengkap
+
 **[00:26]** Halo, apakah terdengar suara saya? Terdengar, Bu. Oke, screen saya juga terlihat ya. Kita hari ini zoom kedua ya. Untuk PT KI harus nge-zoom tujuh kali. Nah, ini yang baru kedua. Untuk malam ini sesi keempat. Kebetulan sesi keempat itu tentang data dan informasi. Di zoom sebelumnya, waktu itu kita belum ada WAG ya. Belum terbentuk. Bisa minta dibantu. Maulana atau Nadila. Mungkin bisa minta dibantu untuk dibuatkan grup WAG. Untuk matangkulah PT KI.
 
 **[01:31]** Apa namanya? Kelas IF ya. Kelas Informatika. Dosennya Buwan Narsih. Mohon dibuatkan. Karena saya belum ada WAG-nya. Dari empat kelas. yang saya ampuh di semester ini. Untuk PT KI belum ada WAG-nya. Jadi, saya kalau mau informasikan terkait zoom atau yang lainnya. harus di LMS gitu ya. Nanti minta dibantu ya. Maulana dan Nadila ya. Ibu izin konfirmasi. Sudah ada Ibu. Sudah ada. Sudah ada. Saya udah masuk belum? Sepertinya belum. Nanti minta tolong di ad yang nomor saya. Minta tolong Nadila. Sebentar, sebentar. Saya cek dulu di grup. Takutnya saya udah masuk. Tapi saya nggak. Sebentar, sebentar. PT KI ya.

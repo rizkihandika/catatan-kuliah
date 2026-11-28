@@ -65,5 +65,10 @@ Sumber: RPS di `materi/`.
 - Pola tiap sesi: Materi (modul PDF + PPT) rilis ±H-3, Kuis dibuka hari kuliah. Belum ada vicon.
 - Kuis Sesi 5 (Looping) sudah selesai.
 
+## Arsip Edlink (lengkap, dicek di browser 2026-11-28)
+- [Indeks arsip](arsip/README.md) — semua post per pertemuan (instruksi, tenggat, lampiran), tanpa komentar
+- Teks materi *(ada di Edlink)* — isi PDF/PPT/DOCX dalam markdown
+- Tidak ada video/rekaman di Edlink sampai sesi 6.
+
 ## Referensi
 -

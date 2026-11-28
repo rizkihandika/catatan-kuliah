@@ -2,7 +2,7 @@
 
 - **Kelas**: Pemrograman Visual
 - **Jadwal**: 2026-10-28 15:00:00 – 16:40 WIB
-- **Progres Edlink**: Terjadwal · dibaca 1/2
+- **Progres Edlink**: Terjadwal · dibaca 2/2
 - session_id `34703549`
 
 ### Building UI

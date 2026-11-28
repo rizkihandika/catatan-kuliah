@@ -11,7 +11,7 @@ class_id `2330547` · diarsipkan oleh `tools/edlink-archive/archive.py` · komen
 | [03](P03-konsep-ekonomi-digital.md) | 2026-11-05 | KONSEP EKONOMI DIGITAL | Materi, Tugas, Kuis | 3 |
 | [04](P04-data-dan-informasi.md) | 2026-11-12 | DATA DAN INFORMASI | Materi, Video interaktif, Video konferensi, Kuis | 4 |
 | [05](P05-jenis-data-konversi-data-dan-sistem-bilangan.md) | 2026-11-19 | Jenis Data, Konversi Data Dan Sistem Bilangan | Materi, Kuis, Video konferensi | 3 |
-| [06](P06-manajemen-data.md) | 2026-11-26 | Manajemen Data | Materi | 3 |
+| [06](P06-manajemen-data.md) | 2026-11-26 | Manajemen Data | Materi, Kuis | 3 |
 
 [rps.md](rps.md)
 

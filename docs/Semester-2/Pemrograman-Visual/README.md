@@ -61,5 +61,10 @@ Mahasiswa mampu mencetak output program
 - Materi pakai Visual Studio / VB.NET (Control, Event Handling, Dialogs: MessageBox, InputBox, validasi input).
 - Gagal diunduh (404 di server): `Pemograman Visual4.pptx`, `RPS Pemrograman Visual.docx`, `Pertemuan 1 Part 1/2- RPS Pemograman Visual.pptx` → buka langsung di Edlink kalau perlu.
 
+## Arsip Edlink (lengkap, dicek di browser 2026-11-28)
+- [Indeks arsip](arsip/README.md) — semua post per pertemuan (instruksi, tenggat, lampiran), tanpa komentar
+- Teks materi *(ada di Edlink)* — isi PDF/PPT/DOCX dalam markdown
+- Belum ada video/rekaman; sesi 6 masih kosong di Edlink (dicek 2026-11-28).
+
 ## Referensi
 -

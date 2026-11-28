@@ -2,26 +2,8 @@
 
 - **Kelas**: ICT Literacy
 - **Jadwal**: 2026-11-04 13:00:00 – 14:40 WIB
-- **Progres Edlink**: Selesai · dibaca 5/7
+- **Progres Edlink**: Selesai · dibaca 7/7
 - session_id `34712416`
-
-### Materi Sesi III
-- **Jenis**: Materi · post_id `9041104`
-- **Oleh**: Dr. Fauziah, S.Kom, MMSI · dibuat 2026-11-04 04:17
-
-**Isi / instruksi:**
-
-> Teknologi Informasi dan Komunikasi (TIK) telah digunakan dalam berbagai sektor kehidupan untuk mendukung aktivitas manusia agar lebih efektif dan efisien. Dalam sektor pendidikan, TIK dimanfaatkan melalui pembelajaran daring, kelas virtual, dan perpustakaan digital. Pada sektor kesehatan, TIK mendukung telemedicine, rekam medis elektronik, serta layanan konsultasi kesehatan secara online.
-> Di sektor pemerintahan, TIK digunakan untuk menyediakan layanan administrasi digital dan meningkatkan transparansi pelayanan publik. Dalam bidang bisnis dan perdagangan, teknologi mendukung e-commerce, pembayaran digital, serta pengelolaan inventori. Sementara itu, sektor pertanian memanfaatkan sensor dan sistem pemantauan tanaman, sedangkan sektor industri menggunakan otomatisasi dan Internet of Things (IoT) untuk meningkatkan produktivitas.
-> TIK juga berperan dalam sektor transportasi melalui GPS dan aplikasi transportasi online, serta dalam bidang komunikasi melalui email, video conference, dan aplikasi pesan instan. Dengan demikian, penerapan TIK telah menjadi bagian penting dalam transformasi digital di berbagai sektor, sehingga masyarakat perlu memiliki literasi TIK agar mampu memanfaatkan teknologi secara efektif, aman, dan bertanggung jawab.
-
-**Lampiran:**
-- 📎 Modul ICT Literacy_03_Penerapan TIK di Berbagai Sektor.pdf (175 KB) → [`Modul ICT Literacy_03_Penerapan TIK di Berbagai Sektor.pdf`](../materi/Modul%20ICT%20Literacy_03_Penerapan%20TIK%20di%20Berbagai%20Sektor.pdf)
-
-### VCON SEsi 3
-- **Jenis**: Video konferensi · post_id `9058061`
-- **Oleh**: Dr. Fauziah, S.Kom, MMSI · dibuat 2026-11-04 19:24
-- **Vicon**: ZOOM · jadwal - · status ended · mulai 2026-11-04 19:24 selesai 2026-11-04 19:55
 
 ### Video Pembelajaran Sesi III
 - **Jenis**: Materi · post_id `9041117`
@@ -47,6 +29,24 @@
 
 **Lampiran:**
 - 📎 Analisis ICT di berbagai Sektor.pdf (2818 KB) → [`Analisis ICT di berbagai Sektor.pdf`](../materi/Analisis%20ICT%20di%20berbagai%20Sektor.pdf)
+
+### VCON SEsi 3
+- **Jenis**: Video konferensi · post_id `9058061`
+- **Oleh**: Dr. Fauziah, S.Kom, MMSI · dibuat 2026-11-04 19:24
+- **Vicon**: ZOOM · jadwal - · status ended · mulai 2026-11-04 19:24 selesai 2026-11-04 19:55
+
+### Materi Sesi III
+- **Jenis**: Materi · post_id `9041104`
+- **Oleh**: Dr. Fauziah, S.Kom, MMSI · dibuat 2026-11-04 04:17
+
+**Isi / instruksi:**
+
+> Teknologi Informasi dan Komunikasi (TIK) telah digunakan dalam berbagai sektor kehidupan untuk mendukung aktivitas manusia agar lebih efektif dan efisien. Dalam sektor pendidikan, TIK dimanfaatkan melalui pembelajaran daring, kelas virtual, dan perpustakaan digital. Pada sektor kesehatan, TIK mendukung telemedicine, rekam medis elektronik, serta layanan konsultasi kesehatan secara online.
+> Di sektor pemerintahan, TIK digunakan untuk menyediakan layanan administrasi digital dan meningkatkan transparansi pelayanan publik. Dalam bidang bisnis dan perdagangan, teknologi mendukung e-commerce, pembayaran digital, serta pengelolaan inventori. Sementara itu, sektor pertanian memanfaatkan sensor dan sistem pemantauan tanaman, sedangkan sektor industri menggunakan otomatisasi dan Internet of Things (IoT) untuk meningkatkan produktivitas.
+> TIK juga berperan dalam sektor transportasi melalui GPS dan aplikasi transportasi online, serta dalam bidang komunikasi melalui email, video conference, dan aplikasi pesan instan. Dengan demikian, penerapan TIK telah menjadi bagian penting dalam transformasi digital di berbagai sektor, sehingga masyarakat perlu memiliki literasi TIK agar mampu memanfaatkan teknologi secara efektif, aman, dan bertanggung jawab.
+
+**Lampiran:**
+- 📎 Modul ICT Literacy_03_Penerapan TIK di Berbagai Sektor.pdf (175 KB) → [`Modul ICT Literacy_03_Penerapan TIK di Berbagai Sektor.pdf`](../materi/Modul%20ICT%20Literacy_03_Penerapan%20TIK%20di%20Berbagai%20Sektor.pdf)
 
 ### Video Pembelajaran Sesi 4
 - **Jenis**: Materi · post_id `9150440`

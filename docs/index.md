@@ -6,7 +6,7 @@ hide:
 
 # Catatan Kuliah IF102
 
-Informatika PJJ · UNSIA · diperbarui 2026-11-27 10:59 WIB
+Informatika PJJ · UNSIA · diperbarui 2026-11-28 09:09 WIB
 
 !!! danger "URGENT — Tugas ICT Literacy: Makalah Implementasi ICT Literacy di Bidang Pekerjaan"
     <span class="countdown" data-deadline="2026-11-30T10:19:30+07:00"><span class="countdown-left"></span></span> &nbsp; [:material-arrow-right-bold: Buka semua info tugas ini](URGENT.md){ .md-button .md-button--primary }
@@ -31,6 +31,12 @@ Informatika PJJ · UNSIA · diperbarui 2026-11-27 10:59 WIB
 
     Jadwal mingguan & pola vicon.
 
+-   :material-calendar-sync:{ .lg .middle } __[Kalender tenggat](deadline.ics)__
+
+    ---
+
+    Subscribe di Google Calendar / HP, ikut ter-update. [Cara pasang](deadline.md).
+
 </div>
 
 ## :material-alarm-light: Tenggat aktif
@@ -43,6 +49,23 @@ Informatika PJJ · UNSIA · diperbarui 2026-11-27 10:59 WIB
 | 2026-12-01 10:00 | Pengantar Teknologi Komunikasi dan Informatika | Kuis | Kuis - Sesi #6 (1) — 5 soal, 30 menit. Deskripsi dosen bilang Selasa 12.00, tapi sistem menutup **10:00** (pakai yang lebih awal) | belum |
 | 2026-12-01 12:00 | Dasar Pemrograman | Kuis | Kuis - Sesi #6 (1) | belum |
 | (tanpa batas) | ICT Literacy | Kuis | Quiz Sesi 6 (post 9398493, terbit 2026-11-27) | belum |
+
+<div class="countdown uts" data-deadline="2026-12-08T17:00:00+07:00" markdown>
+**Perkiraan UTS mulai 2026-12-08** (dari RPS, belum resmi) · <span class="countdown-left"></span>
+</div>
+
+## :material-chart-box-outline: Progres catatan
+
+| Mata kuliah | Catatan | Ringkasan | Kisi-kisi | Latihan soal | Tugas | File materi |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|
+| [Algoritma dan Pemrograman](Semester-2/Algoritma-dan-Pemrograman/README.md) | 6 (s/d P06) | :material-check: | :material-check: | — | — | 11 |
+| [Aljabar Linear](Semester-2/Aljabar-Linear/README.md) | 6 (s/d P06) | :material-check: | :material-check: | — | 1 | 8 |
+| [Arsitektur dan Organisasi Komputer](Semester-2/Arsitektur-dan-Organisasi-Komputer/README.md) | 6 (s/d P06) | :material-check: | :material-check: | — | — | 7 |
+| [Bahasa Inggris](Semester-2/Bahasa-Inggris/README.md) | 6 (s/d P06) | :material-check: | :material-check: | — | — | 14 |
+| [Dasar Pemrograman](Semester-2/Dasar-Pemrograman/README.md) | 6 (s/d P06) | :material-check: | :material-check: | — | — | 7 |
+| [ICT Literacy](Semester-2/ICT-Literacy/README.md) | 6 (s/d P06) | :material-check: | :material-check: | — | 1 | 11 |
+| [Pemrograman Visual](Semester-2/Pemrograman-Visual/README.md) | 5 (s/d P05) | :material-check: | :material-check: | — | — | 10 |
+| [Pengantar TKI](Semester-2/Pengantar-TKI/README.md) | 6 (s/d P06) | :material-check: | :material-check: | — | — | 16 |
 
 ## :material-bookshelf: Mata kuliah
 

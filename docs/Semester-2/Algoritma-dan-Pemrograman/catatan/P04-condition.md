@@ -74,6 +74,7 @@ string hasil = (nilai >= 60) ? "LULUS" : "TIDAK LULUS";
 ```cpp
 if ((tahun % 4 == 0 && tahun % 100 != 0) || tahun % 400 == 0)
 ```
+
 | tahun | %4==0 | %100!=0 | AND | %400==0 | hasil |
 |-------|-------|---------|-----|---------|-------|
 | 2024 | B | B | B | S | kabisat |

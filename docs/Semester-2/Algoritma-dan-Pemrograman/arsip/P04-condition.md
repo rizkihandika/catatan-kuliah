@@ -2,7 +2,7 @@
 
 - **Kelas**: Algoritma dan Pemrograman
 - **Jadwal**: 2026-11-12 13:00:00 – 14:40 WIB
-- **Progres Edlink**: Selesai · dibaca 1/2
+- **Progres Edlink**: Selesai · dibaca 2/2
 - session_id `34703583`
 
 ### Materi - Sesi #4 (1)

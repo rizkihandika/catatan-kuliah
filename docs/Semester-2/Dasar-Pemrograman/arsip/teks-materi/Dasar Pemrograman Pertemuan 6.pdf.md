@@ -113,6 +113,7 @@ Contoh
 And
 Hasil operasi And
 a & b
+
 |
 Or
 Hasil operasi Or
@@ -271,6 +272,7 @@ TRUE jika operan NOT TRUE
 And
 TRUE jika kedua operan TRUE 
 a && b
+
 ||
 Or
 TRUE jika salah satu operan 

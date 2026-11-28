@@ -5,6 +5,34 @@
 - **Durasi**: 26:47 · bahasa terdeteksi: id
 - Transkrip otomatis (faster-whisper large-v3-turbo) — mungkin ada salah dengar istilah.
 
+## Ringkasan detail
+
+Rekaman Zoom Sesi 5 Pengantar TKI tentang jenis data, konversi data, dan sistem bilangan. Dosen menjelaskan pengelompokan data dari berbagai sudut (sifat nilai, sumber, cara memperoleh, waktu pengumpulan, sifat kualitatif/kuantitatif), tipe data primitif dalam pemrograman, empat sistem bilangan, lalu cara konversi desimal ke heksadesimal dengan latihan interaktif bersama mahasiswa.
+
+- **[00:01–01:05] Tujuan:** mahasiswa mampu menjelaskan jenis-jenis data, melakukan konversi data, dan menggunakan sistem bilangan.
+- **[01:05–02:07] Data menurut sifat nilainya.** **Data diskret**: nilainya bilangan asli/bulat, contoh berat badan, tinggi badan, umur, ukuran sepatu (menurut dosen). **Data kontinu**: nilainya berada pada suatu interval, dari satu nilai ke nilai lain, contoh pemakaian kata "sekitar", "kurang lebih", "kira-kira"; tidak bisa ditentukan angka pastinya.
+- **[02:07–03:10] Data menurut sumber.** **Internal**: dari dalam organisasi, menggambarkan keadaan organisasi (jumlah karyawan, modal, jumlah produksi bulan ini, kehadiran karyawan). **Eksternal**: dari luar organisasi, menggambarkan faktor yang mungkin memengaruhi kinerja (contoh daya beli masyarakat terhadap produk).
+- **[03:10–04:19] Data menurut cara memperoleh.** **Primer**: dikumpulkan sendiri secara langsung dari objek yang diteliti untuk kepentingan studi tersebut (interview, observasi, kuesioner, tanya-jawab). **Sekunder**: diperoleh/dikumpulkan dari studi sebelumnya atau diterbitkan instansi lain, sumber tidak langsung berupa dokumentasi dan arsip (contoh data yang diambil dari internet).
+- **[04:19–06:24] Data menurut waktu pengumpulan.** **Cross-section data**: dikumpulkan pada satu waktu tertentu (*at a point of time*) untuk menggambarkan keadaan pada waktu itu; contoh kuesioner yang disebar pada waktu tertentu, pendataan/survei penduduk dari rumah ke rumah yang diulang beberapa tahun sekali (di transkrip "cross-selection"). **Data berkala / time series**: dikumpulkan dari waktu ke waktu untuk melihat perkembangan; contoh perkembangan uang beredar, harga emas lima bulan terakhir, harga sembako.
+- **[06:24–07:29] Data menurut sifat.** **Kualitatif**: tidak berbentuk angka, contoh kuesioner suasana kerja, kualitas pelayanan rumah sakit (bagus, sangat bagus, kurang bagus), gaya kepemimpinan. **Kuantitatif**: berbentuk angka, contoh harga saham, pendapatan, jumlah karyawan, harga bahan pokok, gaji.
+- **[07:29–09:37] Tipe data primitif dalam pemrograman:** byte, short, int, long (angka bulat), char (karakter), float dan double (angka pecahan), boolean (true/false). Masing-masing punya jangkauan dan ukuran bit yang berbeda.
+- **[09:37–11:50] Empat sistem bilangan.** **Desimal** (basis 10): 0-9. **Biner** (basis 2): 0 dan 1. **Oktal** (basis 8): 0-7. **Heksadesimal** (basis 16): 0-9 dan huruf A, B, C, D, E, F (A=10, B=11, C=12, D=13, E=14, F=15). Contoh tabel: desimal 0 = biner 0000 = oktal 0 = heksa 0; desimal 1 = biner 0001 = oktal 1 = heksa 1; desimal 14 = biner 1110 = oktal 16 = heksa E.
+- **[11:50–14:57] Konversi desimal ke heksadesimal:** bagi bilangan desimal dengan 16, ambil sisa pembagian (sisa dibaca sebagai digit heksa; sisa 10 sampai 15 ditulis A sampai F). Contoh 1: 76 / 16 = 4 sisa 12, sehingga 76 (desimal) = 4C (heksa), karena 12 = C. Contoh 2: 32 / 16 = 2 sisa 0, sehingga 32 = 20 (heksa).
+- **[16:15–19:22] Latihan 1:** 100 desimal ke heksa. 100 / 16 = 6 sisa 4, hasil 64 (heksa). Mahasiswa menjawab benar setelah dipandu.
+- **[20:42–25:12] Latihan 2:** 79 desimal ke heksa. 79 / 16 = 4 sisa 15; dosen sempat salah menyebut E, lalu dikoreksi mahasiswa bahwa 15 = F, sehingga 79 = 4F (heksa).
+- **[25:12–26:14] Penutup:** dosen memastikan pemahaman dan menutup karena waktu Zoom hanya sekitar 40 menit.
+
+**Poin penting untuk ujian:**
+- Klasifikasi data: diskret vs kontinu, internal vs eksternal, primer vs sekunder, cross-section vs time series (berkala), kualitatif vs kuantitatif, beserta contohnya.
+- Tipe data primitif: byte, short, int, long, char, float, double, boolean.
+- Empat sistem bilangan dan digitnya: desimal (0-9), biner (0-1), oktal (0-7), heksadesimal (0-9 dan A-F).
+- Metode desimal ke heksa: bagi 16 berulang, sisa dibaca sebagai digit; 10=A, 11=B, 12=C, 13=D, 14=E, 15=F.
+- Hasil contoh: 76 = 4C, 32 = 20, 100 = 64, 79 = 4F; 14 desimal = 1110 biner = 16 oktal = E heksa.
+
+**Info dari dosen:** Tidak ada tugas atau tenggat baru. Dosen menyebut Zoom hanya sekitar 40 menit; Zoom berikutnya (disebut "sesi keempat" pada pertemuan sesi ketujuh) akan diinformasikan lewat LMS, dan minggu depan belajar lewat LMS dulu.
+
+## Transkrip lengkap
+
 **[00:01]** Apakah terdengar suara saya? Jelas Bu, terima kasih. Suaranya jelas. Halo? Apakah terdengar? Enggak ada suaranya. Suaranya jelas Ibu, terima kasih. Apakah terdengar? Oh, terdengar suara saya. Oke, terdengar Bu. Terima kasih Bu. Baik, terima kasih. Untuk sesi kelima, ini kita belajar jenis data konversi sistem bilangan.
 
 **[01:05]** Konversi data dan sistem bilangan. Tujuannya adalah nanti teman-teman bisa menjelaskan jenis-jenis data, melakukan konversi data, dan menggunakan sistem bilangan. Khusus data, berdasarkan sifat data itu ada data diskret, dan ada data kontinu. Data diskret itu adalah data yang nilainya merupakan bilangan asli. Contoh, berat badan, kemudian tinggi badan, kemudian umur, kemudian ukuran sepatu. Nah, itu adalah data diskret. Kemudian kalau data kontinu adalah data yang nilainya ada pada suatu interval tertentu,
